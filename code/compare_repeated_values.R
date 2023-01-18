@@ -85,7 +85,8 @@ link1 <- johnson %>%
   mutate(dist = (st_distance(geometry, geometry.1, by_element = T))*0.001) %>%
   st_drop_geometry(.) %>%
   arrange(dist) %>%
-  filter(ref == ref.1)
+  filter(ref == ref.1) %>%
+  mutate(mean_diff_repeat = (ch4_diff+ch4_diff.1)/2)
 
 compare_J_and_P_diff <- ggplot(link1, aes(x = ch4_diff.1, y = ch4_diff, fill = ref))+
   geom_point(color = "black", alpha = 1, size = 4, pch = 21)+
@@ -103,7 +104,9 @@ link2 <- johnson %>%
   mutate(dist = (st_distance(geometry, geometry.1, by_element = T))*0.001) %>%
   st_drop_geometry(.) %>%
   arrange(dist) %>%
-  filter(ref == ref.1)
+  filter(ref == ref.1) %>%
+  mutate(mean_diff_repeat = (ch4_diff+ch4_diff.1)/2,
+         mean_ebu_repeat = (ch4_ebu+ch4_ebu.1)/2)
 
 compare_J_and_R_diff <- link2 %>% select(ch4_diff, data_source, ch4_diff.1, data_source.1, ref) %>% 
   mutate(ch4_diff.1 = ifelse(ch4_diff.1 == 0, NA, ch4_diff.1)) %>%
@@ -138,7 +141,9 @@ link3 <- prairie %>%
   mutate(dist = (st_distance(geometry, geometry.1, by_element = T))*0.001) %>%
   st_drop_geometry(.) %>%
   arrange(dist) %>%
-  filter(ref == ref.1)
+  filter(ref == ref.1)%>%
+  mutate(mean_diff_repeat = (ch4_diff+ch4_diff.1)/2,
+         mean_ebu_repeat = (ch4_ebu+ch4_ebu.1)/2)
 
 compare_P_and_R_diff <- link3 %>% select(ch4_diff, data_source, ch4_diff.1, data_source.1, ref) %>% 
   mutate(ch4_diff.1 = ifelse(ch4_diff.1 == 0, NA, ch4_diff.1)) %>%
