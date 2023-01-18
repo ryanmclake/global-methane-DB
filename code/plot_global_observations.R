@@ -8,6 +8,7 @@ library(units)
 library(rnaturalearth)
 library(rnaturalearthdata)
 library(viridis)
+library(tidyverse)
 
 
 # Load in the dataset
