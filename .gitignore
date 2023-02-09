@@ -3,3 +3,4 @@
 .RData
 .Ruserdata
 data/glcp_countries/
+data/.DS_Store

@@ -139,7 +139,7 @@ glcp_glee_join <- do.call('rbind', lapply(split(glee_country, 1:nrow(glee_countr
             col.names = !file.exists("./data/organized_data_to_append/global_lake_res_DB_refs_WWF_GLCP.txt"))
 }
 
-no_cores <- detectCores() - 3
+no_cores <- detectCores() - 5
 cl <- makeCluster(no_cores, type="FORK")
 registerDoParallel(cl)
 foreach(x=countries) %dopar% glcp_bind_function(x)
