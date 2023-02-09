@@ -1,3 +1,6 @@
+library(sf)
+library(tidyverse)
+
 Dir.Base <- getwd()
 Dir.Data <- file.path(Dir.Base, "data")
 Dir.Shapes <- file.path(Dir.Data, "shapes")
@@ -14,7 +17,10 @@ EcoregionMask <- st_make_valid(EcoregionMask)
 EcoregionMask_hex <- st_make_valid(EcoregionMask)%>%
   st_transform("+proj=eqearth +wktext")
 
-d <- vroom::vroom("./data/organized_data_to_append/global_lake_res_DB.csv")%>%
+k <- d3 %>% ungroup(.) %>%
+  select(lon, lat)
+
+d <- d3 %>% ungroup(.) %>%
   st_as_sf(coords = c("lon", "lat"), crs = 4326) %>%
   st_transform("+proj=eqearth +wktext")
 
@@ -43,4 +49,8 @@ linked <- link %>%
     TRUE ~ NA_character_)) %>%
   select(-OBJECTID, -AREA, -PERIMETER, -ECO_NAME, -REALM, -geometry.1, -dist, -eco_code, -PER_area, -PER_area_1,
          -PER_area_2, -area_km2, -Shape_Area, -Shape_Leng, -G200_STAT, -GBL_STAT, -G200_REGIO, -G200_NUM, -G200_BIOME,
-         -ECO_SYM, -ECO_ID, -ECO_NUM, -BIOME)
+         -ECO_SYM, -ECO_ID, -ECO_NUM, -BIOME) %>%
+  bind_cols(., k) %>%
+  write_csv(., "./data/organized_data_to_append/global_lake_res_DB_with_WWF.csv")
+
+
