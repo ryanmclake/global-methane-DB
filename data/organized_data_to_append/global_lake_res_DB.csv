@@ -1144,384 +1144,384 @@ lat,lon,type,country,continent,ch4_diff,ch4_ebu,obs_year,months,num_months,effec
 -13.84,-48.3,reservoir,Brazil,South America,83.992,,2004,,12,298.6204745,,65,18.4,7.66,898.33,154,30.5,,Matvienko et al,,Prairie et al 2018
 -13.84,-48.3,reservoir,Brazil,South America,8.254,,2004,,3,298.6204745,,65,18.1,7.66,948,154,30.5,,Sikar et al 2005,,Prairie et al 2018
 49.57,6.59,reservoir,Germany,Europe,2.284,347.343,2011,,ice free,284.9174561,,52.5,,,0.38,11,,,Maeck et al 2013,,Prairie et al 2018
-49.03,-117.5,reservoir,Canada,,44.386,,2002,,7,285.0376185,,49.5,40.2,8.44,4,80,24.2,,Tremblay et al 2005,,Prairie et al 2018
-50.12,-96.02,reservoir,Canada,,,,2002,,7,284.2189874,,34.9,34.7,5.35,21,22,16,,Tremblay et al 2005,,Prairie et al 2018
-40.72,-122.42,reservoir,United States of America,,6.228,,2001,,9,291.9316692,,84.1,24,2.08,77,158,75.3,,Soumis et al 2004,,Prairie et al 2018
-52.94,23.76,reservoir,Poland,,,75.853,2009,,12,284.2586455,,39.3,,65.7,31.10400101,10,2.5,,Trojanowska & Kurasiewicz 2009,,Prairie et al 2018
-64.5,20.7,reservoir,Sweden,,,,2000,,8,281.5106625,,30.5,,,16.98496784,,,,Bergstrom et al 2004,,Prairie et al 2018
-63.99,18.43,reservoir,Sweden,,,,2001,,ice free,280.9589151,,26.1,24.6,28.65,27,20,6.5,,Aberg et al 2004,,Prairie et al 2018
-50.23,-95.57,reservoir,Canada,,41.627,,2002,,7,284.2101555,,34.9,,,7,25,,,Tremblay et al 2005,,Prairie et al 2018
-49.4,22.45,reservoir,Poland,,,,2009,,ice free,283.6912479,,39.5,15.3,8.48,16.1,60,22,,Gruca-Rokosz et al 2010,,Prairie et al 2018
-46.57,8.33,reservoir,Switzerland,,0.268,,2005,,7,279.0075876,,29.7,8.4,5.03,3,100,37.1,,Diem et al 2008,,Prairie et al 2018
-49.23,-122.36,reservoir,Canada,,,,2002,,7,284.6927042,,62.2,12.3,100,44,26,0.3,,Tremblay et al 2005,,Prairie et al 2018
-51.47,20,reservoir,Poland,,,45.916,2009,,12,284.89598,,39.7,,49.46,17.1,11,3.5,,Trojanowska & Kurasiewicz 2009,,Prairie et al 2018
-33.68,-111.16,reservoir,United States of America,,,,2003,,4,296.4082726,,62.5,,9.68,86.98,109,23.4,,Therrien et al 2005,,Prairie et al 2018
-8.4,77.25,reservoir,India,,3.847,122.633,2011,,3,300.4821372,,59,,,0.199399668,,,,Panneer Selvam et al 2014,,Prairie et al 2018
-30.83,111,reservoir,China,,0.948,,2009,,12,294.7520172,,40.9,82.1,2.51,1084,170,70,,Chen et al 2011,,Prairie et al 2018
-30.83,111,reservoir,China,,3.288,,2010,,12,294.7520172,,40.9,82.1,2.51,1084,170,70,,Zhao et al 2013,,Prairie et al 2018
-30.83,111,reservoir,China,,3.74,,2010,,12,294.7520172,,40.9,89.8,4.72,830.8447898,175,46.1,,Xiao et 2013,,Prairie et al 2018
-46.04,-91.24,reservoir,United States of America,,6.212,,1995,,ice free,284.3827958,,35.8,8.1,61.82,3,9,2.7,,St-Louis et al 2000,,Prairie et al 2018
-46.1,-91.51,reservoir,United States of America,,3.356,,1995,,ice free,284.700645,,41.4,11.5,53.17,25,7.3,3,,St-Louis et al 2000,,Prairie et al 2018
--18.21,-45.27,reservoir,Brazil,,,,2005,,12,296.6139858,,63.3,28.5,7.28,781.7037164,75,26.3,,Demarty and Bastien 2011,,Prairie et al 2018
--18.21,-45.27,reservoir,Brazil,,,164.674,1995,,12,296.6139858,,63.3,28.5,7.28,781.7037164,75,26.3,,Rosa et al 2002,,Prairie et al 2018
--18.21,-45.27,reservoir,Brazil,,,,1999,,12,296.6139858,,63.3,28.4,10.48,1040,75,20.2,,Rosa et al 2004,,Prairie et al 2018
--18.21,-45.27,reservoir,Brazil,,1.684,74.657,1998,,12,296.6139858,,63.3,28.4,10.48,1040,75,20.2,,Santos et al 2006,,Prairie et al 2018
--18.21,-45.27,reservoir,Brazil,,1.336,,2008,,2,296.6139858,,63.3,29.6,13.19,1050,75,16.8,,Hallqvist 2012,,Prairie et al 2018
--3.83,-49.65,reservoir,Brazil,,,,1990,,12,300.3243819,,60.3,22.9,11.27,2430,72,18.9,,Fearnside 2000,,Prairie et al 2018
--3.83,-49.65,reservoir,Brazil,,,,1998,,12,300.3243819,,60.3,22.9,11.27,2430,72,18.9,,Demarty and Bastien 2011,,Prairie et al 2018
--3.83,-49.65,reservoir,Brazil,,,7.76,1995,,12,300.3243819,,60.3,22.9,11.27,2430,72,18.9,,Rosa et al 2002,,Prairie et al 2018
--3.83,-49.65,reservoir,Brazil,,53.895,,1990,,12,300.3243819,,60.3,22.9,11.27,2430,72,18.9,,Fearnside 1997,,Prairie et al 2018
--3.83,-49.65,reservoir,Brazil,,74.993,,1997,,12,300.3243819,,60.3,22.9,11.27,2430,72,18.9,,St-Louis et al 2000,,Prairie et al 2018
--3.83,-49.65,reservoir,Brazil,,74.123,,2004,,12,300.3243819,,60.3,22.9,11.27,2430,72,18.9,,Harby et al 2012,,Prairie et al 2018
--3.83,-49.65,reservoir,Brazil,,15.119,,2000,,ice free,300.3243819,,60.3,22.9,11.27,2430,72,18.9,,Lima 2005,,Prairie et al 2018
--3.83,-49.65,reservoir,Brazil,,14.558,3.339,1998,,12,300.3243819,,60.3,22.9,11.27,2430,72,18.9,,Santos et al 2006,,Prairie et al 2018
--3.83,-49.65,reservoir,Brazil,,8.578,14.673,1989,,3,300.3243819,,60.3,22.9,11.27,2430,72,18.9,,Rosa et al 2004,,Prairie et al 2018
-50.73,18.09,reservoir,Poland,,,42.699,2009,,12,284.7503918,,43.9,169.8,45.07,21.59802401,13.7,4,,Trojanowska & Kurasiewicz 2009,,Prairie et al 2018
-63.84,20.1,reservoir,Sweden,,,,2000,,8,281.8294687,,31.3,,,0.151737414,,,,Bergstrom et al 2004,,Prairie et al 2018
-36.18,-104.82,reservoir,United States of America,,,,2003,,4,285.3967563,,49.4,,,0.45,,1.7,,Therrien et al 2005,,Prairie et al 2018
-37.52,-113.86,reservoir,United States of America,,,,2003,,4,286.4372064,,48.8,,10.77,1.07,18.4,11.2,,Therrien et al 2005,,Prairie et al 2018
-35.08,-111.53,reservoir,United States of America,,,,2003,,4,284.9910537,,51.3,,2.16,2.4,13,12,,Therrien et al 2005,,Prairie et al 2018
-35.35,-103.45,reservoir,United States of America,,,,2003,,4,291.521966,,60.9,,12.53,28.59,23,11.8,,Therrien et al 2005,,Prairie et al 2018
-10.82,79.05,reservoir,India,,8.638,51.743,2011,,3,302.2934141,,61.7,,,2.575763516,,,,Panneer Selvam et al 2014,,Prairie et al 2018
-56.02,-122.2,reservoir,Canada,,,,2002,,7,281.5406546,,35.1,7.1,5.83,5099,183,39.5,,Tremblay et al 2005,,Prairie et al 2018
-56.02,-122.2,reservoir,Canada,,,,2002,,7,281.5406546,,35.1,6.9,5.35,5099,183,42.3,,Tremblay et al 2005,,Prairie et al 2018
-56.02,-122.2,reservoir,Canada,,,,2002,,7,281.5406546,,35.1,6.9,5.35,5099,183,42.3,,Tremblay et al 2005,,Prairie et al 2018
-49.25,-121.61,reservoir,Canada,,,,2002,,7,282.917551,,51.9,12.1,11.94,5,29,13.4,,Tremblay et al 2005,,Prairie et al 2018
-33.36,-83.16,reservoir,United States of America,,,,2003,,4,292.8462695,,52.6,,19.45,77.1,37,10.4,,Therrien et al 2005,,Prairie et al 2018
-45.93,119.29,reservoir,China,,6.515,,2001,,9,288.6635574,,74.6,54.6,15.53,157,24,10.6,,Soumis et al 2004,,Prairie et al 2018
-49.01,-117.61,reservoir,Canada,,15.652,,2002,,7,285.3438128,,48.4,40.6,11.53,3.22495856,76,18.8,,Tremblay et al 2005,,Prairie et al 2018
-40.79,-111.4,reservoir,United States of America,,,,2003,,4,284.2309308,,57.6,53.9,8.84,4.81,45.7,19.3,,Therrien et al 2005,,Prairie et al 2018
-35.63,-84.78,reservoir,United States of America,,5.627,0.287,2012,,9,290.4728963,,47.8,44.3,26.3,179,34,7.9,,Bevelhimer et al 2016,,Prairie et al 2018
--42.39,146.52,reservoir,Australia,,1.538,,2006,,3,284.3131185,,67.3,10,,2,,6.4,,Bastien and Demarty 2013,,Prairie et al 2018
--42.39,146.52,reservoir,Australia,,11.726,,2008,,4,284.3131185,,67.3,9.8,,3.297272159,,6.4,,Bastien and Demarty 2013,,Prairie et al 2018
-48.18,-56.24,reservoir,Canada,,,,2003,,7,281.5232039,,35,12,88.45,20,21,1.4,,Tremblay et al 2005,,Prairie et al 2018
-49.92,-118.12,reservoir,Canada,,,,1991,,12,283.6833788,,46.7,4.9,18.01,15,12,7.1,,St-Louis et al 2000,,Prairie et al 2018
-49.92,-118.12,reservoir,Canada,,2.482,,2002,,7,283.6833788,,46.7,4.9,18.01,15,12,7.1,,Tremblay et al 2005,,Prairie et al 2018
-50.3,-95.54,reservoir,Canada,,,,2002,,7,284.1129996,,34.3,35.9,97.92,148.4,24,0.8,,Tremblay et al 2005,,Prairie et al 2018
-50.34,21.93,reservoir,Poland,,281.849,,2009,,ice free,284.8991757,,39.7,160.2,67.06,1.6,30,2.6,,Gruca-Rokosz et al 2010,,Prairie et al 2018
--27.39,152.6,reservoir,Australia,,39.996,,2009,,12,293.8709157,,66.5,,14.07,109.4,21.1,10.6,,Hall et al 2009,,Prairie et al 2018
--27.39,152.6,reservoir,Australia,,3.8,,2011,,12,293.8709157,,66.5,,14.07,109.4,21.1,10.6,,Musenze et al 2014,,Prairie et al 2018
-52.66,19.13,reservoir,Poland,,,413.688,2009,,12,285.3383665,,38.9,,31.98,10.38,15,5.5,,Trojanowska & Kurasiewicz 2009,,Prairie et al 2018
-29.49,119.21,reservoir,China,,,,2010,,12,293.7929045,,43.4,20.2,6.14,567,117,34,,Wang et al 2014,,Prairie et al 2018
--9.61,-37.82,reservoir,Brazil,,,1.684,1995,,12,299.1052816,,66.6,,2.43,60,150,67.7,,Rosa et al 2002,,Prairie et al 2018
--9.61,-37.82,reservoir,Brazil,,,1.854,1998,,12,299.1052816,,66.6,,2.43,60,130,63.3,,Rosa et al 2004,,Prairie et al 2018
--9.61,-37.82,reservoir,Brazil,,41.422,26.177,1998,,12,299.1052816,,66.6,,2.43,60,130,63.3,,Santos et al 2006,,Prairie et al 2018
--9.61,-37.82,reservoir,Brazil,,161.62,,2004,,12,299.1052816,,66.6,,2.43,60,130,63.3,,Harby et al 2012,,Prairie et al 2018
-26.8,106.55,reservoir,China,,,,2007,,12,291.2051679,,36.4,,,1.390621463,,,,Wang et al 2011,,Prairie et al 2018
-46.35,7.43,reservoir,Switzerland,,0.523,,2003,,9,279.5708838,,36.3,16.7,2.85,1,140,60,,Diem et al 2008,,Prairie et al 2018
-68.346625,18.96945278,lake,Sweden,,55.7,338.7,,,,,,,,,2.88E-05,,0.2,,Kuhn et al 2018,,Rosentreter et al 2020
-68.34651389,18.96956667,lake,Sweden,,161,39.5,,,,,,,,,6.08E-06,,0.2,,Kuhn et al 2018,,Rosentreter et al 2020
-68.34637778,18.96949444,lake,Sweden,,29,119,,,,,,,,,2.03E-05,,0.2,,Kuhn et al 2018,,Rosentreter et al 2020
-68.3463556,18.9682722,lake,Sweden,,258,0,,,,,,,,,0.00004,,0.7,,Kuhn et al 2018,,Rosentreter et al 2020
-68.346625,18.9684417,lake,Sweden,,343.1,0,,,,,,,,,0.000035,,0.4,,Kuhn et al 2018,,Rosentreter et al 2020
-68.346875,18.96955833,lake,Sweden,,68.5,395.2,,,,,,,,,4.05E-05,,0.8,,Kuhn et al 2018,,Rosentreter et al 2020
-68.3571833,19.0500056,lake,Sweden,,7.8,0,,,,,,,,,0.00002025,,0.3,,Kuhn et al 2018,,Rosentreter et al 2020
-68.35693611,19.05265,lake,Sweden,,13.3,259.1,,,,,,,,,1.40E-04,,0.3,,Kuhn et al 2018,,Rosentreter et al 2020
-68.35688056,19.05360278,lake,Sweden,,76.5,261.9,,,,,,,,,3.45E-05,,0.5,,Kuhn et al 2018,,Rosentreter et al 2020
-68.356575,19.05339722,lake,Sweden,,117.2,90.4,,,,,,,,,8.93E-05,,1.3,,Kuhn et al 2018,,Rosentreter et al 2020
-68.35486111,19.04909722,lake,Sweden,,9.6,171.7,,,,,,,,,,,0.5,,Kuhn et al 2018,,Rosentreter et al 2020
-68.35478611,19.04870833,lake,Sweden,,94.9,550.7,,,,,,,,,,,0.4,,Kuhn et al 2018,,Rosentreter et al 2020
-68.35414444,19.04707778,lake,Sweden,,114,126.2,,,,,,,,,,,0.3,,Kuhn et al 2018,,Rosentreter et al 2020
-68.35351944,19.04832778,lake,Sweden,,280.8,1178.2,,,,,,,,,7.98E-05,,0.5,,Kuhn et al 2018,,Rosentreter et al 2020
-68.35280556,19.04736944,lake,Sweden,,50.6,41.7,,,,,,,,,3.03E-05,,0.4,,Kuhn et al 2018,,Rosentreter et al 2020
-63.848,148.973,lake,Russia,,6.3,4.7,,,,288.45,,,,,0.066,,0.5,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
-70.288,-156.985,lake,United States of America,,0.7,0,,,,279.5166667,,,,,1.488,1.2,,,Townsend-Small et al 2017,,Rosentreter et al 2020
-70.329,-156.592,lake,United States of America,,7.7,0,,,,279.2166667,,,,,3.536,0.8,,,Townsend-Small et al 2017,,Rosentreter et al 2020
-70.475,-157.459,lake,United States of America,,4.6,1840.6,,,,281.8,,,,,9.257,3,,,Townsend-Small et al 2017,,Rosentreter et al 2020
-67.138,150.349,lake,Russia,,12.3,30.2,,,,290.45,,,,,0.069,,3,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
-68.462,149.393,lake,Russia,,2.7,22.5,,,,286.65,,,,,0.057,,7.5,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
-61,69,lake,Russia,,2.4,0,,,,289.85,,,,,0.0177,,2.2,,Sabrekov et al 2017,,Rosentreter et al 2020
-57,83,lake,Russia,,213.7,124.7,,,,296.05,,,,,0.0005,,0.9,,Sabrekov et al 2017,,Rosentreter et al 2020
-57,83,lake,Russia,,177.6,163.2,,,,293.25,,,,,0.0184,,1.6,,Sabrekov et al 2017,,Rosentreter et al 2020
-57,83,lake,Russia,,122.3,84,,,,287.65,,,,,0.007,,2.3,,Sabrekov et al 2017,,Rosentreter et al 2020
-46.243,-89.494,lake,United States of America,,0.3,0.6,,,,,,,0.023,,0.697,4.2,12.2,,West et al 2016,,Rosentreter et al 2020
--17.8375,-57.3925,lake,Brazil,,8,82.1,,,,303.65,,,,,36.3,,,,Bastviken et al 2010,,Rosentreter et al 2020
--18.990556,-57.494444,lake,Brazil,,3.2,7.1,,,,299.15,,,,,,,,,Bastviken et al 2010,,Rosentreter et al 2020
-46.246,-89.512,lake,United States of America,,0.9,1.8,,,,,,,0.022,,0.162,3.7,12,,West et al 2016,,Rosentreter et al 2020
-60.726,150.644,lake,Russia,,4.9,1.4,,,,287.55,,,,,0.21,,24.2,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
-69.581,148.639,lake,Russia,,5.5,0.5,,,,288.85,,,,,0.349,,2.2,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
--32.078611,-52.1675,lake,NA,,225.5,145.2,,,,294.85,,,0.635,,0.015,2.4,,,Palma-Silva et al 2013,,Rosentreter et al 2020
-46.2305,-89.4945,lake,United States of America,,0,15.4,,,,,,,0.049,,0.11,2.2,3.5,,West et al 2016,,Rosentreter et al 2020
-57.74916667,76.09316667,lake,Russia,,20.4,6.1,,,,,,,0.013,,7.50E-04,,2.2,,Matveev et al 2016,,Rosentreter et al 2020
-57.748167,76.092667,lake,Russia,,53.8,0.4,,,,,,,0.023,,3.00E-04,,1.2,,Matveev et al 2016,,Rosentreter et al 2020
-61,69,lake,Russia,,12,2.4,,,,291.55,,,,,0.3915,,3.7,,Sabrekov et al 2017,,Rosentreter et al 2020
--19.006944,-57.550833,lake,Brazil,,29,219,,,,299.15,,,,,,,,,Bastviken et al 2010,,Rosentreter et al 2020
-46.21768889,-89.47504167,lake,United States of America,,2.2,31.6,,,,,,,0.061,,0.3125,2.7,4.9,,Bastviken et al 2004; West et al 2016,,Rosentreter et al 2020
-71.194,-156.502,lake,United States of America,,1.5,258.4,,,,280.3,,,,,1.745,1.1,,,Townsend-Small et al 2017,,Rosentreter et al 2020
-71.274,-156.497,lake,United States of America,,4.9,0,,,,277.65,,,,,1.25,1.6,,,Townsend-Small et al 2017,,Rosentreter et al 2020
-47.17,7.67,lake,Switzerland,,18.3,42,,,,294.55,,,0.014,,0.2,,30,,Rinta et al 2017,,Rosentreter et al 2020
-11.00186667,76.93085,lake,India,,1.6,0,,,,301.45,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
-46.20965278,-89.47367222,lake,United States of America,,1.1,1.5,,,,,,,0.009,,0.2585,5,18.5,,Bastviken et al 2004; West et al 2016,,Rosentreter et al 2020
-46.232,-89.5701,lake,United States of America,,0.3,1,,,,,,,0.033,,0.012,4.4,7.9,,West et al 2016,,Rosentreter et al 2020
-10.97576667,76.82121667,lake,India,,1.3,0,,,,300.15,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
-51.93,5.15,lake,Netherlands,,10.7,11.5,,,,292.85,,,0.12,,0.04,,15,,Rinta et al 2017,,Rosentreter et al 2020
-12.12213333,77.9124,lake,India,,0.8,0,,,,299.45,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
-12.12581667,77.90153333,lake,India,,4.8,0,,,,295.95,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
-60.704,150.787,lake,Russia,,8.8,6.9,,,,290.25,,,,,1.074,,30,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
-68.795,148.843,lake,Russia,,8.8,9.9,,,,291.55,,,,,0.01,,1.5,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
-68.626,149.555,lake,Russia,,6.9,16.5,,,,285.55,,,,,0.026,,6.4,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
-68.642,149.458,lake,Russia,,2.5,1.4,,,,283.95,,,,,0.116,,11.9,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
-68.643,149.44,lake,Russia,,2.7,28.5,,,,288.95,,,,,0.027,,2.6,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
-46.2166,-89.533,lake,United States of America,,3.4,9.7,,,,,,,0.038,,0.023,,,,Bastviken et al 2004,,Rosentreter et al 2020
-47.4,8.36,lake,Switzerland,,50.8,58.3,,,,297.45,,,0.012,,0.02,,11,,Rinta et al 2017,,Rosentreter et al 2020
-60.478,150.323,lake,Russia,,13.4,0,,,,289.55,,,,,0.909,,3.9,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
-58.37,12.16,lake,Sweden,,11.4,3.3,,,,288.85,,,0.027,,0.061,,5,,Natchimuthu et al 2016; Rinta et al 2017,,Rosentreter et al 2020
--27.5394,152.9682,lake,Australia,,0,0,,,,,,,,,0.008357,,,,Grinham et al 2018,,Rosentreter et al 2020
-46.2533,-89.4864,lake,United States of America,,0.3,0.9,,,,,,,0.053,,0.044,0.7,1.8,,West et al 2016,,Rosentreter et al 2020
-58.38,12.15,lake,Sweden,,25.6,28.3,,,,288.85,,,0.057,,0.0375,,1.2,,Natchimuthu et al 2016,,Rosentreter et al 2020
-65.867,74.967,lake,Russia,,0,0,,,,291.95,,,0.044,,0.07,,,,Repo et al 2007,,Rosentreter et al 2020
-46.71,7.44,lake,Switzerland,,7.5,42.5,,,,289.25,,,0.039,,0.01,,1,,Rinta et al 2017,,Rosentreter et al 2020
--27.5541,152.3412,lake,Australia,,0,0,,,,,,,,,0.025903,,,,Grinham et al 2018,,Rosentreter et al 2020
--27.5548,152.3394,lake,Australia,,0,0,,,,,,,,,0.00345,,,,Grinham et al 2018,,Rosentreter et al 2020
--27.5615,152.3434,lake,Australia,,0,0,,,,,,,,,0.001041,,,,Grinham et al 2018,,Rosentreter et al 2020
--27.5625,152.3447,lake,Australia,,0,0,,,,,,,,,0.001893,,,,Grinham et al 2018,,Rosentreter et al 2020
--27.5537,152.3503,lake,Australia,,0,0,,,,,,,,,0.030458,,,,Grinham et al 2018,,Rosentreter et al 2020
--27.5546,152.3488,lake,Australia,,0,0,,,,,,,,,4.46E-04,,,,Grinham et al 2018,,Rosentreter et al 2020
-46.83,7.55,lake,Switzerland,,65.1,109.1,,,,296.15,,,0.016,,0.24,,11,,Rinta et al 2017,,Rosentreter et al 2020
-57.93,15.57,lake,Sweden,,2.4,0,,,,289.65,,,0.008,,1.67,,32,,Rinta et al 2017,,Rosentreter et al 2020
-64.916,147.847,lake,Russia,,16.5,55.1,,,,282.45,,,,,0.01,,3.3,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
-68.45,161.2,lake,Russia,,69,11,,,,285.85,,,,,0.0787,,12,,Walter Anthony et al 2010,,Rosentreter et al 2020
-66.954,150.393,lake,Russia,,5.8,6.3,,,,290.15,,,,,0.401,,1.8,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
--27.7249,152.9779,lake,Australia,,0,0,,,,,,,,,5.75E-04,,,,Grinham et al 2018,,Rosentreter et al 2020
-58.77,15.14,lake,Sweden,,1.3,0.2,,,,289.65,,,0.011,,0.23,,16,,Rinta et al 2017,,Rosentreter et al 2020
-58.27,15.24,lake,Sweden,,2.6,27.4,,,,288.05,,,0.045,,0.99,,6,,Rinta et al 2017,,Rosentreter et al 2020
-47.61,8.83,lake,Switzerland,,136.5,147.4,,,,295.85,,,0.036,,0.07,,6,,Rinta et al 2017,,Rosentreter et al 2020
-52.89,6.49,lake,Netherlands,,11.7,345.4,,,,293.95,,,0.15,,0.02,,2,,Rinta et al 2017,,Rosentreter et al 2020
-46.72,8.07,lake,Switzerland,,45.2,24,,,,287.45,,,0.011,,0.05,,11,,Rinta et al 2017,,Rosentreter et al 2020
-54.16,10.16,lake,Germany,,11.5,48.6,,,,294.55,,,0.036,,0.19,,7,,Rinta et al 2017,,Rosentreter et al 2020
-46.2166,-89.533,lake,United States of America,,1.3,4.2,,,,,,,0.032,,0.3125,3.4,7.6,,Bastviken et al 2004; West et al 2016,,Rosentreter et al 2020
-47.62,8.7,lake,Switzerland,,46.6,38.6,,,,298.35,,,0.007,,0.07,,14,,Rinta et al 2017,,Rosentreter et al 2020
-47.61,8.84,lake,Switzerland,,9.6,10.4,,,,292.75,,,0.015,,0.34,,16,,Rinta et al 2017,,Rosentreter et al 2020
-58.57573611,14.991625,lake,Sweden,,0,0,,,,287.25,,,0.025,,0.0545,,12,,Bastviken et al 2002; Rinta et al 2017,,Rosentreter et al 2020
--27.5027,152.988,lake,Australia,,0,0,,,,,,,,,4.36E-04,,,,Grinham et al 2018,,Rosentreter et al 2020
-47.2,7.66,lake,Switzerland,,10.6,244.1,,,,295.65,,,0.26,,0.1,,5,,Rinta et al 2017,,Rosentreter et al 2020
-67.16666944,27.66666944,lake,Finland,,7.5,0,,,,287.15,,,,,0.01,,3.2,,Huttunen et al 2002a,,Rosentreter et al 2020
-68.447,149.369,lake,Russia,,5.2,24.1,,,,287.45,,,,,0.051,,7,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
-62.24,25.77,lake,Finland,,2.9,1.9,,,,291.35,,,0.025,,3.03,,25,,Rinta et al 2017,,Rosentreter et al 2020
-10.1891,76.37901667,lake,India,,11.7,0,,,,306.15,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
-64.87,147.901,lake,Russia,,12.1,68,,,,280.95,,,,,0.008,,2.1,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
-58.01,15.65,lake,Sweden,,7.4,0.5,,,,290.05,,,0.018,,0.96,,9,,Rinta et al 2017,,Rosentreter et al 2020
-12.70061667,79.99526667,lake,India,,22.4,0,,,,296.65,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
-51.775,5.85,lake,Netherlands,,26.7,160.3,,,,286.15,,,0.14,,0.0046,1.5,,,Bergen et al 2019,,Rosentreter et al 2020
-68.08333056,27.1,lake,Finland,,3.5,0,,,,287.05,,,,,0.01,,1.8,,Huttunen et al 2002a,,Rosentreter et al 2020
--19.021389,-57.548056,lake,Brazil,,13,249.5,,,,303.15,,,,,0.06,,,,Bastviken et al 2010,,Rosentreter et al 2020
--19.026111,-57.542778,lake,Brazil,,11.2,107.8,,,,303.15,,,,,0.12,,,,Bastviken et al 2010,,Rosentreter et al 2020
--19.030556,-57.473056,lake,Brazil,,11.5,22.1,,,,303.15,,,,,0.35,,,,Bastviken et al 2010,,Rosentreter et al 2020
--19.039167,-57.368611,lake,Brazil,,13.9,338.3,,,,303.15,,,,,0.1,,,,Bastviken et al 2010,,Rosentreter et al 2020
-45.9921,-74.00514,lake,Canada,,5.3,3.8,,,,,,,0.004,,0.179,4.7,,,DelSontro et al 2016,,Rosentreter et al 2020
-45.9884,-74.0004,lake,Canada,,8,17.5,,,,,,,0.008,,0.11,3.5,,,DelSontro et al 2016,,Rosentreter et al 2020
-46.36,7.01,lake,Switzerland,,98.4,172.6,,,,289.75,,,0.065,,0.01,,2,,Rinta et al 2017,,Rosentreter et al 2020
-46.33,7.07,lake,Switzerland,,26.6,14.1,,,,292.05,,,0.029,,0.04,,9,,Rinta et al 2017,,Rosentreter et al 2020
-46.28,7.22,lake,Switzerland,,2.6,8,,,,284.55,,,0.01,,0.04,,2,,Rinta et al 2017,,Rosentreter et al 2020
-46.36,7.2,lake,Switzerland,,46.8,727.4,,,,293.25,,,0.013,,0.01,,5,,Rinta et al 2017,,Rosentreter et al 2020
-46.33,7.09,lake,Switzerland,,1,0.6,,,,291.95,,,0.013,,0.05,,28,,Rinta et al 2017,,Rosentreter et al 2020
-46.33,7.08,lake,Switzerland,,69.9,52.1,,,,292.05,,,0.007,,0.01,,11,,Rinta et al 2017,,Rosentreter et al 2020
-45.98778,-74.00806,lake,Canada,,39.9,21.4,,,,,,,0.01,,0.017,2.5,,,DelSontro et al 2016,,Rosentreter et al 2020
--26.2152,152.6848,lake,Australia,,0,0,,,,,,,,,0.021689,,,,Grinham et al 2018,,Rosentreter et al 2020
--3.25,-60.567,lake,Brazil,,49.5,74.1,,,,,,,,,4.5,,,,Engle and Melack 2000; Crill et al 1988,,Rosentreter et al 2020
-63.0979,27.61,lake,Finland,,0,0,,,,,,,0.052,,4.3,2.3,,,Juutinen et al 2003,,Rosentreter et al 2020
-32.833,35.5833,lake,Israel,,3.9,313.1,,,,,,,,,167,24,43,,Schmid et al 2017,,Rosentreter et al 2020
-65.833333,24.283333,lake,Finland,,0,0,,,,,,,,,0.62,6.3,13.2,,Erkkilä et al 2018,,Rosentreter et al 2020
-62.7605,30.9587,lake,Finland,,0,0,,,,,,,0.03,,12.2,1.8,,,Juutinen et al 2003,,Rosentreter et al 2020
-60.15,17.33333,lake,Sweden,,0,0,,,,,,,,,38,1.3,2,,Podgrajsek et al 2014,,Rosentreter et al 2020
-12.45,78.22,lake,India,,23.5,73.5,,,,,,,,,0.68,1.5,,,Attermeyer 2016,,Rosentreter et al 2020
-68.33333,19.05,lake,Sweden,,0,0,,,,,,,,,0.17,0.7,1.3,,Jammet et al 2015,,Rosentreter et al 2020
-46.4,7.33,lake,Switzerland,,36.5,5.8,,,,290.65,,,0.007,,0.09,,4,,Rinta et al 2017,,Rosentreter et al 2020
-61,69,lake,Russia,,7.2,0,,,,290.75,,,,,0.078,,2.5,,Sabrekov et al 2017,,Rosentreter et al 2020
-58.65954167,16.14175278,lake,Sweden,,0,0,,,,289.95,,,0.018,,0.025,,7.5,,Bastviken et al 2002; Rinta et al 2017,,Rosentreter et al 2020
-58.3936111,15.5788889,lake,Sweden,,6.4,121.8,,,,,,,,,0.0012,1.2,,,Natchimuthu et al 2014,,Rosentreter et al 2020
--18.953056,-57.625,lake,Brazil,,28.5,61.2,,,,297.15,,,,,,,,,Bastviken et al 2010,,Rosentreter et al 2020
-40.072259,-105.592988,lake,United States of America,,0,0,,,,282.45,,,,,0.16,,7.5,,Smith and Lewis 1992,,Rosentreter et al 2020
-61.08,25.03,lake,Finland,,5,13,,,,291.05,,,0.027,,0.05,,18,,Rinta et al 2017,,Rosentreter et al 2020
-60.456,150.317,lake,Russia,,9.9,4.1,,,,284.75,,,,,0.471,,28,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
-12.53203333,79.88516667,lake,India,,36.8,0,,,,299.55,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
-58.58246944,15.86191111,lake,Sweden,,0,0,,,,289.55,,,0.027,,0.3325,,15,,Bastviken et al 2002; Rinta et al 2017,,Rosentreter et al 2020
--19.56666667,-57,lake,Brazil,,7,82.1,,,,,,,,,,,,,Marani and Alvalá 2007,,Rosentreter et al 2020
-61.23,25.14,lake,Finland,,6.6,3.4,,,,289.15,,,0.011,,0.003,,4,,Rinta et al 2017,,Rosentreter et al 2020
--19.38333333,-57.05,lake,Brazil,,6,148.2,,,,,,,,,,,,,Marani and Alvalá 2007,,Rosentreter et al 2020
-46.2531,-89.4821,lake,United States of America,,0.4,0,,,,,,,0.021,,0.057,4,13.7,,West et al 2016,,Rosentreter et al 2020
-62.143,150.048,lake,Russia,,9.6,11.8,,,,289.35,,,,,0.3,,9,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
-46.2166,-89.533,lake,United States of America,,3.3,56.1,,,,,,,0.028,,0.3125,2.4,6.7,,Bastviken et al 2004; West et al 2016,,Rosentreter et al 2020
--27.4763,152.9642,lake,Australia,,0,0,,,,,,,,,5.80E-04,,,,Grinham et al 2018,,Rosentreter et al 2020
--23.8008,150.9558,lake,Australia,,0,0,,,,,,,,,0.005025,,,,Grinham et al 2018,,Rosentreter et al 2020
--23.806,150.9574,lake,Australia,,0,0,,,,,,,,,0.001256,,,,Grinham et al 2018,,Rosentreter et al 2020
--23.8015,150.9446,lake,Australia,,0,0,,,,,,,,,0.016093,,,,Grinham et al 2018,,Rosentreter et al 2020
-60.983,70.167,lake,Russia,,0,0,,,,291.95,,,0.006,,0.23,,,,Repo et al 2007,,Rosentreter et al 2020
-60.983,70.167,lake,Russia,,0,0,,,,291.95,,,0.005,,0.005,,,,Repo et al 2007,,Rosentreter et al 2020
-61,69,lake,Russia,,4.8,0.2,,,,292.15,,,,,5.364,,1.5,,Sabrekov et al 2017,,Rosentreter et al 2020
--18.994722,-56.656111,lake,Brazil,,6.3,324.8,,,,302.65,,,,,,,,,Bastviken et al 2010,,Rosentreter et al 2020
--19.003889,-56.631667,lake,Brazil,,11.7,176.4,,,,303.15,,,,,,,,,Bastviken et al 2010,,Rosentreter et al 2020
--18.966944,-56.6325,lake,Brazil,,7.7,191.6,,,,300.15,,,,,0.12,,,,Bastviken et al 2010,,Rosentreter et al 2020
--18.973611,-56.646111,lake,Brazil,,10.6,12.3,,,,307.15,,,,,0.1,,,,Bastviken et al 2010,,Rosentreter et al 2020
--18.983056,-56.66,lake,Brazil,,11.1,72.1,,,,302.65,,,,,0.16,,,,Bastviken et al 2010,,Rosentreter et al 2020
-8.12195,77.50091667,lake,India,,26.9,0,,,,303.45,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
-68.647,149.582,lake,Russia,,3.6,9,,,,288.45,,,,,0.067,,2.7,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
-12.66358333,80.03023333,lake,India,,3.2,0,,,,300.45,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
-61.23,25.19,lake,Finland,,0.6,4,,,,290.05,,,0.01,,0.004,,13,,Rinta et al 2017,,Rosentreter et al 2020
-8.11575,77.52621667,lake,India,,325.6,0,,,,301.15,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
-46.2166,-89.533,lake,United States of America,,1.3,2.6,,,,,,,0.016,,0.3125,4.1,8,,Bastviken et al 2004; West et al 2016,,Rosentreter et al 2020
-47.62,8.82,lake,Switzerland,,3.5,191,,,,292.75,,,0.024,,0.25,,8,,Rinta et al 2017,,Rosentreter et al 2020
-63.215,147.678,lake,Russia,,3,0.3,,,,283.35,,,,,0.02,,9.4,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
-63.842,149.037,lake,Russia,,13.4,6.3,,,,285.15,,,,,0.515,,3.1,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
--27.8924,153.2997,lake,Australia,,0,0,,,,,,,,,0.036938,,,,Grinham et al 2018,,Rosentreter et al 2020
-8.144433333,77.45608333,lake,India,,0,0,,,,303.75,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
-39.654905,-105.87899,lake,United States of America,,0,0,,,,279.75,,,,,0.016,,3.5,,Smith and Lewis 1992,,Rosentreter et al 2020
-46.25154167,-89.503675,lake,United States of America,,5,42.2,,,,,,,0.026,,0.3125,3.8,12,,Bastviken et al 2004; West et al 2016,,Rosentreter et al 2020
-46.253025,-89.50385833,lake,United States of America,,3.3,21.6,,,,,,,0.01,,0.3125,5.8,18,,Bastviken et al 2004; West et al 2016,,Rosentreter et al 2020
-67.136,150.37,lake,Russia,,2.7,16.7,,,,291.65,,,,,0.102,,1.4,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
--27.5372,152.9139,lake,Australia,,0,0,,,,,,,,,0.056782,,,,Grinham et al 2018,,Rosentreter et al 2020
--27.5294,152.9242,lake,Australia,,0,0,,,,,,,,,0.001943,,,,Grinham et al 2018,,Rosentreter et al 2020
--27.5294,152.9227,lake,Australia,,0,0,,,,,,,,,2.10E-04,,,,Grinham et al 2018,,Rosentreter et al 2020
-54.18,10.44,lake,Germany,,8.8,72.6,,,,294.35,,,0.035,,0.14,,29,,Rinta et al 2017,,Rosentreter et al 2020
+49.03,-117.5,reservoir,Canada,North America,44.386,,2002,,7,285.0376185,,49.5,40.2,8.44,4,80,24.2,,Tremblay et al 2005,,Prairie et al 2018
+50.12,-96.02,reservoir,Canada,North America,,,2002,,7,284.2189874,,34.9,34.7,5.35,21,22,16,,Tremblay et al 2005,,Prairie et al 2018
+40.72,-122.42,reservoir,United States of America,North America,6.228,,2001,,9,291.9316692,,84.1,24,2.08,77,158,75.3,,Soumis et al 2004,,Prairie et al 2018
+52.94,23.76,reservoir,Poland,Europe,,75.853,2009,,12,284.2586455,,39.3,,65.7,31.10400101,10,2.5,,Trojanowska & Kurasiewicz 2009,,Prairie et al 2018
+64.5,20.7,reservoir,Sweden,Europe,,,2000,,8,281.5106625,,30.5,,,16.98496784,,,,Bergstrom et al 2004,,Prairie et al 2018
+63.99,18.43,reservoir,Sweden,Europe,,,2001,,ice free,280.9589151,,26.1,24.6,28.65,27,20,6.5,,Aberg et al 2004,,Prairie et al 2018
+50.23,-95.57,reservoir,Canada,North America,41.627,,2002,,7,284.2101555,,34.9,,,7,25,,,Tremblay et al 2005,,Prairie et al 2018
+49.4,22.45,reservoir,Poland,Europe,,,2009,,ice free,283.6912479,,39.5,15.3,8.48,16.1,60,22,,Gruca-Rokosz et al 2010,,Prairie et al 2018
+46.57,8.33,reservoir,Switzerland,Europe,0.268,,2005,,7,279.0075876,,29.7,8.4,5.03,3,100,37.1,,Diem et al 2008,,Prairie et al 2018
+49.23,-122.36,reservoir,Canada,North America,,,2002,,7,284.6927042,,62.2,12.3,100,44,26,0.3,,Tremblay et al 2005,,Prairie et al 2018
+51.47,20,reservoir,Poland,Europe,,45.916,2009,,12,284.89598,,39.7,,49.46,17.1,11,3.5,,Trojanowska & Kurasiewicz 2009,,Prairie et al 2018
+33.68,-111.16,reservoir,United States of America,North America,,,2003,,4,296.4082726,,62.5,,9.68,86.98,109,23.4,,Therrien et al 2005,,Prairie et al 2018
+8.4,77.25,reservoir,India,Asia,3.847,122.633,2011,,3,300.4821372,,59,,,0.199399668,,,,Panneer Selvam et al 2014,,Prairie et al 2018
+30.83,111,reservoir,China,Asia,0.948,,2009,,12,294.7520172,,40.9,82.1,2.51,1084,170,70,,Chen et al 2011,,Prairie et al 2018
+30.83,111,reservoir,China,Asia,3.288,,2010,,12,294.7520172,,40.9,82.1,2.51,1084,170,70,,Zhao et al 2013,,Prairie et al 2018
+30.83,111,reservoir,China,Asia,3.74,,2010,,12,294.7520172,,40.9,89.8,4.72,830.8447898,175,46.1,,Xiao et 2013,,Prairie et al 2018
+46.04,-91.24,reservoir,United States of America,North America,6.212,,1995,,ice free,284.3827958,,35.8,8.1,61.82,3,9,2.7,,St-Louis et al 2000,,Prairie et al 2018
+46.1,-91.51,reservoir,United States of America,North America,3.356,,1995,,ice free,284.700645,,41.4,11.5,53.17,25,7.3,3,,St-Louis et al 2000,,Prairie et al 2018
+-18.21,-45.27,reservoir,Brazil,South America,,,2005,,12,296.6139858,,63.3,28.5,7.28,781.7037164,75,26.3,,Demarty and Bastien 2011,,Prairie et al 2018
+-18.21,-45.27,reservoir,Brazil,South America,,164.674,1995,,12,296.6139858,,63.3,28.5,7.28,781.7037164,75,26.3,,Rosa et al 2002,,Prairie et al 2018
+-18.21,-45.27,reservoir,Brazil,South America,,,1999,,12,296.6139858,,63.3,28.4,10.48,1040,75,20.2,,Rosa et al 2004,,Prairie et al 2018
+-18.21,-45.27,reservoir,Brazil,South America,1.684,74.657,1998,,12,296.6139858,,63.3,28.4,10.48,1040,75,20.2,,Santos et al 2006,,Prairie et al 2018
+-18.21,-45.27,reservoir,Brazil,South America,1.336,,2008,,2,296.6139858,,63.3,29.6,13.19,1050,75,16.8,,Hallqvist 2012,,Prairie et al 2018
+-3.83,-49.65,reservoir,Brazil,South America,,,1990,,12,300.3243819,,60.3,22.9,11.27,2430,72,18.9,,Fearnside 2000,,Prairie et al 2018
+-3.83,-49.65,reservoir,Brazil,South America,,,1998,,12,300.3243819,,60.3,22.9,11.27,2430,72,18.9,,Demarty and Bastien 2011,,Prairie et al 2018
+-3.83,-49.65,reservoir,Brazil,South America,,7.76,1995,,12,300.3243819,,60.3,22.9,11.27,2430,72,18.9,,Rosa et al 2002,,Prairie et al 2018
+-3.83,-49.65,reservoir,Brazil,South America,53.895,,1990,,12,300.3243819,,60.3,22.9,11.27,2430,72,18.9,,Fearnside 1997,,Prairie et al 2018
+-3.83,-49.65,reservoir,Brazil,South America,74.993,,1997,,12,300.3243819,,60.3,22.9,11.27,2430,72,18.9,,St-Louis et al 2000,,Prairie et al 2018
+-3.83,-49.65,reservoir,Brazil,South America,74.123,,2004,,12,300.3243819,,60.3,22.9,11.27,2430,72,18.9,,Harby et al 2012,,Prairie et al 2018
+-3.83,-49.65,reservoir,Brazil,South America,15.119,,2000,,ice free,300.3243819,,60.3,22.9,11.27,2430,72,18.9,,Lima 2005,,Prairie et al 2018
+-3.83,-49.65,reservoir,Brazil,South America,14.558,3.339,1998,,12,300.3243819,,60.3,22.9,11.27,2430,72,18.9,,Santos et al 2006,,Prairie et al 2018
+-3.83,-49.65,reservoir,Brazil,South America,8.578,14.673,1989,,3,300.3243819,,60.3,22.9,11.27,2430,72,18.9,,Rosa et al 2004,,Prairie et al 2018
+50.73,18.09,reservoir,Poland,Europe,,42.699,2009,,12,284.7503918,,43.9,169.8,45.07,21.59802401,13.7,4,,Trojanowska & Kurasiewicz 2009,,Prairie et al 2018
+63.84,20.1,reservoir,Sweden,Europe,,,2000,,8,281.8294687,,31.3,,,0.151737414,,,,Bergstrom et al 2004,,Prairie et al 2018
+36.18,-104.82,reservoir,United States of America,North America,,,2003,,4,285.3967563,,49.4,,,0.45,,1.7,,Therrien et al 2005,,Prairie et al 2018
+37.52,-113.86,reservoir,United States of America,North America,,,2003,,4,286.4372064,,48.8,,10.77,1.07,18.4,11.2,,Therrien et al 2005,,Prairie et al 2018
+35.08,-111.53,reservoir,United States of America,North America,,,2003,,4,284.9910537,,51.3,,2.16,2.4,13,12,,Therrien et al 2005,,Prairie et al 2018
+35.35,-103.45,reservoir,United States of America,North America,,,2003,,4,291.521966,,60.9,,12.53,28.59,23,11.8,,Therrien et al 2005,,Prairie et al 2018
+10.82,79.05,reservoir,India,Asia,8.638,51.743,2011,,3,302.2934141,,61.7,,,2.575763516,,,,Panneer Selvam et al 2014,,Prairie et al 2018
+56.02,-122.2,reservoir,Canada,North America,,,2002,,7,281.5406546,,35.1,7.1,5.83,5099,183,39.5,,Tremblay et al 2005,,Prairie et al 2018
+56.02,-122.2,reservoir,Canada,North America,,,2002,,7,281.5406546,,35.1,6.9,5.35,5099,183,42.3,,Tremblay et al 2005,,Prairie et al 2018
+56.02,-122.2,reservoir,Canada,North America,,,2002,,7,281.5406546,,35.1,6.9,5.35,5099,183,42.3,,Tremblay et al 2005,,Prairie et al 2018
+49.25,-121.61,reservoir,Canada,North America,,,2002,,7,282.917551,,51.9,12.1,11.94,5,29,13.4,,Tremblay et al 2005,,Prairie et al 2018
+33.36,-83.16,reservoir,United States of America,North America,,,2003,,4,292.8462695,,52.6,,19.45,77.1,37,10.4,,Therrien et al 2005,,Prairie et al 2018
+45.93,119.29,reservoir,China,Asia,6.515,,2001,,9,288.6635574,,74.6,54.6,15.53,157,24,10.6,,Soumis et al 2004,,Prairie et al 2018
+49.01,-117.61,reservoir,Canada,North America,15.652,,2002,,7,285.3438128,,48.4,40.6,11.53,3.22495856,76,18.8,,Tremblay et al 2005,,Prairie et al 2018
+40.79,-111.4,reservoir,United States of America,North America,,,2003,,4,284.2309308,,57.6,53.9,8.84,4.81,45.7,19.3,,Therrien et al 2005,,Prairie et al 2018
+35.63,-84.78,reservoir,United States of America,North America,5.627,0.287,2012,,9,290.4728963,,47.8,44.3,26.3,179,34,7.9,,Bevelhimer et al 2016,,Prairie et al 2018
+-42.39,146.52,reservoir,Australia,Australia,1.538,,2006,,3,284.3131185,,67.3,10,,2,,6.4,,Bastien and Demarty 2013,,Prairie et al 2018
+-42.39,146.52,reservoir,Australia,Australia,11.726,,2008,,4,284.3131185,,67.3,9.8,,3.297272159,,6.4,,Bastien and Demarty 2013,,Prairie et al 2018
+48.18,-56.24,reservoir,Canada,North America,,,2003,,7,281.5232039,,35,12,88.45,20,21,1.4,,Tremblay et al 2005,,Prairie et al 2018
+49.92,-118.12,reservoir,Canada,North America,,,1991,,12,283.6833788,,46.7,4.9,18.01,15,12,7.1,,St-Louis et al 2000,,Prairie et al 2018
+49.92,-118.12,reservoir,Canada,North America,2.482,,2002,,7,283.6833788,,46.7,4.9,18.01,15,12,7.1,,Tremblay et al 2005,,Prairie et al 2018
+50.3,-95.54,reservoir,Canada,North America,,,2002,,7,284.1129996,,34.3,35.9,97.92,148.4,24,0.8,,Tremblay et al 2005,,Prairie et al 2018
+50.34,21.93,reservoir,Poland,Europe,281.849,,2009,,ice free,284.8991757,,39.7,160.2,67.06,1.6,30,2.6,,Gruca-Rokosz et al 2010,,Prairie et al 2018
+-27.39,152.6,reservoir,Australia,Australia,39.996,,2009,,12,293.8709157,,66.5,,14.07,109.4,21.1,10.6,,Hall et al 2009,,Prairie et al 2018
+-27.39,152.6,reservoir,Australia,Australia,3.8,,2011,,12,293.8709157,,66.5,,14.07,109.4,21.1,10.6,,Musenze et al 2014,,Prairie et al 2018
+52.66,19.13,reservoir,Poland,Europe,,413.688,2009,,12,285.3383665,,38.9,,31.98,10.38,15,5.5,,Trojanowska & Kurasiewicz 2009,,Prairie et al 2018
+29.49,119.21,reservoir,China,Asia,,,2010,,12,293.7929045,,43.4,20.2,6.14,567,117,34,,Wang et al 2014,,Prairie et al 2018
+-9.61,-37.82,reservoir,Brazil,South America,,1.684,1995,,12,299.1052816,,66.6,,2.43,60,150,67.7,,Rosa et al 2002,,Prairie et al 2018
+-9.61,-37.82,reservoir,Brazil,South America,,1.854,1998,,12,299.1052816,,66.6,,2.43,60,130,63.3,,Rosa et al 2004,,Prairie et al 2018
+-9.61,-37.82,reservoir,Brazil,South America,41.422,26.177,1998,,12,299.1052816,,66.6,,2.43,60,130,63.3,,Santos et al 2006,,Prairie et al 2018
+-9.61,-37.82,reservoir,Brazil,South America,161.62,,2004,,12,299.1052816,,66.6,,2.43,60,130,63.3,,Harby et al 2012,,Prairie et al 2018
+26.8,106.55,reservoir,China,Asia,,,2007,,12,291.2051679,,36.4,,,1.390621463,,,,Wang et al 2011,,Prairie et al 2018
+46.35,7.43,reservoir,Switzerland,Europe,0.523,,2003,,9,279.5708838,,36.3,16.7,2.85,1,140,60,,Diem et al 2008,,Prairie et al 2018
+68.346625,18.96945278,lake,Sweden,Europe,55.7,338.7,,,,,,,,,2.88E-05,,0.2,,Kuhn et al 2018,,Rosentreter et al 2020
+68.34651389,18.96956667,lake,Sweden,Europe,161,39.5,,,,,,,,,6.08E-06,,0.2,,Kuhn et al 2018,,Rosentreter et al 2020
+68.34637778,18.96949444,lake,Sweden,Europe,29,119,,,,,,,,,2.03E-05,,0.2,,Kuhn et al 2018,,Rosentreter et al 2020
+68.3463556,18.9682722,lake,Sweden,Europe,258,0,,,,,,,,,0.00004,,0.7,,Kuhn et al 2018,,Rosentreter et al 2020
+68.346625,18.9684417,lake,Sweden,Europe,343.1,0,,,,,,,,,0.000035,,0.4,,Kuhn et al 2018,,Rosentreter et al 2020
+68.346875,18.96955833,lake,Sweden,Europe,68.5,395.2,,,,,,,,,4.05E-05,,0.8,,Kuhn et al 2018,,Rosentreter et al 2020
+68.3571833,19.0500056,lake,Sweden,Europe,7.8,0,,,,,,,,,0.00002025,,0.3,,Kuhn et al 2018,,Rosentreter et al 2020
+68.35693611,19.05265,lake,Sweden,Europe,13.3,259.1,,,,,,,,,1.40E-04,,0.3,,Kuhn et al 2018,,Rosentreter et al 2020
+68.35688056,19.05360278,lake,Sweden,Europe,76.5,261.9,,,,,,,,,3.45E-05,,0.5,,Kuhn et al 2018,,Rosentreter et al 2020
+68.356575,19.05339722,lake,Sweden,Europe,117.2,90.4,,,,,,,,,8.93E-05,,1.3,,Kuhn et al 2018,,Rosentreter et al 2020
+68.35486111,19.04909722,lake,Sweden,Europe,9.6,171.7,,,,,,,,,,,0.5,,Kuhn et al 2018,,Rosentreter et al 2020
+68.35478611,19.04870833,lake,Sweden,Europe,94.9,550.7,,,,,,,,,,,0.4,,Kuhn et al 2018,,Rosentreter et al 2020
+68.35414444,19.04707778,lake,Sweden,Europe,114,126.2,,,,,,,,,,,0.3,,Kuhn et al 2018,,Rosentreter et al 2020
+68.35351944,19.04832778,lake,Sweden,Europe,280.8,1178.2,,,,,,,,,7.98E-05,,0.5,,Kuhn et al 2018,,Rosentreter et al 2020
+68.35280556,19.04736944,lake,Sweden,Europe,50.6,41.7,,,,,,,,,3.03E-05,,0.4,,Kuhn et al 2018,,Rosentreter et al 2020
+63.848,148.973,lake,Russia,Asia,6.3,4.7,,,,288.45,,,,,0.066,,0.5,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+70.288,-156.985,lake,United States of America,North America,0.7,0,,,,279.5166667,,,,,1.488,1.2,,,Townsend-Small et al 2017,,Rosentreter et al 2020
+70.329,-156.592,lake,United States of America,North America,7.7,0,,,,279.2166667,,,,,3.536,0.8,,,Townsend-Small et al 2017,,Rosentreter et al 2020
+70.475,-157.459,lake,United States of America,North America,4.6,1840.6,,,,281.8,,,,,9.257,3,,,Townsend-Small et al 2017,,Rosentreter et al 2020
+67.138,150.349,lake,Russia,Asia,12.3,30.2,,,,290.45,,,,,0.069,,3,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+68.462,149.393,lake,Russia,Asia,2.7,22.5,,,,286.65,,,,,0.057,,7.5,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+61,69,lake,Russia,Asia,2.4,0,,,,289.85,,,,,0.0177,,2.2,,Sabrekov et al 2017,,Rosentreter et al 2020
+57,83,lake,Russia,Asia,213.7,124.7,,,,296.05,,,,,0.0005,,0.9,,Sabrekov et al 2017,,Rosentreter et al 2020
+57,83,lake,Russia,Asia,177.6,163.2,,,,293.25,,,,,0.0184,,1.6,,Sabrekov et al 2017,,Rosentreter et al 2020
+57,83,lake,Russia,Asia,122.3,84,,,,287.65,,,,,0.007,,2.3,,Sabrekov et al 2017,,Rosentreter et al 2020
+46.243,-89.494,lake,United States of America,North America,0.3,0.6,,,,,,,0.023,,0.697,4.2,12.2,,West et al 2016,,Rosentreter et al 2020
+-17.8375,-57.3925,lake,Brazil,South America,8,82.1,,,,303.65,,,,,36.3,,,,Bastviken et al 2010,,Rosentreter et al 2020
+-18.990556,-57.494444,lake,Brazil,South America,3.2,7.1,,,,299.15,,,,,,,,,Bastviken et al 2010,,Rosentreter et al 2020
+46.246,-89.512,lake,United States of America,North America,0.9,1.8,,,,,,,0.022,,0.162,3.7,12,,West et al 2016,,Rosentreter et al 2020
+60.726,150.644,lake,Russia,Asia,4.9,1.4,,,,287.55,,,,,0.21,,24.2,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+69.581,148.639,lake,Russia,Asia,5.5,0.5,,,,288.85,,,,,0.349,,2.2,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+-32.078611,-52.1675,lake,Brazil,South America,225.5,145.2,,,,294.85,,,0.635,,0.015,2.4,,,Palma-Silva et al 2013,,Rosentreter et al 2020
+46.2305,-89.4945,lake,United States of America,North America,0,15.4,,,,,,,0.049,,0.11,2.2,3.5,,West et al 2016,,Rosentreter et al 2020
+57.74916667,76.09316667,lake,Russia,Asia,20.4,6.1,,,,,,,0.013,,7.50E-04,,2.2,,Matveev et al 2016,,Rosentreter et al 2020
+57.748167,76.092667,lake,Russia,Asia,53.8,0.4,,,,,,,0.023,,3.00E-04,,1.2,,Matveev et al 2016,,Rosentreter et al 2020
+61,69,lake,Russia,Asia,12,2.4,,,,291.55,,,,,0.3915,,3.7,,Sabrekov et al 2017,,Rosentreter et al 2020
+-19.006944,-57.550833,lake,Brazil,South America,29,219,,,,299.15,,,,,,,,,Bastviken et al 2010,,Rosentreter et al 2020
+46.21768889,-89.47504167,lake,United States of America,North America,2.2,31.6,,,,,,,0.061,,0.3125,2.7,4.9,,Bastviken et al 2004; West et al 2016,,Rosentreter et al 2020
+71.194,-156.502,lake,United States of America,North America,1.5,258.4,,,,280.3,,,,,1.745,1.1,,,Townsend-Small et al 2017,,Rosentreter et al 2020
+71.274,-156.497,lake,United States of America,North America,4.9,0,,,,277.65,,,,,1.25,1.6,,,Townsend-Small et al 2017,,Rosentreter et al 2020
+47.17,7.67,lake,Switzerland,Europe,18.3,42,,,,294.55,,,0.014,,0.2,,30,,Rinta et al 2017,,Rosentreter et al 2020
+11.00186667,76.93085,lake,India,Asia,1.6,0,,,,301.45,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
+46.20965278,-89.47367222,lake,United States of America,North America,1.1,1.5,,,,,,,0.009,,0.2585,5,18.5,,Bastviken et al 2004; West et al 2016,,Rosentreter et al 2020
+46.232,-89.5701,lake,United States of America,North America,0.3,1,,,,,,,0.033,,0.012,4.4,7.9,,West et al 2016,,Rosentreter et al 2020
+10.97576667,76.82121667,lake,India,Asia,1.3,0,,,,300.15,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
+51.93,5.15,lake,Netherlands,Europe,10.7,11.5,,,,292.85,,,0.12,,0.04,,15,,Rinta et al 2017,,Rosentreter et al 2020
+12.12213333,77.9124,lake,India,Asia,0.8,0,,,,299.45,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
+12.12581667,77.90153333,lake,India,Asia,4.8,0,,,,295.95,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
+60.704,150.787,lake,Russia,Asia,8.8,6.9,,,,290.25,,,,,1.074,,30,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+68.795,148.843,lake,Russia,Asia,8.8,9.9,,,,291.55,,,,,0.01,,1.5,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+68.626,149.555,lake,Russia,Asia,6.9,16.5,,,,285.55,,,,,0.026,,6.4,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+68.642,149.458,lake,Russia,Asia,2.5,1.4,,,,283.95,,,,,0.116,,11.9,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+68.643,149.44,lake,Russia,Asia,2.7,28.5,,,,288.95,,,,,0.027,,2.6,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+46.2166,-89.533,lake,United States of America,North America,3.4,9.7,,,,,,,0.038,,0.023,,,,Bastviken et al 2004,,Rosentreter et al 2020
+47.4,8.36,lake,Switzerland,Europe,50.8,58.3,,,,297.45,,,0.012,,0.02,,11,,Rinta et al 2017,,Rosentreter et al 2020
+60.478,150.323,lake,Russia,Asia,13.4,0,,,,289.55,,,,,0.909,,3.9,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+58.37,12.16,lake,Sweden,Europe,11.4,3.3,,,,288.85,,,0.027,,0.061,,5,,Natchimuthu et al 2016; Rinta et al 2017,,Rosentreter et al 2020
+-27.5394,152.9682,lake,Australia,Australia,0,0,,,,,,,,,0.008357,,,,Grinham et al 2018,,Rosentreter et al 2020
+46.2533,-89.4864,lake,United States of America,North America,0.3,0.9,,,,,,,0.053,,0.044,0.7,1.8,,West et al 2016,,Rosentreter et al 2020
+58.38,12.15,lake,Sweden,Europe,25.6,28.3,,,,288.85,,,0.057,,0.0375,,1.2,,Natchimuthu et al 2016,,Rosentreter et al 2020
+65.867,74.967,lake,Russia,Asia,0,0,,,,291.95,,,0.044,,0.07,,,,Repo et al 2007,,Rosentreter et al 2020
+46.71,7.44,lake,Switzerland,Europe,7.5,42.5,,,,289.25,,,0.039,,0.01,,1,,Rinta et al 2017,,Rosentreter et al 2020
+-27.5541,152.3412,lake,Australia,Australia,0,0,,,,,,,,,0.025903,,,,Grinham et al 2018,,Rosentreter et al 2020
+-27.5548,152.3394,lake,Australia,Australia,0,0,,,,,,,,,0.00345,,,,Grinham et al 2018,,Rosentreter et al 2020
+-27.5615,152.3434,lake,Australia,Australia,0,0,,,,,,,,,0.001041,,,,Grinham et al 2018,,Rosentreter et al 2020
+-27.5625,152.3447,lake,Australia,Australia,0,0,,,,,,,,,0.001893,,,,Grinham et al 2018,,Rosentreter et al 2020
+-27.5537,152.3503,lake,Australia,Australia,0,0,,,,,,,,,0.030458,,,,Grinham et al 2018,,Rosentreter et al 2020
+-27.5546,152.3488,lake,Australia,Australia,0,0,,,,,,,,,4.46E-04,,,,Grinham et al 2018,,Rosentreter et al 2020
+46.83,7.55,lake,Switzerland,Europe,65.1,109.1,,,,296.15,,,0.016,,0.24,,11,,Rinta et al 2017,,Rosentreter et al 2020
+57.93,15.57,lake,Sweden,Europe,2.4,0,,,,289.65,,,0.008,,1.67,,32,,Rinta et al 2017,,Rosentreter et al 2020
+64.916,147.847,lake,Russia,Asia,16.5,55.1,,,,282.45,,,,,0.01,,3.3,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+68.45,161.2,lake,Russia,Asia,69,11,,,,285.85,,,,,0.0787,,12,,Walter Anthony et al 2010,,Rosentreter et al 2020
+66.954,150.393,lake,Russia,Asia,5.8,6.3,,,,290.15,,,,,0.401,,1.8,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+-27.7249,152.9779,lake,Australia,Australia,0,0,,,,,,,,,5.75E-04,,,,Grinham et al 2018,,Rosentreter et al 2020
+58.77,15.14,lake,Sweden,Europe,1.3,0.2,,,,289.65,,,0.011,,0.23,,16,,Rinta et al 2017,,Rosentreter et al 2020
+58.27,15.24,lake,Sweden,Europe,2.6,27.4,,,,288.05,,,0.045,,0.99,,6,,Rinta et al 2017,,Rosentreter et al 2020
+47.61,8.83,lake,Switzerland,Europe,136.5,147.4,,,,295.85,,,0.036,,0.07,,6,,Rinta et al 2017,,Rosentreter et al 2020
+52.89,6.49,lake,Netherlands,Europe,11.7,345.4,,,,293.95,,,0.15,,0.02,,2,,Rinta et al 2017,,Rosentreter et al 2020
+46.72,8.07,lake,Switzerland,Europe,45.2,24,,,,287.45,,,0.011,,0.05,,11,,Rinta et al 2017,,Rosentreter et al 2020
+54.16,10.16,lake,Germany,Europe,11.5,48.6,,,,294.55,,,0.036,,0.19,,7,,Rinta et al 2017,,Rosentreter et al 2020
+46.2166,-89.533,lake,United States of America,North America,1.3,4.2,,,,,,,0.032,,0.3125,3.4,7.6,,Bastviken et al 2004; West et al 2016,,Rosentreter et al 2020
+47.62,8.7,lake,Switzerland,Europe,46.6,38.6,,,,298.35,,,0.007,,0.07,,14,,Rinta et al 2017,,Rosentreter et al 2020
+47.61,8.84,lake,Switzerland,Europe,9.6,10.4,,,,292.75,,,0.015,,0.34,,16,,Rinta et al 2017,,Rosentreter et al 2020
+58.57573611,14.991625,lake,Sweden,Europe,0,0,,,,287.25,,,0.025,,0.0545,,12,,Bastviken et al 2002; Rinta et al 2017,,Rosentreter et al 2020
+-27.5027,152.988,lake,Australia,Australia,0,0,,,,,,,,,4.36E-04,,,,Grinham et al 2018,,Rosentreter et al 2020
+47.2,7.66,lake,Switzerland,Europe,10.6,244.1,,,,295.65,,,0.26,,0.1,,5,,Rinta et al 2017,,Rosentreter et al 2020
+67.16666944,27.66666944,lake,Finland,Europe,7.5,0,,,,287.15,,,,,0.01,,3.2,,Huttunen et al 2002a,,Rosentreter et al 2020
+68.447,149.369,lake,Russia,Asia,5.2,24.1,,,,287.45,,,,,0.051,,7,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+62.24,25.77,lake,Finland,Europe,2.9,1.9,,,,291.35,,,0.025,,3.03,,25,,Rinta et al 2017,,Rosentreter et al 2020
+10.1891,76.37901667,lake,India,Asia,11.7,0,,,,306.15,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
+64.87,147.901,lake,Russia,Asia,12.1,68,,,,280.95,,,,,0.008,,2.1,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+58.01,15.65,lake,Sweden,Europe,7.4,0.5,,,,290.05,,,0.018,,0.96,,9,,Rinta et al 2017,,Rosentreter et al 2020
+12.70061667,79.99526667,lake,India,Asia,22.4,0,,,,296.65,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
+51.775,5.85,lake,Netherlands,Europe,26.7,160.3,,,,286.15,,,0.14,,0.0046,1.5,,,Bergen et al 2019,,Rosentreter et al 2020
+68.08333056,27.1,lake,Finland,Europe,3.5,0,,,,287.05,,,,,0.01,,1.8,,Huttunen et al 2002a,,Rosentreter et al 2020
+-19.021389,-57.548056,lake,Brazil,South America,13,249.5,,,,303.15,,,,,0.06,,,,Bastviken et al 2010,,Rosentreter et al 2020
+-19.026111,-57.542778,lake,Brazil,South America,11.2,107.8,,,,303.15,,,,,0.12,,,,Bastviken et al 2010,,Rosentreter et al 2020
+-19.030556,-57.473056,lake,Brazil,South America,11.5,22.1,,,,303.15,,,,,0.35,,,,Bastviken et al 2010,,Rosentreter et al 2020
+-19.039167,-57.368611,lake,Brazil,South America,13.9,338.3,,,,303.15,,,,,0.1,,,,Bastviken et al 2010,,Rosentreter et al 2020
+45.9921,-74.00514,lake,Canada,North America,5.3,3.8,,,,,,,0.004,,0.179,4.7,,,DelSontro et al 2016,,Rosentreter et al 2020
+45.9884,-74.0004,lake,Canada,North America,8,17.5,,,,,,,0.008,,0.11,3.5,,,DelSontro et al 2016,,Rosentreter et al 2020
+46.36,7.01,lake,Switzerland,Europe,98.4,172.6,,,,289.75,,,0.065,,0.01,,2,,Rinta et al 2017,,Rosentreter et al 2020
+46.33,7.07,lake,Switzerland,Europe,26.6,14.1,,,,292.05,,,0.029,,0.04,,9,,Rinta et al 2017,,Rosentreter et al 2020
+46.28,7.22,lake,Switzerland,Europe,2.6,8,,,,284.55,,,0.01,,0.04,,2,,Rinta et al 2017,,Rosentreter et al 2020
+46.36,7.2,lake,Switzerland,Europe,46.8,727.4,,,,293.25,,,0.013,,0.01,,5,,Rinta et al 2017,,Rosentreter et al 2020
+46.33,7.09,lake,Switzerland,Europe,1,0.6,,,,291.95,,,0.013,,0.05,,28,,Rinta et al 2017,,Rosentreter et al 2020
+46.33,7.08,lake,Switzerland,Europe,69.9,52.1,,,,292.05,,,0.007,,0.01,,11,,Rinta et al 2017,,Rosentreter et al 2020
+45.98778,-74.00806,lake,Canada,North America,39.9,21.4,,,,,,,0.01,,0.017,2.5,,,DelSontro et al 2016,,Rosentreter et al 2020
+-26.2152,152.6848,lake,Australia,Australia,0,0,,,,,,,,,0.021689,,,,Grinham et al 2018,,Rosentreter et al 2020
+-3.25,-60.567,lake,Brazil,South America,49.5,74.1,,,,,,,,,4.5,,,,Engle and Melack 2000; Crill et al 1988,,Rosentreter et al 2020
+63.0979,27.61,lake,Finland,Europe,0,0,,,,,,,0.052,,4.3,2.3,,,Juutinen et al 2003,,Rosentreter et al 2020
+32.833,35.5833,lake,Israel,Asia,3.9,313.1,,,,,,,,,167,24,43,,Schmid et al 2017,,Rosentreter et al 2020
+65.833333,24.283333,lake,Finland,Europe,0,0,,,,,,,,,0.62,6.3,13.2,,Erkkilä et al 2018,,Rosentreter et al 2020
+62.7605,30.9587,lake,Finland,Europe,0,0,,,,,,,0.03,,12.2,1.8,,,Juutinen et al 2003,,Rosentreter et al 2020
+60.15,17.33333,lake,Sweden,Europe,0,0,,,,,,,,,38,1.3,2,,Podgrajsek et al 2014,,Rosentreter et al 2020
+12.45,78.22,lake,India,Asia,23.5,73.5,,,,,,,,,0.68,1.5,,,Attermeyer 2016,,Rosentreter et al 2020
+68.33333,19.05,lake,Sweden,Europe,0,0,,,,,,,,,0.17,0.7,1.3,,Jammet et al 2015,,Rosentreter et al 2020
+46.4,7.33,lake,Switzerland,Europe,36.5,5.8,,,,290.65,,,0.007,,0.09,,4,,Rinta et al 2017,,Rosentreter et al 2020
+61,69,lake,Russia,Asia,7.2,0,,,,290.75,,,,,0.078,,2.5,,Sabrekov et al 2017,,Rosentreter et al 2020
+58.65954167,16.14175278,lake,Sweden,Europe,0,0,,,,289.95,,,0.018,,0.025,,7.5,,Bastviken et al 2002; Rinta et al 2017,,Rosentreter et al 2020
+58.3936111,15.5788889,lake,Sweden,Europe,6.4,121.8,,,,,,,,,0.0012,1.2,,,Natchimuthu et al 2014,,Rosentreter et al 2020
+-18.953056,-57.625,lake,Brazil,South America,28.5,61.2,,,,297.15,,,,,,,,,Bastviken et al 2010,,Rosentreter et al 2020
+40.072259,-105.592988,lake,United States of America,North America,0,0,,,,282.45,,,,,0.16,,7.5,,Smith and Lewis 1992,,Rosentreter et al 2020
+61.08,25.03,lake,Finland,Europe,5,13,,,,291.05,,,0.027,,0.05,,18,,Rinta et al 2017,,Rosentreter et al 2020
+60.456,150.317,lake,Russia,Asia,9.9,4.1,,,,284.75,,,,,0.471,,28,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+12.53203333,79.88516667,lake,India,Asia,36.8,0,,,,299.55,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
+58.58246944,15.86191111,lake,Sweden,Europe,0,0,,,,289.55,,,0.027,,0.3325,,15,,Bastviken et al 2002; Rinta et al 2017,,Rosentreter et al 2020
+-19.56666667,-57,lake,Brazil,South America,7,82.1,,,,,,,,,,,,,Marani and Alvalá 2007,,Rosentreter et al 2020
+61.23,25.14,lake,Finland,Europe,6.6,3.4,,,,289.15,,,0.011,,0.003,,4,,Rinta et al 2017,,Rosentreter et al 2020
+-19.38333333,-57.05,lake,Brazil,South America,6,148.2,,,,,,,,,,,,,Marani and Alvalá 2007,,Rosentreter et al 2020
+46.2531,-89.4821,lake,United States of America,North America,0.4,0,,,,,,,0.021,,0.057,4,13.7,,West et al 2016,,Rosentreter et al 2020
+62.143,150.048,lake,Russia,Asia,9.6,11.8,,,,289.35,,,,,0.3,,9,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+46.2166,-89.533,lake,United States of America,North America,3.3,56.1,,,,,,,0.028,,0.3125,2.4,6.7,,Bastviken et al 2004; West et al 2016,,Rosentreter et al 2020
+-27.4763,152.9642,lake,Australia,Australia,0,0,,,,,,,,,5.80E-04,,,,Grinham et al 2018,,Rosentreter et al 2020
+-23.8008,150.9558,lake,Australia,Australia,0,0,,,,,,,,,0.005025,,,,Grinham et al 2018,,Rosentreter et al 2020
+-23.806,150.9574,lake,Australia,Australia,0,0,,,,,,,,,0.001256,,,,Grinham et al 2018,,Rosentreter et al 2020
+-23.8015,150.9446,lake,Australia,Australia,0,0,,,,,,,,,0.016093,,,,Grinham et al 2018,,Rosentreter et al 2020
+60.983,70.167,lake,Russia,Asia,0,0,,,,291.95,,,0.006,,0.23,,,,Repo et al 2007,,Rosentreter et al 2020
+60.983,70.167,lake,Russia,Asia,0,0,,,,291.95,,,0.005,,0.005,,,,Repo et al 2007,,Rosentreter et al 2020
+61,69,lake,Russia,Asia,4.8,0.2,,,,292.15,,,,,5.364,,1.5,,Sabrekov et al 2017,,Rosentreter et al 2020
+-18.994722,-56.656111,lake,Brazil,South America,6.3,324.8,,,,302.65,,,,,,,,,Bastviken et al 2010,,Rosentreter et al 2020
+-19.003889,-56.631667,lake,Brazil,South America,11.7,176.4,,,,303.15,,,,,,,,,Bastviken et al 2010,,Rosentreter et al 2020
+-18.966944,-56.6325,lake,Brazil,South America,7.7,191.6,,,,300.15,,,,,0.12,,,,Bastviken et al 2010,,Rosentreter et al 2020
+-18.973611,-56.646111,lake,Brazil,South America,10.6,12.3,,,,307.15,,,,,0.1,,,,Bastviken et al 2010,,Rosentreter et al 2020
+-18.983056,-56.66,lake,Brazil,South America,11.1,72.1,,,,302.65,,,,,0.16,,,,Bastviken et al 2010,,Rosentreter et al 2020
+8.12195,77.50091667,lake,India,Asia,26.9,0,,,,303.45,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
+68.647,149.582,lake,Russia,Asia,3.6,9,,,,288.45,,,,,0.067,,2.7,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+12.66358333,80.03023333,lake,India,Asia,3.2,0,,,,300.45,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
+61.23,25.19,lake,Finland,Europe,0.6,4,,,,290.05,,,0.01,,0.004,,13,,Rinta et al 2017,,Rosentreter et al 2020
+8.11575,77.52621667,lake,India,Asia,325.6,0,,,,301.15,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
+46.2166,-89.533,lake,United States of America,North America,1.3,2.6,,,,,,,0.016,,0.3125,4.1,8,,Bastviken et al 2004; West et al 2016,,Rosentreter et al 2020
+47.62,8.82,lake,Switzerland,Europe,3.5,191,,,,292.75,,,0.024,,0.25,,8,,Rinta et al 2017,,Rosentreter et al 2020
+63.215,147.678,lake,Russia,Asia,3,0.3,,,,283.35,,,,,0.02,,9.4,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+63.842,149.037,lake,Russia,Asia,13.4,6.3,,,,285.15,,,,,0.515,,3.1,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+-27.8924,153.2997,lake,Australia,Australia,0,0,,,,,,,,,0.036938,,,,Grinham et al 2018,,Rosentreter et al 2020
+8.144433333,77.45608333,lake,India,Asia,0,0,,,,303.75,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
+39.654905,-105.87899,lake,United States of America,North America,0,0,,,,279.75,,,,,0.016,,3.5,,Smith and Lewis 1992,,Rosentreter et al 2020
+46.25154167,-89.503675,lake,United States of America,North America,5,42.2,,,,,,,0.026,,0.3125,3.8,12,,Bastviken et al 2004; West et al 2016,,Rosentreter et al 2020
+46.253025,-89.50385833,lake,United States of America,North America,3.3,21.6,,,,,,,0.01,,0.3125,5.8,18,,Bastviken et al 2004; West et al 2016,,Rosentreter et al 2020
+67.136,150.37,lake,Russia,Asia,2.7,16.7,,,,291.65,,,,,0.102,,1.4,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+-27.5372,152.9139,lake,Australia,Australia,0,0,,,,,,,,,0.056782,,,,Grinham et al 2018,,Rosentreter et al 2020
+-27.5294,152.9242,lake,Australia,Australia,0,0,,,,,,,,,0.001943,,,,Grinham et al 2018,,Rosentreter et al 2020
+-27.5294,152.9227,lake,Australia,Australia,0,0,,,,,,,,,2.10E-04,,,,Grinham et al 2018,,Rosentreter et al 2020
+54.18,10.44,lake,Germany,Europe,8.8,72.6,,,,294.35,,,0.035,,0.14,,29,,Rinta et al 2017,,Rosentreter et al 2020
 -32.027778,-52.094444,lake,NA,,18.6,1.5,,,,294.45,,,0.035,,0.01,1.5,,,Palma-Silva et al 2013,,Rosentreter et al 2020
-48.15804,-71.19579,lake,Canada,,13.9,34,,,,,,,0.041,,0.0016,0.7,,,DelSontro et al 2016,,Rosentreter et al 2020
-48.8047,-71.18759,lake,Canada,,35.2,28,,,,,,,0.027,,0.0036,0.8,,,DelSontro et al 2016,,Rosentreter et al 2020
-48.25998,-71.43696,lake,Canada,,119.1,109.5,,,,,,,0.025,,0.042,0.8,,,DelSontro et al 2016,,Rosentreter et al 2020
-48.25814,-71.43798,lake,Canada,,101.4,98.6,,,,,,,0.025,,0.0048,0.8,,,DelSontro et al 2016,,Rosentreter et al 2020
-48.23717,-71.42427,lake,Canada,,25.1,66.1,,,,,,,0.019,,0.012,0.9,,,DelSontro et al 2016,,Rosentreter et al 2020
-48.24545,-71.44151,lake,Canada,,54.8,33.8,,,,,,,0.048,,0.006,0.7,,,DelSontro et al 2016,,Rosentreter et al 2020
-48.23377,-71.42531,lake,Canada,,11.8,20.2,,,,,,,0.014,,0.0012,0.8,,,DelSontro et al 2016,,Rosentreter et al 2020
-48.1162,-71.05231,lake,Canada,,56.2,95.8,,,,,,,0.028,,0.0075,0.6,,,DelSontro et al 2016,,Rosentreter et al 2020
-48.10838,-71.06432,lake,Canada,,9.2,82.3,,,,,,,0.021,,0.0072,0.7,,,DelSontro et al 2016,,Rosentreter et al 2020
-48.28355,-71.39914,lake,Canada,,26,78.2,,,,,,,0.039,,0.01,0.8,,,DelSontro et al 2016,,Rosentreter et al 2020
--27.3917,153.1676,lake,Australia,,0,0,,,,,,,,,0.038285,,,,Grinham et al 2018,,Rosentreter et al 2020
-29,116,lake,China,,0,0,,,,,,,0.11,,2500,,,,Liu et al 2017,,Rosentreter et al 2020
--18.996944,-57.424167,lake,Brazil,,13.8,13.3,,,,300.15,,,,,,,,,Bastviken et al 2010,,Rosentreter et al 2020
-54.37225556,-2.990408333,lake,United Kingdom,,5.4,198.7,,,,290.05,,,0.6,,0.01,2.3,3.9,,Casper et al 2000,,Rosentreter et al 2020
-13.7486,80.06683333,lake,India,,0.3,0,,,,306.05,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
-13.61616667,79.99638333,lake,India,,1.9,0,,,,304.35,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
-40.011472,-105.578045,lake,United States of America,,0,0,,,,283.55,,,,,0.01,,1,,Smith and Lewis 1992,,Rosentreter et al 2020
-46.25,-89.506,lake,United States of America,,0.4,0.1,,,,,,,0.023,,0.042,3,6.1,,West et al 2016,,Rosentreter et al 2020
-40.081601,-105.541105,lake,United States of America,,0,0,,,,283.05,,,,,0.021,,1,,Smith and Lewis 1992,,Rosentreter et al 2020
-46.22771944,-89.54960833,lake,United States of America,,1.4,0.3,,,,,,,0.006,,0.45,4.2,10,,Bastviken et al 2004,,Rosentreter et al 2020
-64.77,148.079,lake,Russia,,439.6,267.4,,,,285.05,,,,,0.004,,3.7,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
-47.07,6.31,lake,France,,6.4,87,,,,294.85,,,0.034,,0.44,,16,,Rinta et al 2017,,Rosentreter et al 2020
-55.2188,77.70795,lake,Russia,,78.5,7.1,,,,,,,0.034,,0.00168,,1.6,,Matveev et al 2016,,Rosentreter et al 2020
-55.219013,77.707801,lake,Russia,,352.3,6.7,,,,,,,0.017,,1.71E-04,,1.2,,Matveev et al 2016,,Rosentreter et al 2020
-55.225018,77.69658,lake,Russia,,36,3.2,,,,,,,0.016,,2.30E-04,,2.7,,Matveev et al 2016,,Rosentreter et al 2020
-55.225212,77.696017,lake,Russia,,83.5,0,,,,,,,0.036,,1.13E-04,,1.5,,Matveev et al 2016,,Rosentreter et al 2020
-55.225083,77.694933,lake,Russia,,61.6,7.2,,,,,,,0.031,,1.85E-04,,2.1,,Matveev et al 2016,,Rosentreter et al 2020
-54.17,10.44,lake,Germany,,15.7,28.4,,,,293.45,,,0.017,,0.75,,29,,Rinta et al 2017,,Rosentreter et al 2020
-46.67,7.28,lake,Switzerland,,11.2,0,,,,290.35,,,0.015,,0.45,,9,,Rinta et al 2017,,Rosentreter et al 2020
-47.19,9.33,lake,Switzerland,,43.1,2.6,,,,296.15,,,0.016,,0.03,,10,,Rinta et al 2017,,Rosentreter et al 2020
-47.27,9.4,lake,Switzerland,,4.3,0,,,,284.55,,,0.01,,0.13,,15,,Rinta et al 2017,,Rosentreter et al 2020
-46.58,7.44,lake,Switzerland,,103.5,0,,,,288.25,,,0.012,,0.06,,15,,Rinta et al 2017,,Rosentreter et al 2020
-46.96,8.57,lake,Switzerland,,11.7,6.1,,,,295.15,,,0.009,,0.17,,38,,Rinta et al 2017,,Rosentreter et al 2020
-68.45,161.2,lake,Russia,,10,71.2,,,,286.45,,,,,0.0487,,11,,Walter Anthony et al 2010,,Rosentreter et al 2020
-58.76,16.23,lake,Sweden,,2.9,0.8,,,,291.25,,,0.012,,0.16,,13,,Rinta et al 2017,,Rosentreter et al 2020
-58.35,12.13,lake,Sweden,,6.5,23.3,,,,290.45,,,0.041,,0.4909,,3.6,,Natchimuthu et al 2016; Rinta et al 2017,,Rosentreter et al 2020
-64.865,147.868,lake,Russia,,8.8,8.2,,,,292.15,,,,,0.094,,4.4,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
-47.09,8.08,lake,Switzerland,,25.6,24.4,,,,,,,0.07,,0.23,12.2,26,,Vachon et al 2019,,Rosentreter et al 2020
--27.4996,153.0163,lake,Australia,,0,0,,,,,,,,,0.022727,,,,Grinham et al 2018,,Rosentreter et al 2020
--27.4984,153.0173,lake,Australia,,0,0,,,,,,,,,0.004291,,,,Grinham et al 2018,,Rosentreter et al 2020
--27.4981,153.0167,lake,Australia,,0,0,,,,,,,,,0.001755,,,,Grinham et al 2018,,Rosentreter et al 2020
-64.863,147.871,lake,Russia,,8.5,185.9,,,,290.75,,,,,0.002,,1.1,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
-58.62,15.15,lake,Sweden,,2.6,0,,,,288.75,,,0.009,,1.13,,21,,Rinta et al 2017,,Rosentreter et al 2020
-13.70025,80.02773333,lake,India,,0,0,,,,304.35,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
-63.055,147.421,lake,Russia,,2.2,9.6,,,,286.85,,,,,0.142,,4.9,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
-61.19,25.14,lake,Finland,,8.7,2.1,,,,288.35,,,0.003,,0.01,,9,,Rinta et al 2017,,Rosentreter et al 2020
--18.960556,-57.441111,lake,Brazil,,2.9,1.1,,,,297.15,,,,,,,,,Bastviken et al 2010,,Rosentreter et al 2020
-10.80893333,79.13895,lake,India,,0,0,,,,308.15,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
-68.632,149.605,lake,Russia,,2.5,1.9,,,,283.45,,,,,1.449,,24.1,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
--17.853333,-57.481667,lake,Brazil,,10.4,81.9,,,,304.15,,,,,71.4,,,,Bastviken et al 2010,,Rosentreter et al 2020
-10.80701667,79.13458333,lake,India,,18.1,0,,,,306.65,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
-10.81418333,79.13475,lake,India,,3.5,0,,,,304.85,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
-68.45,161.2,lake,Russia,,11,71.2,,,,287.45,,,,,0.0925,,17,,Walter Anthony et al 2010,,Rosentreter et al 2020
-46.25129722,-89.49767778,lake,United States of America,,4.4,2.1,,,,,,,0.012,,0.3125,6.9,15,,Bastviken et al 2004; West et al 2016,,Rosentreter et al 2020
-47.27,8.5,lake,Switzerland,,21.3,1,,,,297.65,,,0.009,,0.48,,25,,Rinta et al 2017,,Rosentreter et al 2020
-46.73,7.57,lake,Switzerland,,76.1,50.6,,,,296.55,,,0.016,,0.14,,15,,Rinta et al 2017,,Rosentreter et al 2020
-61.24,25.06,lake,Finland,,0.3,1.9,,,,290.75,,,0.011,,0.04,,8,,Rinta et al 2017,,Rosentreter et al 2020
-65.029,147.699,lake,Russia,,13.2,86.4,,,,282.65,,,,,0.003,,4.6,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
-58.25,26.0417,lake,Estonia,,40.7,14,,,,281.45,,,,,270,2.8,6,,Room et al 2014,,Rosentreter et al 2020
-46.25493056,-89.517475,lake,United States of America,,5.4,36.5,,,,,,,0.027,,0.027,2.7,8.2,,Bastviken et al 2004,,Rosentreter et al 2020
-46.23563,-89.5028,lake,United States of America,,0.7,0,,,,,,,0.022,,0.049,3.9,14,,West et al 2016,,Rosentreter et al 2020
-42.397707,-85.385187,lake,United States of America,,673.1,336.6,,,,,,,,,0.15,3.54,,,Strayer and Tiedje 1978,,Rosentreter et al 2020
-34.14,-84.64,reservoir,United States of America,,13.9,15.7,,,,295.4,,,,,49,9.2,,,Bevelhimer et al 2016,,Rosentreter et al 2020
-42.1687,3.0264,reservoir,Spain,,0.3,0,,,,295.95,,,,,0.001,1.5,3.6,,Gomez-Gener et al 2015,,Rosentreter et al 2020
--1.791044776,-59.56586826,reservoir,Brazil,,0,0,,,,,,,,,2360,,,,"Guerin et al 2006, Kemenes et al 2007, Bastviken et al 2011",,Rosentreter et al 2020
--22.52,-48.58333333,reservoir,Brazil,,17,4,,,,,,,0.103,,324,11.1,,,Rosa et al 2004,,Rosentreter et al 2020
-42.3492,2.8285,reservoir,Spain,,3.1,14,,,,297.05,,,,,0.037,1.1,2.6,,Gomez-Gener et al 2015,,Rosentreter et al 2020
--15.585833,32.704722,reservoir,Mozambique,,0,0,,,,,,,,,2675,20.9,,,Teodoru et al 2015,,Rosentreter et al 2020
--15.5874,32.3754,reservoir,Mozambique,,0,0,,,,304.75,,,,,,,,,Teodoru et al 2015,,Rosentreter et al 2020
--15.5567,32.6337,reservoir,Mozambique,,0,0,,,,303.75,,,,,,,,,Teodoru et al 2015,,Rosentreter et al 2020
-47.28,-121.1075,reservoir,United States of America,,1.2,0.5,,,,,,,,,19.4,,,,Harrison et al 2017,,Rosentreter et al 2020
--17.986868,-48.524553,reservoir,Brazil,,41.9,263.6,,,,299.3125,,,,,60,21.8,,,Bergier et al 2011,,Rosentreter et al 2020
--2.82,-54.28333333,reservoir,Brazil,,18,38.7,,,,,,,,,72,6.9,,,Duchemin et al 2000,,Rosentreter et al 2020
-35.96,-83.54,reservoir,United States of America,,7.6,0,,,,296.6,,,,,115,11.6,,,Bevelhimer et al 2016,,Rosentreter et al 2020
-51.5,-74,reservoir,Canada,,7.7,0.4,,,,,,,0.014,,602.9,16,63,,Teodoru et al 2012,,Rosentreter et al 2020
--6.58,-37.26,reservoir,Brazil,,14.7,22.7,,,,,,,0.101,,0.2,2,,,Almeida et al 2016,,Rosentreter et al 2020
-46.43071,1.613706,reservoir,France,,15.5,2.7,,,,,,,,,2.7,18,58,,Descloux et al 2017,,Rosentreter et al 2020
-49.67,-94.75,reservoir,Canada,,1.9,3.3,,,,,,,,,0.0074,0.9,,,Matthews et al 2005,,Rosentreter et al 2020
-49.77,-93.8,reservoir,Canada,,0,0,,,,,,,,,0.17,,,,Kelly et al 1997,,Rosentreter et al 2020
-49.67,-94.75,reservoir,Canada,,0.9,3,,,,,,,,,0.0063,1.1,,,Matthews et al 2005,,Rosentreter et al 2020
-49.67,-94.75,reservoir,Canada,,1.6,2.2,,,,,,,,,0.005,0.9,,,Matthews et al 2005,,Rosentreter et al 2020
-42.15,-122.6,reservoir,United States of America,,4,0,,,,,,,0.017,,3.26,16.1,,,Deemer et al 2016,,Rosentreter et al 2020
-35.45,-83.81,reservoir,United States of America,,5.8,0,,,,292.55,,,,,43,41.4,,,Bevelhimer et al 2016,,Rosentreter et al 2020
-44.42,-122.6166667,reservoir,United States of America,,3.2,52.5,,,,,,,,,4.9,15.2,,,Harrison et al 2017,,Rosentreter et al 2020
--22.5290575,-44.5629325,reservoir,Brazil,,1.2,75.7,,,,300.65,,,0.052,,33.5,19.7,,,Ometto et al 2013,,Rosentreter et al 2020
--20.71654975,-45.92598925,reservoir,Brazil,,5.8,288.2,,,,297.84,,,,,1440,14.375,,,da Silva et al 2018; Ometto et al 2013,,Rosentreter et al 2020
-9.23,-79.88333333,reservoir,Panama,,12.4,525.1,,,,301.9,,,0.05,,431,12.4,,,Keller and Stallard 1994,,Rosentreter et al 2020
--27.45,152.86,reservoir,Australia,,0,0,,,,,,,,,0.19,,,,Sturm et al 2014,,Rosentreter et al 2020
-34.42,-86.39,reservoir,United States of America,,5.4,13.8,,,,296.8,,,,,279,4.5,,,Bevelhimer et al 2016,,Rosentreter et al 2020
-34.47,-82.85,reservoir,United States of America,,22.8,0.2,,,,293.1,,,,,226,13.9,,,Bevelhimer et al 2016,,Rosentreter et al 2020
-40.008226,21.816314,reservoir,Greece,,0,0,,,,292.75,,,,,21.9,,,,Samiotis et al 2018,,Rosentreter et al 2020
--25.38,-54.55,reservoir,Brazil,,7.9,0.6,,,,,,,,,1350,95.6,,,dos Santos et al 2006,,Rosentreter et al 2020
--15.7444756,25.9859312,reservoir,Zambia,,0,0,,,,300.05,,,,,365,,,,Teodoru et al 2015,,Rosentreter et al 2020
--18.4,-49.05,reservoir,Brazil,,10.9,41.7,,,,,,,,,719,21,,,Ometto et al 2013,,Rosentreter et al 2020
-42.13,-122.0333333,reservoir,United States of America,,15.9,465.9,,,,,,,,,1.7,3.4,,,Harrison et al 2017,,Rosentreter et al 2020
-47.25,-121.2,reservoir,United States of America,,2.1,0.5,,,,,,,,,18.37,,,,Harrison et al 2017,,Rosentreter et al 2020
--16.93756,28.0884,reservoir,Zimbabwe,,0.3,19.8,,,,301.95,,,,,5400,,,,DelSontro et al 2011; Teodoru et al 2015,,Rosentreter et al 2020
-47.35,-121.3691,reservoir,United States of America,,0.9,0.1,,,,,,,,,9.75,,,,Deemer et al 2016,,Rosentreter et al 2020
-42.12,-121.9166667,reservoir,United States of America,,13.1,311.2,,,,,,,,,9.8,,,,Harrison et al 2017,,Rosentreter et al 2020
--20.15,-47.25,reservoir,Brazil,,4.4,4.4,,,,295.485,,,,,,,,,Ometto et al 2013,,Rosentreter et al 2020
-45.37,-122.25,reservoir,United States of America,,8.4,80.1,,,,,,,,,1.3,7.8,,,Harrison et al 2017,,Rosentreter et al 2020
-39.62,-106.05,reservoir,United States of America,,21.4,0,,,,285.85,,,,,13,24.6,57,,Smith and Lewis 1992,,Rosentreter et al 2020
-47.02556,8.98056,reservoir,Switzerland,,2.3,0,,,,,,,,,2.25,,45,,Sollberger et al 2017,,Rosentreter et al 2020
-49.295556,6.764722,reservoir,Germany,,4.6,113.9,,,,,,,,,0.06,,,,Maeck et al 2013,,Rosentreter et al 2020
--28.152833,153.28265,reservoir,Australia,,50.1,294.5,,,,,,,0.024,,0.5,,,,Grinham et al 2011,,Rosentreter et al 2020
-67.82,27.73333333,reservoir,Finland,,22.9,115.5,,,,283.33,,,0.033,,417,3.65,,,Huttunen et al 2002b,,Rosentreter et al 2020
-46.562363,-118.53633,reservoir,United States of America,,0.4,522.5,,,,291.75,,,,,26.7,,,,Miller et al 2017,,Rosentreter et al 2020
-52.969,91.498,reservoir,Russia,,0,0,,,,,,,,,11.5,,,,Fedorov et al 2015,,Rosentreter et al 2020
-8.645533333,77.42356667,reservoir,India,,0.2,0,,,,306.15,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
--14.87,-55.76666667,reservoir,Brazil,,17.7,108.4,,,,,,,,,357,15.7,,,Ometto et al 2013,,Rosentreter et al 2020
--20.27,-47.05,reservoir,Brazil,,12.7,6.6,,,,,,,,,249,,,,Ometto et al 2013,,Rosentreter et al 2020
-49.491389,6.580556,reservoir,Germany,,3.7,48.1,,,,,,,,,0.39,,,,Maeck et al 2013,,Rosentreter et al 2020
--18.92,-48.03333333,reservoir,Brazil,,130.6,31.9,,,,,,,,,51,158.1,,,Rosa et al 2004; dos Santos et al 2006,,Rosentreter et al 2020
-18.45,102.95,reservoir,Laos,,40.1,0,,,,,,,,,13,14,,,Chanudet et al 2011,,Rosentreter et al 2020
-18.53,103.55,reservoir,Laos,,3.2,0,,,,,,,,,350,19,,,Chanudet et al 2011,,Rosentreter et al 2020
-17.988472,104.951111,reservoir,Laos,,32.3,76.9,,,,,,,,,355,7.8,,,Deshmukh et al 2014; Guerin et al 2016,,Rosentreter et al 2020
-50.78,23.01666667,reservoir,Poland,,0,0,,,,,,,,,10.6,2,,,Gruca-Rokosz et al 2011,,Rosentreter et al 2020
-28.549,77.3157,reservoir,India,,0,0,,,,301.49,,,,,3.7,2,,,Bansal et al 2015,,Rosentreter et al 2020
-42.249,2.49105,reservoir,Spain,,7.3,63.8,,,,290.45,,,,,2.56,16.5,45.5,,Gomez-Gener et al 2015,,Rosentreter et al 2020
-10.38188333,77.48873333,reservoir,India,,1,0,,,,302.75,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
--19.83,-43.96666667,reservoir,Brazil,,55.4,734.3,,,,,,,,,1.96,5.08,,,de Mello et al 2018,,Rosentreter et al 2020
-10.43288333,77.68913333,reservoir,India,,4.6,0,,,,300.65,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
-5.05,-53.03333333,reservoir,French Guiana,,0,0,,,,,,,,,365,9.6,,,Guerin et al 2006; Abril et al 2005,,Rosentreter et al 2020
-40.23487,21.963786,reservoir,Greece,,0,0,,,,292.55,,,,,74,,,,Samiotis et al 2018,,Rosentreter et al 2020
-68,26.75,reservoir,Finland,,3.5,0.8,,,,285.2,,,0.017,,214,6.3,,,Huttunen et al 2002b,,Rosentreter et al 2020
-46.643188,-119.912836,reservoir,United States of America,,0.9,560.8,,,,291.85,,,,,31.3,,,,Miller et al 2017,,Rosentreter et al 2020
-49.373611,6.699444,reservoir,Germany,,2.9,32.1,,,,,,,,,0.17,,,,Maeck et al 2013,,Rosentreter et al 2020
-50.01,21.99,reservoir,Poland,,0,0,,,,288.675,,,,,1.18,0.5,,,Gruca-Rokosz et al 2010,,Rosentreter et al 2020
-49.239722,6.929444,reservoir,Germany,,3.4,0,,,,,,,,,0.04,,,,Maeck et al 2013,,Rosentreter et al 2020
--8.8,-63.41666667,reservoir,Brazil,,86.7,16.5,,,,,,,,,559,8.9,,,"Lima et al 2005, Lima et al 2002, dos Santos et al 2006, Rosa et al 2004, Rosa 2003, Guerin et al 2006",,Rosentreter et al 2020
-52.825833,91.370278,reservoir,Russia,,0,0,,,,,,,,,608,,,,Fedorov et al 2015,,Rosentreter et al 2020
--25.804182,-52.1340365,reservoir,Brazil,,7,1.8,,,,,,,,,81.5,36.6,,,dos Santos et al 2006; Rosa et al 2004,,Rosentreter et al 2020
-42.1867,2.7642,reservoir,Spain,,0.5,3.6,,,,294.83,,,,,0.012,2.5,5.4,,Gomez-Gener et al 2015,,Rosentreter et al 2020
--13.9347865,-48.31485917,reservoir,Brazil,,13.5,110.5,,,,,,,,,1784,30.5,,,"dos Santos et al 2006, Ometto et al 2013, St. Louis et al 2000",,Rosentreter et al 2020
-49.566667,6.5925,reservoir,Germany,,5.8,439.5,,,,,,,,,0.38,,,,Maeck et al 2013,,Rosentreter et al 2020
-49.37,22.45,reservoir,Poland,,0,0,,,,,,,,,22,22,,,Gruca-Rokosz et al 2010,,Rosentreter et al 2020
-42.3017,2.58897,reservoir,Spain,,0,0,,,,290.65,,,,,0.109,1.8,5.7,,Gómez-Gener et al 2015,,Rosentreter et al 2020
-30.38,78.48,reservoir,India,,23.1,4.8,,,,,,,,,52,,,,Kumar and Sharma 2016,,Rosentreter et al 2020
-8.392416667,77.25766667,reservoir,India,,5.9,136.2,,,,304.15,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
-31.03,109.55,reservoir,China,,0,0,,,,,,,0.142,,1084,70,,,Chen et al 2011; Zhao et al 2013; Lu et al 2011,,Rosentreter et al 2020
--18.23,-45.25,reservoir,Brazil,,19.7,164.8,,,,,,,,,1040,20.2,,,"Rosa et al 2004, dos Santos et al 2006",,Rosentreter et al 2020
--3.919906333,-49.608933,reservoir,Brazil,,69.8,27.9,,,,,,,,,2484.333333,18.9,,,Lima et al 2002; dos Santos et al 2006; Lima et al 2005; Rosa et al 2004; Rosa 2003; Lima et al 1998,,Rosentreter et al 2020
-10.8215,79.0531,reservoir,India,,5.6,49.4,,,,308.15,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
-35.62,-84.78,reservoir,United States of America,,6.6,1,,,,299.05,,,,,176,7.9,,,Bevelhimer et al 2016,,Rosentreter et al 2020
-21.9,50.35,reservoir,Saudi Arabia,,0,0,,,,285.15,,,,,1.6,2.6,,,Gruca-Rokosz et al 2010,,Rosentreter et al 2020
-39.02139758,-84.11910428,reservoir,United States of America,,42.6,640.4,,,,300.35,,,0.144,,8.53,,,,Beaulieu et al 2014; 2016; 2018,,Rosentreter et al 2020
-46.97,7.283333333,reservoir,Switzerland,,8.6,330.5,,,,,,,0.03,,2.5,10,,,Eugster et al 2011; DelSontro et al 2010,,Rosentreter et al 2020
--9.62,-37.78333333,reservoir,Brazil,,29.2,10.8,,,,,,,,,60,11.7,,,Rosa et al 2004; dos Santos et al 2006,,Rosentreter et al 2020
+48.15804,-71.19579,lake,Canada,North America,13.9,34,,,,,,,0.041,,0.0016,0.7,,,DelSontro et al 2016,,Rosentreter et al 2020
+48.8047,-71.18759,lake,Canada,North America,35.2,28,,,,,,,0.027,,0.0036,0.8,,,DelSontro et al 2016,,Rosentreter et al 2020
+48.25998,-71.43696,lake,Canada,North America,119.1,109.5,,,,,,,0.025,,0.042,0.8,,,DelSontro et al 2016,,Rosentreter et al 2020
+48.25814,-71.43798,lake,Canada,North America,101.4,98.6,,,,,,,0.025,,0.0048,0.8,,,DelSontro et al 2016,,Rosentreter et al 2020
+48.23717,-71.42427,lake,Canada,North America,25.1,66.1,,,,,,,0.019,,0.012,0.9,,,DelSontro et al 2016,,Rosentreter et al 2020
+48.24545,-71.44151,lake,Canada,North America,54.8,33.8,,,,,,,0.048,,0.006,0.7,,,DelSontro et al 2016,,Rosentreter et al 2020
+48.23377,-71.42531,lake,Canada,North America,11.8,20.2,,,,,,,0.014,,0.0012,0.8,,,DelSontro et al 2016,,Rosentreter et al 2020
+48.1162,-71.05231,lake,Canada,North America,56.2,95.8,,,,,,,0.028,,0.0075,0.6,,,DelSontro et al 2016,,Rosentreter et al 2020
+48.10838,-71.06432,lake,Canada,North America,9.2,82.3,,,,,,,0.021,,0.0072,0.7,,,DelSontro et al 2016,,Rosentreter et al 2020
+48.28355,-71.39914,lake,Canada,North America,26,78.2,,,,,,,0.039,,0.01,0.8,,,DelSontro et al 2016,,Rosentreter et al 2020
+-27.3917,153.1676,lake,Australia,Australia,0,0,,,,,,,,,0.038285,,,,Grinham et al 2018,,Rosentreter et al 2020
+29,116,lake,China,Asia,0,0,,,,,,,0.11,,2500,,,,Liu et al 2017,,Rosentreter et al 2020
+-18.996944,-57.424167,lake,Brazil,South America,13.8,13.3,,,,300.15,,,,,,,,,Bastviken et al 2010,,Rosentreter et al 2020
+54.37225556,-2.990408333,lake,United Kingdom,Europe,5.4,198.7,,,,290.05,,,0.6,,0.01,2.3,3.9,,Casper et al 2000,,Rosentreter et al 2020
+13.7486,80.06683333,lake,India,Asia,0.3,0,,,,306.05,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
+13.61616667,79.99638333,lake,India,Asia,1.9,0,,,,304.35,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
+40.011472,-105.578045,lake,United States of America,North America,0,0,,,,283.55,,,,,0.01,,1,,Smith and Lewis 1992,,Rosentreter et al 2020
+46.25,-89.506,lake,United States of America,North America,0.4,0.1,,,,,,,0.023,,0.042,3,6.1,,West et al 2016,,Rosentreter et al 2020
+40.081601,-105.541105,lake,United States of America,North America,0,0,,,,283.05,,,,,0.021,,1,,Smith and Lewis 1992,,Rosentreter et al 2020
+46.22771944,-89.54960833,lake,United States of America,North America,1.4,0.3,,,,,,,0.006,,0.45,4.2,10,,Bastviken et al 2004,,Rosentreter et al 2020
+64.77,148.079,lake,Russia,Asia,439.6,267.4,,,,285.05,,,,,0.004,,3.7,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+47.07,6.31,lake,France,Europe,6.4,87,,,,294.85,,,0.034,,0.44,,16,,Rinta et al 2017,,Rosentreter et al 2020
+55.2188,77.70795,lake,Russia,Asia,78.5,7.1,,,,,,,0.034,,0.00168,,1.6,,Matveev et al 2016,,Rosentreter et al 2020
+55.219013,77.707801,lake,Russia,Asia,352.3,6.7,,,,,,,0.017,,1.71E-04,,1.2,,Matveev et al 2016,,Rosentreter et al 2020
+55.225018,77.69658,lake,Russia,Asia,36,3.2,,,,,,,0.016,,2.30E-04,,2.7,,Matveev et al 2016,,Rosentreter et al 2020
+55.225212,77.696017,lake,Russia,Asia,83.5,0,,,,,,,0.036,,1.13E-04,,1.5,,Matveev et al 2016,,Rosentreter et al 2020
+55.225083,77.694933,lake,Russia,Asia,61.6,7.2,,,,,,,0.031,,1.85E-04,,2.1,,Matveev et al 2016,,Rosentreter et al 2020
+54.17,10.44,lake,Germany,Europe,15.7,28.4,,,,293.45,,,0.017,,0.75,,29,,Rinta et al 2017,,Rosentreter et al 2020
+46.67,7.28,lake,Switzerland,Europe,11.2,0,,,,290.35,,,0.015,,0.45,,9,,Rinta et al 2017,,Rosentreter et al 2020
+47.19,9.33,lake,Switzerland,Europe,43.1,2.6,,,,296.15,,,0.016,,0.03,,10,,Rinta et al 2017,,Rosentreter et al 2020
+47.27,9.4,lake,Switzerland,Europe,4.3,0,,,,284.55,,,0.01,,0.13,,15,,Rinta et al 2017,,Rosentreter et al 2020
+46.58,7.44,lake,Switzerland,Europe,103.5,0,,,,288.25,,,0.012,,0.06,,15,,Rinta et al 2017,,Rosentreter et al 2020
+46.96,8.57,lake,Switzerland,Europe,11.7,6.1,,,,295.15,,,0.009,,0.17,,38,,Rinta et al 2017,,Rosentreter et al 2020
+68.45,161.2,lake,Russia,Asia,10,71.2,,,,286.45,,,,,0.0487,,11,,Walter Anthony et al 2010,,Rosentreter et al 2020
+58.76,16.23,lake,Sweden,Europe,2.9,0.8,,,,291.25,,,0.012,,0.16,,13,,Rinta et al 2017,,Rosentreter et al 2020
+58.35,12.13,lake,Sweden,Europe,6.5,23.3,,,,290.45,,,0.041,,0.4909,,3.6,,Natchimuthu et al 2016; Rinta et al 2017,,Rosentreter et al 2020
+64.865,147.868,lake,Russia,Asia,8.8,8.2,,,,292.15,,,,,0.094,,4.4,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+47.09,8.08,lake,Switzerland,Europe,25.6,24.4,,,,,,,0.07,,0.23,12.2,26,,Vachon et al 2019,,Rosentreter et al 2020
+-27.4996,153.0163,lake,Australia,Australia,0,0,,,,,,,,,0.022727,,,,Grinham et al 2018,,Rosentreter et al 2020
+-27.4984,153.0173,lake,Australia,Australia,0,0,,,,,,,,,0.004291,,,,Grinham et al 2018,,Rosentreter et al 2020
+-27.4981,153.0167,lake,Australia,Australia,0,0,,,,,,,,,0.001755,,,,Grinham et al 2018,,Rosentreter et al 2020
+64.863,147.871,lake,Russia,Asia,8.5,185.9,,,,290.75,,,,,0.002,,1.1,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+58.62,15.15,lake,Sweden,Europe,2.6,0,,,,288.75,,,0.009,,1.13,,21,,Rinta et al 2017,,Rosentreter et al 2020
+13.70025,80.02773333,lake,India,Asia,0,0,,,,304.35,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
+63.055,147.421,lake,Russia,Asia,2.2,9.6,,,,286.85,,,,,0.142,,4.9,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+61.19,25.14,lake,Finland,Europe,8.7,2.1,,,,288.35,,,0.003,,0.01,,9,,Rinta et al 2017,,Rosentreter et al 2020
+-18.960556,-57.441111,lake,Brazil,South America,2.9,1.1,,,,297.15,,,,,,,,,Bastviken et al 2010,,Rosentreter et al 2020
+10.80893333,79.13895,lake,India,Asia,0,0,,,,308.15,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
+68.632,149.605,lake,Russia,Asia,2.5,1.9,,,,283.45,,,,,1.449,,24.1,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+-17.853333,-57.481667,lake,Brazil,South America,10.4,81.9,,,,304.15,,,,,71.4,,,,Bastviken et al 2010,,Rosentreter et al 2020
+10.80701667,79.13458333,lake,India,Asia,18.1,0,,,,306.65,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
+10.81418333,79.13475,lake,India,Asia,3.5,0,,,,304.85,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
+68.45,161.2,lake,Russia,Asia,11,71.2,,,,287.45,,,,,0.0925,,17,,Walter Anthony et al 2010,,Rosentreter et al 2020
+46.25129722,-89.49767778,lake,United States of America,North America,4.4,2.1,,,,,,,0.012,,0.3125,6.9,15,,Bastviken et al 2004; West et al 2016,,Rosentreter et al 2020
+47.27,8.5,lake,Switzerland,Europe,21.3,1,,,,297.65,,,0.009,,0.48,,25,,Rinta et al 2017,,Rosentreter et al 2020
+46.73,7.57,lake,Switzerland,Europe,76.1,50.6,,,,296.55,,,0.016,,0.14,,15,,Rinta et al 2017,,Rosentreter et al 2020
+61.24,25.06,lake,Finland,Europe,0.3,1.9,,,,290.75,,,0.011,,0.04,,8,,Rinta et al 2017,,Rosentreter et al 2020
+65.029,147.699,lake,Russia,Asia,13.2,86.4,,,,282.65,,,,,0.003,,4.6,,Sepulveda-Jauregui et al 2015,,Rosentreter et al 2020
+58.25,26.0417,lake,Estonia,Europe,40.7,14,,,,281.45,,,,,270,2.8,6,,Room et al 2014,,Rosentreter et al 2020
+46.25493056,-89.517475,lake,United States of America,North America,5.4,36.5,,,,,,,0.027,,0.027,2.7,8.2,,Bastviken et al 2004,,Rosentreter et al 2020
+46.23563,-89.5028,lake,United States of America,North America,0.7,0,,,,,,,0.022,,0.049,3.9,14,,West et al 2016,,Rosentreter et al 2020
+42.397707,-85.385187,lake,United States of America,North America,673.1,336.6,,,,,,,,,0.15,3.54,,,Strayer and Tiedje 1978,,Rosentreter et al 2020
+34.14,-84.64,reservoir,United States of America,North America,13.9,15.7,,,,295.4,,,,,49,9.2,,,Bevelhimer et al 2016,,Rosentreter et al 2020
+42.1687,3.0264,reservoir,Spain,Europe,0.3,0,,,,295.95,,,,,0.001,1.5,3.6,,Gomez-Gener et al 2015,,Rosentreter et al 2020
+-1.791044776,-59.56586826,reservoir,Brazil,South America,0,0,,,,,,,,,2360,,,,"Guerin et al 2006, Kemenes et al 2007, Bastviken et al 2011",,Rosentreter et al 2020
+-22.52,-48.58333333,reservoir,Brazil,South America,17,4,,,,,,,0.103,,324,11.1,,,Rosa et al 2004,,Rosentreter et al 2020
+42.3492,2.8285,reservoir,Spain,Europe,3.1,14,,,,297.05,,,,,0.037,1.1,2.6,,Gomez-Gener et al 2015,,Rosentreter et al 2020
+-15.585833,32.704722,reservoir,Mozambique,Africa,0,0,,,,,,,,,2675,20.9,,,Teodoru et al 2015,,Rosentreter et al 2020
+-15.5874,32.3754,reservoir,Mozambique,Africa,0,0,,,,304.75,,,,,,,,,Teodoru et al 2015,,Rosentreter et al 2020
+-15.5567,32.6337,reservoir,Mozambique,Africa,0,0,,,,303.75,,,,,,,,,Teodoru et al 2015,,Rosentreter et al 2020
+47.28,-121.1075,reservoir,United States of America,North America,1.2,0.5,,,,,,,,,19.4,,,,Harrison et al 2017,,Rosentreter et al 2020
+-17.986868,-48.524553,reservoir,Brazil,South America,41.9,263.6,,,,299.3125,,,,,60,21.8,,,Bergier et al 2011,,Rosentreter et al 2020
+-2.82,-54.28333333,reservoir,Brazil,South America,18,38.7,,,,,,,,,72,6.9,,,Duchemin et al 2000,,Rosentreter et al 2020
+35.96,-83.54,reservoir,United States of America,North America,7.6,0,,,,296.6,,,,,115,11.6,,,Bevelhimer et al 2016,,Rosentreter et al 2020
+51.5,-74,reservoir,Canada,North America,7.7,0.4,,,,,,,0.014,,602.9,16,63,,Teodoru et al 2012,,Rosentreter et al 2020
+-6.58,-37.26,reservoir,Brazil,South America,14.7,22.7,,,,,,,0.101,,0.2,2,,,Almeida et al 2016,,Rosentreter et al 2020
+46.43071,1.613706,reservoir,France,Europe,15.5,2.7,,,,,,,,,2.7,18,58,,Descloux et al 2017,,Rosentreter et al 2020
+49.67,-94.75,reservoir,Canada,North America,1.9,3.3,,,,,,,,,0.0074,0.9,,,Matthews et al 2005,,Rosentreter et al 2020
+49.77,-93.8,reservoir,Canada,North America,0,0,,,,,,,,,0.17,,,,Kelly et al 1997,,Rosentreter et al 2020
+49.67,-94.75,reservoir,Canada,North America,0.9,3,,,,,,,,,0.0063,1.1,,,Matthews et al 2005,,Rosentreter et al 2020
+49.67,-94.75,reservoir,Canada,North America,1.6,2.2,,,,,,,,,0.005,0.9,,,Matthews et al 2005,,Rosentreter et al 2020
+42.15,-122.6,reservoir,United States of America,North America,4,0,,,,,,,0.017,,3.26,16.1,,,Deemer et al 2016,,Rosentreter et al 2020
+35.45,-83.81,reservoir,United States of America,North America,5.8,0,,,,292.55,,,,,43,41.4,,,Bevelhimer et al 2016,,Rosentreter et al 2020
+44.42,-122.6166667,reservoir,United States of America,North America,3.2,52.5,,,,,,,,,4.9,15.2,,,Harrison et al 2017,,Rosentreter et al 2020
+-22.5290575,-44.5629325,reservoir,Brazil,South America,1.2,75.7,,,,300.65,,,0.052,,33.5,19.7,,,Ometto et al 2013,,Rosentreter et al 2020
+-20.71654975,-45.92598925,reservoir,Brazil,South America,5.8,288.2,,,,297.84,,,,,1440,14.375,,,da Silva et al 2018; Ometto et al 2013,,Rosentreter et al 2020
+9.23,-79.88333333,reservoir,Panama,North America,12.4,525.1,,,,301.9,,,0.05,,431,12.4,,,Keller and Stallard 1994,,Rosentreter et al 2020
+-27.45,152.86,reservoir,Australia,Australia,0,0,,,,,,,,,0.19,,,,Sturm et al 2014,,Rosentreter et al 2020
+34.42,-86.39,reservoir,United States of America,North America,5.4,13.8,,,,296.8,,,,,279,4.5,,,Bevelhimer et al 2016,,Rosentreter et al 2020
+34.47,-82.85,reservoir,United States of America,North America,22.8,0.2,,,,293.1,,,,,226,13.9,,,Bevelhimer et al 2016,,Rosentreter et al 2020
+40.008226,21.816314,reservoir,Greece,Europe,0,0,,,,292.75,,,,,21.9,,,,Samiotis et al 2018,,Rosentreter et al 2020
+-25.38,-54.55,reservoir,Brazil,South America,7.9,0.6,,,,,,,,,1350,95.6,,,dos Santos et al 2006,,Rosentreter et al 2020
+-15.7444756,25.9859312,reservoir,Zambia,Africa,0,0,,,,300.05,,,,,365,,,,Teodoru et al 2015,,Rosentreter et al 2020
+-18.4,-49.05,reservoir,Brazil,South America,10.9,41.7,,,,,,,,,719,21,,,Ometto et al 2013,,Rosentreter et al 2020
+42.13,-122.0333333,reservoir,United States of America,North America,15.9,465.9,,,,,,,,,1.7,3.4,,,Harrison et al 2017,,Rosentreter et al 2020
+47.25,-121.2,reservoir,United States of America,North America,2.1,0.5,,,,,,,,,18.37,,,,Harrison et al 2017,,Rosentreter et al 2020
+-16.93756,28.0884,reservoir,Zimbabwe,Africa,0.3,19.8,,,,301.95,,,,,5400,,,,DelSontro et al 2011; Teodoru et al 2015,,Rosentreter et al 2020
+47.35,-121.3691,reservoir,United States of America,North America,0.9,0.1,,,,,,,,,9.75,,,,Deemer et al 2016,,Rosentreter et al 2020
+42.12,-121.9166667,reservoir,United States of America,North America,13.1,311.2,,,,,,,,,9.8,,,,Harrison et al 2017,,Rosentreter et al 2020
+-20.15,-47.25,reservoir,Brazil,South America,4.4,4.4,,,,295.485,,,,,,,,,Ometto et al 2013,,Rosentreter et al 2020
+45.37,-122.25,reservoir,United States of America,North America,8.4,80.1,,,,,,,,,1.3,7.8,,,Harrison et al 2017,,Rosentreter et al 2020
+39.62,-106.05,reservoir,United States of America,North America,21.4,0,,,,285.85,,,,,13,24.6,57,,Smith and Lewis 1992,,Rosentreter et al 2020
+47.02556,8.98056,reservoir,Switzerland,Europe,2.3,0,,,,,,,,,2.25,,45,,Sollberger et al 2017,,Rosentreter et al 2020
+49.295556,6.764722,reservoir,Germany,Europe,4.6,113.9,,,,,,,,,0.06,,,,Maeck et al 2013,,Rosentreter et al 2020
+-28.152833,153.28265,reservoir,Australia,Australia,50.1,294.5,,,,,,,0.024,,0.5,,,,Grinham et al 2011,,Rosentreter et al 2020
+67.82,27.73333333,reservoir,Finland,Europe,22.9,115.5,,,,283.33,,,0.033,,417,3.65,,,Huttunen et al 2002b,,Rosentreter et al 2020
+46.562363,-118.53633,reservoir,United States of America,North America,0.4,522.5,,,,291.75,,,,,26.7,,,,Miller et al 2017,,Rosentreter et al 2020
+52.969,91.498,reservoir,Russia,Asia,0,0,,,,,,,,,11.5,,,,Fedorov et al 2015,,Rosentreter et al 2020
+8.645533333,77.42356667,reservoir,India,Asia,0.2,0,,,,306.15,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
+-14.87,-55.76666667,reservoir,Brazil,South America,17.7,108.4,,,,,,,,,357,15.7,,,Ometto et al 2013,,Rosentreter et al 2020
+-20.27,-47.05,reservoir,Brazil,South America,12.7,6.6,,,,,,,,,249,,,,Ometto et al 2013,,Rosentreter et al 2020
+49.491389,6.580556,reservoir,Germany,Europe,3.7,48.1,,,,,,,,,0.39,,,,Maeck et al 2013,,Rosentreter et al 2020
+-18.92,-48.03333333,reservoir,Brazil,South America,130.6,31.9,,,,,,,,,51,158.1,,,Rosa et al 2004; dos Santos et al 2006,,Rosentreter et al 2020
+18.45,102.95,reservoir,Laos,Asia,40.1,0,,,,,,,,,13,14,,,Chanudet et al 2011,,Rosentreter et al 2020
+18.53,103.55,reservoir,Laos,Asia,3.2,0,,,,,,,,,350,19,,,Chanudet et al 2011,,Rosentreter et al 2020
+17.988472,104.951111,reservoir,Laos,Asia,32.3,76.9,,,,,,,,,355,7.8,,,Deshmukh et al 2014; Guerin et al 2016,,Rosentreter et al 2020
+50.78,23.01666667,reservoir,Poland,Europe,0,0,,,,,,,,,10.6,2,,,Gruca-Rokosz et al 2011,,Rosentreter et al 2020
+28.549,77.3157,reservoir,India,Asia,0,0,,,,301.49,,,,,3.7,2,,,Bansal et al 2015,,Rosentreter et al 2020
+42.249,2.49105,reservoir,Spain,Europe,7.3,63.8,,,,290.45,,,,,2.56,16.5,45.5,,Gomez-Gener et al 2015,,Rosentreter et al 2020
+10.38188333,77.48873333,reservoir,India,Asia,1,0,,,,302.75,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
+-19.83,-43.96666667,reservoir,Brazil,South America,55.4,734.3,,,,,,,,,1.96,5.08,,,de Mello et al 2018,,Rosentreter et al 2020
+10.43288333,77.68913333,reservoir,India,Asia,4.6,0,,,,300.65,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
+5.05,-53.03333333,reservoir,French Guiana,South America,0,0,,,,,,,,,365,9.6,,,Guerin et al 2006; Abril et al 2005,,Rosentreter et al 2020
+40.23487,21.963786,reservoir,Greece,Europe,0,0,,,,292.55,,,,,74,,,,Samiotis et al 2018,,Rosentreter et al 2020
+68,26.75,reservoir,Finland,Europe,3.5,0.8,,,,285.2,,,0.017,,214,6.3,,,Huttunen et al 2002b,,Rosentreter et al 2020
+46.643188,-119.912836,reservoir,United States of America,North America,0.9,560.8,,,,291.85,,,,,31.3,,,,Miller et al 2017,,Rosentreter et al 2020
+49.373611,6.699444,reservoir,Germany,Europe,2.9,32.1,,,,,,,,,0.17,,,,Maeck et al 2013,,Rosentreter et al 2020
+50.01,21.99,reservoir,Poland,Europe,0,0,,,,288.675,,,,,1.18,0.5,,,Gruca-Rokosz et al 2010,,Rosentreter et al 2020
+49.239722,6.929444,reservoir,Germany,Europe,3.4,0,,,,,,,,,0.04,,,,Maeck et al 2013,,Rosentreter et al 2020
+-8.8,-63.41666667,reservoir,Brazil,South America,86.7,16.5,,,,,,,,,559,8.9,,,"Lima et al 2005, Lima et al 2002, dos Santos et al 2006, Rosa et al 2004, Rosa 2003, Guerin et al 2006",,Rosentreter et al 2020
+52.825833,91.370278,reservoir,Russia,Asia,0,0,,,,,,,,,608,,,,Fedorov et al 2015,,Rosentreter et al 2020
+-25.804182,-52.1340365,reservoir,Brazil,South America,7,1.8,,,,,,,,,81.5,36.6,,,dos Santos et al 2006; Rosa et al 2004,,Rosentreter et al 2020
+42.1867,2.7642,reservoir,Spain,Europe,0.5,3.6,,,,294.83,,,,,0.012,2.5,5.4,,Gomez-Gener et al 2015,,Rosentreter et al 2020
+-13.9347865,-48.31485917,reservoir,Brazil,South America,13.5,110.5,,,,,,,,,1784,30.5,,,"dos Santos et al 2006, Ometto et al 2013, St. Louis et al 2000",,Rosentreter et al 2020
+49.566667,6.5925,reservoir,Germany,Europe,5.8,439.5,,,,,,,,,0.38,,,,Maeck et al 2013,,Rosentreter et al 2020
+49.37,22.45,reservoir,Poland,Europe,0,0,,,,,,,,,22,22,,,Gruca-Rokosz et al 2010,,Rosentreter et al 2020
+42.3017,2.58897,reservoir,Spain,Europe,0,0,,,,290.65,,,,,0.109,1.8,5.7,,Gómez-Gener et al 2015,,Rosentreter et al 2020
+30.38,78.48,reservoir,India,Asia,23.1,4.8,,,,,,,,,52,,,,Kumar and Sharma 2016,,Rosentreter et al 2020
+8.392416667,77.25766667,reservoir,India,Asia,5.9,136.2,,,,304.15,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
+31.03,109.55,reservoir,China,Asia,0,0,,,,,,,0.142,,1084,70,,,Chen et al 2011; Zhao et al 2013; Lu et al 2011,,Rosentreter et al 2020
+-18.23,-45.25,reservoir,Brazil,South America,19.7,164.8,,,,,,,,,1040,20.2,,,"Rosa et al 2004, dos Santos et al 2006",,Rosentreter et al 2020
+-3.919906333,-49.608933,reservoir,Brazil,South America,69.8,27.9,,,,,,,,,2484.333333,18.9,,,Lima et al 2002; dos Santos et al 2006; Lima et al 2005; Rosa et al 2004; Rosa 2003; Lima et al 1998,,Rosentreter et al 2020
+10.8215,79.0531,reservoir,India,Asia,5.6,49.4,,,,308.15,,,,,,,,,Selvam et al 2014,,Rosentreter et al 2020
+35.62,-84.78,reservoir,United States of America,North America,6.6,1,,,,299.05,,,,,176,7.9,,,Bevelhimer et al 2016,,Rosentreter et al 2020
+21.9,50.35,reservoir,Saudi Arabia,Asia,0,0,,,,285.15,,,,,1.6,2.6,,,Gruca-Rokosz et al 2010,,Rosentreter et al 2020
+39.02139758,-84.11910428,reservoir,United States of America,North America,42.6,640.4,,,,300.35,,,0.144,,8.53,,,,Beaulieu et al 2014; 2016; 2018,,Rosentreter et al 2020
+46.97,7.283333333,reservoir,Switzerland,Europe,8.6,330.5,,,,,,,0.03,,2.5,10,,,Eugster et al 2011; DelSontro et al 2010,,Rosentreter et al 2020
+-9.62,-37.78333333,reservoir,Brazil,South America,29.2,10.8,,,,,,,,,60,11.7,,,Rosa et al 2004; dos Santos et al 2006,,Rosentreter et al 2020
 -33.515984,148.563043,pond,Australia,Australia,13.98825818,54.45316576,,,,291.6833333,,,,,,,,,,,Malerba et al 2022
 -33.507176,148.592199,pond,Australia,Australia,1.814558807,6.999247706,,,,287.8833333,,,,,,,,,,,Malerba et al 2022
 -33.524183,148.565278,pond,Australia,Australia,0.605022,2.369286218,,,,292.5833333,,,,,,,,,,,Malerba et al 2022
@@ -1806,5 +1806,5 @@ lat,lon,type,country,continent,ch4_diff,ch4_ebu,obs_year,months,num_months,effec
 12.07549,77.54092,pond,India,Asia,56.7816,400.6885707,,,,295.95,,,,,,,,,,,Malerba et al 2022
 11.00112,76.55851,pond,India,Asia,45.3932,305.6699801,,,,301.45,,,,,,,,,,,Malerba et al 2022
 10.58546,76.49273,pond,India,Asia,3.0476,23.57432065,,,,300.15,,,,,,,,,,,Malerba et al 2022
-8.06945,77.31573,pond,NA,,494.032,4893.82058,,,,301.15,,,,,,,,,,,Malerba et al 2022
-8.07317,77.30055,pond,NA,,591.7156,5861.462377,,,,303.45,,,,,,,,,,,Malerba et al 2022
+8.06945,77.31573,pond,India,Asia,494.032,4893.82058,,,,301.15,,,,,,,,,,,Malerba et al 2022
+8.07317,77.30055,pond,India,Asia,591.7156,5861.462377,,,,303.45,,,,,,,,,,,Malerba et al 2022
