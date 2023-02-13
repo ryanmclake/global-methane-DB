@@ -14,6 +14,7 @@ s = Sys.time()
 
 i <- read_csv("./data/organized_data_to_append/global_lake_res_DB_combined_refs_WWF_sd_added.csv") %>%
   mutate(country = ifelse(country == "French Guiana", "France", country))
+
 glee_countries <- c(unique(i$country))
 
 countries <- list.files(path = "./data/glcp_countries/")

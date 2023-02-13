@@ -13,6 +13,8 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 40,116.304,reservoir,58.47305381,NA,2009,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,0.1,NA,NA,Ai et al 2009,NA,Johnson et al 2021,China,Asia
 40.321,116.609,reservoir,182.4181983,NA,2009,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,5.95,NA,NA,Ai et al 2009,NA,Johnson et al 2021,China,Asia
 -6.58,-37.26,reservoir,14.7,22.7,2016,,NA,NA,NA,NA,0.101,NA,0.2,2,NA,Almeida et al 2016,NA,Rosentreter et al 2020,Brazil,South America
+-6.566666667,-37.25,reservoir,14.66666667,22.66666667,2011,,,299.15,,,,,,,,Almeida et al 2016,,Johnson et al 2021a,Brazil,South America
+-20.16666667,-47.58333333,reservoir,4.386666667,NA,2011,,,,,,,,,,,Andrade 2014,,Johnson et al 2021a,Brazil,South America
 46.56,-118.54,reservoir,3.694,NA,2012,,7,288.3425064,NA,69.6,NA,NA,26.7,NA,NA,Arntzen et al 2013,NA,Prairie et al 2018,United States of America,North America
 46.64,-119.91,reservoir,3.137,NA,2012,,7,289.2135477,NA,71.8,NA,NA,31.3,NA,NA,Arntzen et al 2013,NA,Prairie et al 2018,United States of America,North America
 12.45,78.22,lake,23.496,NA,2014,"3,4",2,302.25,NA,NA,NA,NA,0.66,NA,NA,Attermeyer et al 2016,NA,Johnson et al 2021,India,Asia
@@ -26,6 +28,11 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 27.729,-82.678,pond,1.34256,NA,1987,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,1.56,NA,NA,Barber et al 1988,NA,Johnson et al 2021,United States of America,North America
 8.73,-82.22,reservoir,172.286,NA,2004,,12,294.2535775,NA,54.6,2.3,NA,10,NA,17,Barros et al 2001,NA,Prairie et al 2018,Panama,South America
 9.26,-79.93,reservoir,16.844,NA,2000,,12,299.845178,NA,58.3,17.9,13.4,430,26.7,12.1,Barros et al 2001,NA,Prairie et al 2018,Panama,South America
+-20.15,-47.25,reservoir,30.8,NA,2011,,,295.45,,,,,,,,Barros et al 2011,,Johnson et al 2021a,Brazil,South America
+-20.15,-47.25,reservoir,50.66666667,NA,2011,,,295.45,,,,,,,,Barros et al 2011,,Johnson et al 2021a,Brazil,South America
+-20.15,-47.25,reservoir,38.13333333,NA,2011,,,295.45,,,,,,,,Barros et al 2011,,Johnson et al 2021a,Brazil,South America
+-14.86666667,-55.8,reservoir,36.6,NA,2011,,,302.15,,,,,,,,Barros et al 2011,,Johnson et al 2021a,Brazil,South America
+-14.86666667,-55.8,reservoir,56,NA,2011,,,,,,,,,,,Barros et al 2011,,Johnson et al 2021a,Brazil,South America
 -5,-60.567,lake,7.9,NA,1985,7,1,NA,NA,NA,NA,NA,NA,NA,NA,Bartlett et al 1988,NA,Johnson et al 2021,Brazil,South America
 -5,-60.567,lake,4.6,NA,1985,7,1,NA,NA,NA,NA,NA,NA,NA,NA,Bartlett et al 1988,NA,Johnson et al 2021,Brazil,South America
 -5,-60.567,lake,4.6,NA,1985,7,1,NA,NA,NA,NA,NA,NA,NA,NA,Bartlett et al 1988,NA,Johnson et al 2021,Brazil,South America
@@ -192,12 +199,18 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 -17.853,-57.482,lake,10.4,81.9,2006,11,1,304.15,NA,NA,NA,NA,71.4,NA,NA,Bastviken et al 2010,NA,Rosentreter et al 2020,Brazil,South America
 -17.838,-57.393,lake,7.88692317,77.74179151,2006,11,1,304.15,NA,NA,NA,NA,NA,NA,NA,Bastviken et al 2010,NA,Johnson et al 2021,Brazil,South America
 -17.838,-57.393,lake,8,82.1,2006,11,1,303.65,NA,NA,NA,NA,36.3,NA,NA,Bastviken et al 2010,NA,Rosentreter et al 2020,Brazil,South America
+67.81666667,27.73333333,reservoir,6.573333333,59.53333333,2011,,,286.35,,,,,,,,Bastviken et al 2011,,Johnson et al 2021a,Finland,Europe
+67.81666667,27.73333333,reservoir,33.33333333,46.66666667,2011,,,282.75,,,,,,,,Bastviken et al 2011,,Johnson et al 2021a,Finland,Europe
+68,26.75,reservoir,1.933333333,0.4,2011,,,283.35,,,,,,,,Bastviken et al 2011,,Johnson et al 2021a,Finland,Europe
 39.023,-84.15,reservoir,42.6,640.4,2006,10,1,300.35,NA,NA,0.144,NA,8.53,NA,NA,Beaulieu et al 2014,NA,Rosentreter et al 2020,United States of America,North America
-39.023,-84.15,lake,NA,105.12,2014,8,1,300.45,NA,NA,NA,NA,NA,NA,NA,Beaulieu et al 2016,NA,Johnson et al 2021,United States of America,North America
+39.023,-84.15,reservoir,NA,105.12,2014,8,1,300.45,NA,NA,NA,NA,NA,NA,NA,Beaulieu et al 2016,NA,Johnson et al 2021,United States of America,North America
 61.083,25.583,lake,3.84,NA,2005,"5,6,7,8,9,10",6,NA,NA,NA,NA,NA,NA,NA,NA,Bellido et al 2011,NA,Johnson et al 2021,Finland,Europe
 51.775,5.85,lake,26.7,160.3,2019,,NA,286.15,NA,NA,0.14,NA,0.0046,1.5,NA,Bergen et al 2019,NA,Rosentreter et al 2020,Netherlands,Europe
 -17.99,-48.53,reservoir,54.758,12.256,2005,,12,297.6042031,NA,63.9,46.4,5.6,65,40,23,Bergier et al 2011,NA,Prairie et al 2018,Brazil,South America
 -17.99,-48.53,reservoir,41.9,263.6,2005,,12,299.3125,NA,NA,NA,NA,60,21.8,NA,Bergier et al 2011,NA,Rosentreter et al 2020,Brazil,South America
+-17.98333333,-48.51666667,reservoir,69,505.4,2011,,,297.15,,,,,,,,Bergier et al 2011,,Johnson et al 2021a,Brazil,South America
+-17.98333333,-48.51666667,reservoir,37,4.4,2011,,,301.15,,,,,,,,Bergier et al 2011,,Johnson et al 2021a,Brazil,South America
+-17.98333333,-48.51666667,reservoir,69,505.4,2011,,,297.65,,,,,,,,Bergier et al 2011,,Johnson et al 2021a,Brazil,South America
 34.17,-84.73,reservoir,12.215,6.522,2012,,9,291.5019093,NA,50.3,63.8,23.46,49,44.2,9.2,Bevelhimer et al 2016,NA,Prairie et al 2018,United States of America,North America
 34.17,-84.73,reservoir,13.9,15.7,2012,,9,295.4,NA,NA,NA,NA,49,9.2,NA,Bevelhimer et al 2016,NA,Rosentreter et al 2020,United States of America,North America
 34.36,-82.82,reservoir,2.373,0.675,2012,,9,291.9773361,NA,50.9,27.9,15.36,226,56,13.9,Bevelhimer et al 2016,NA,Prairie et al 2018,United States of America,North America
@@ -291,7 +304,9 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 42.15,-122.6,reservoir,4,0,2014,,NA,NA,NA,NA,0.017,NA,3.26,16.1,NA,Deemer et al 2016,NA,Rosentreter et al 2020,United States of America,North America
 47.35,-121.3691,reservoir,0.9,0.1,2014,,NA,NA,NA,NA,NA,NA,9.75,NA,NA,Deemer et al 2016,NA,Rosentreter et al 2020,United States of America,North America
 50.68,-63.22,reservoir,3.416,NA,2015,,7,280.5353862,NA,26.4,8.3,4.13,88.74339752,109,43.4,Del Giorgio Pers. comm. 2015,NA,Prairie et al 2018,Canada,North America
+46.97,7.28,reservoir,15,330,2011,,,290.15,,,,,,,,DelSontro et al 2010,,Johnson et al 2021a,Switzerland,Europe
 46.97,7.28,reservoir,41.422,87.813,2007,,12,284.5148323,NA,54.9,47.9,13.57,2.5,18,10,Delsontro et al 2010,NA,Prairie et al 2018,Switzerland,Europe
+-16.52,28.76,reservoir,0.253333333,19.73333333,2010,,,297.9,,,,,,,,DelSontro et al 2011,,Johnson et al 2021a,Zambia,Africa
 -16.52,28.76,reservoir,766.688,441.946,2009,,6,298.5692052,NA,69,38.3,7.57,5400,160,31,Delsontro et al 2011,NA,Prairie et al 2018,Zambia,Africa
 -16.52,28.76,reservoir,0.3,19.8,2009,,NA,301.95,NA,NA,NA,NA,5400,NA,NA,DelSontro et al 2011,NA,Rosentreter et al 2020,Zambia,Africa
 45.98778,-74.00806,lake,39.9,21.4,2016,,NA,NA,NA,NA,0.01,NA,0.017,2.5,NA,DelSontro et al 2016,https://doi.org/10.1002/lno.10335,Rosentreter et al 2020,Canada,North America
@@ -310,17 +325,35 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 48.28355,-71.39914,lake,26,78.2,2016,,NA,NA,NA,NA,0.039,NA,0.01,0.8,NA,DelSontro et al 2016,https://doi.org/10.1002/lno.10335,Rosentreter et al 2020,Canada,North America
 48.38,-71.42,lake,67.2,72.27,2011,"6,7,8",3,297.15,NA,NA,NA,NA,0.05,NA,0.9,DelSontro et al 2016,https://doi.org/10.1002/lno.10335,Kuhn et al 2021,Canada,North America
 48.8047,-71.18759,lake,35.2,28,2016,,NA,NA,NA,NA,0.027,NA,0.0036,0.8,NA,DelSontro et al 2016,https://doi.org/10.1002/lno.10335,Rosentreter et al 2020,Canada,North America
+45.58333333,-73.65,reservoir,0.493333333,NA,2009,,,,,,,,,,,Demarty et al 2009,,Johnson et al 2021a,Canada,North America
 45.59,-73.66,reservoir,8.992,NA,2009,,12,285.8566755,NA,38.6,74.5,13.4,8.5,12,8,Demarty et al 2009,NA,Prairie et al 2018,Canada,North America
+50.38333333,-95.98333333,reservoir,0.026666667,NA,2009,,,,,,,,,,,Demarty et al 2009,,Johnson et al 2021a,Canada,North America
+51.5,-74,reservoir,0.773333333,NA,2009,,,,,,,,,,,Demarty et al 2009,,Johnson et al 2021a,Canada,North America
+53.15,-99.28333333,reservoir,0.573333333,NA,2009,,,,,,,,,,,Demarty et al 2009,,Johnson et al 2021a,Canada,North America
 53.16,0.29,reservoir,1.199,NA,2007,,12,283.1830708,NA,35.2,NA,33.33,3277,6.4,3.9,Demarty et al 2009,NA,Prairie et al 2018,United Kingdom,Europe
+53.66666667,-77,reservoir,0.146666667,NA,2009,,,,,,,,,,,Demarty et al 2009,,Johnson et al 2021a,Canada,North America
 53.79,-77.45,reservoir,0.49,NA,2007,,12,279.95941,NA,27.4,8,11.09,2815,150,22,Demarty et al 2009,NA,Prairie et al 2018,Canada,North America
 54.54,-98.02,reservoir,1,NA,2007,,12,282.8183067,NA,29.2,NA,90.07,254.13,217.9,1.3,Demarty et al 2009,NA,Prairie et al 2018,Canada,North America
 56.38,-94.64,reservoir,0.4,NA,2004,,12,280.807512,NA,24,NA,27.06,319,46,8.1,Demarty et al 2009,NA,Prairie et al 2018,Canada,North America
 50.4,-95.99,reservoir,0.58,NA,2004,"1,2,3,4,5,6,7,8,9,10,11,12",12,284.295535,NA,34.9,36.4,77.62,100,255,2,Demarty et al 2011,NA,Prairie et al 2018,Canada,North America
 52.16,-76.16,lake,0.424,NA,2005,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Demarty et al 2011,NA,Johnson et al 2021,Canada,North America
 52.23,-75.47,lake,0.304,NA,2005,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Demarty et al 2011,NA,Johnson et al 2021,Canada,North America
+-19.83333333,-43.96666667,reservoir,55.34666667,733.1066667,2018,,,,,,,,,,,deMello et al 2018,,Johnson et al 2021a,Brazil,South America
 46.43071,1.613706,reservoir,15.5,2.7,2017,,NA,NA,NA,NA,NA,NA,2.7,18,58,Descloux et al 2017,NA,Rosentreter et al 2020,France,Europe
 17.98,104.96,reservoir,15.239,83.312,2009,,12,296.3372069,NA,48.1,2.5,27.4,450.2,39,7.8,Deshmukh et al 2013,NA,Prairie et al 2018,Laos,Asia
 17.98,104.96,reservoir,32.3,76.9,2009,,NA,NA,NA,NA,NA,NA,355,7.8,NA,Deshmukh et al 2013,NA,Rosentreter et al 2020,Laos,Asia
+17.98333333,104.95,reservoir,30.4,73.6,2009,,,298.15,,,,,,,,Deshmukh et al 2014,,Johnson et al 2021a,Laos,Asia
+17.98333333,104.95,reservoir,NA,24.06,2009,,,298.15,,,,,,,,Deshmukh et al 2014,,Johnson et al 2021a,Laos,Asia
+17.98333333,104.95,reservoir,30.476,NA,2009,,,298.15,,,,,,,,Deshmukh et al 2014,,Johnson et al 2021a,Laos,Asia
+17.98333333,104.95,reservoir,NA,12.832,2009,,,298.15,,,,,,,,Deshmukh et al 2014,,Johnson et al 2021a,Laos,Asia
+17.98333333,104.95,reservoir,NA,NA,2009,,,298.15,,,,,,,,Deshmukh et al 2014,,Johnson et al 2021a,Laos,Asia
+17.98333333,104.95,reservoir,17.644,NA,2009,,,298.15,,,,,,,,Deshmukh et al 2014,,Johnson et al 2021a,Laos,Asia
+17.98333333,104.95,reservoir,NA,176.44,2009,,,298.15,,,,,,,,Deshmukh et al 2014,,Johnson et al 2021a,Laos,Asia
+17.98333333,104.95,reservoir,30.476,73.784,2009,,,298.15,,,,,,,,Deshmukh et al 2014,,Johnson et al 2021a,Laos,Asia
+17.98333333,104.95,reservoir,NA,72.18,2009,,,298.15,,,,,,,,Deshmukh et al 2014,,Johnson et al 2021a,Laos,Asia
+17.98333333,104.95,reservoir,NA,NA,2009,,,298.15,,,,,,,,Deshmukh et al 2014,,Johnson et al 2021a,Laos,Asia
+17.98333333,104.95,reservoir,NA,NA,2009,,,298.15,,,,,,,,Deshmukh et al 2014,,Johnson et al 2021a,Laos,Asia
+17.98333333,104.95,reservoir,0,449.12,2009,,,298.15,,,,,,,,Deshmukh et al 2014,,Johnson et al 2021a,Laos,Asia
 62.08,130.3,lake,118.7,NA,2007,6,1,294.8,NA,NA,NA,NA,NA,NA,1.8,Desyatkin et al 2009,https://doi.org/10.1111/j.1747-0765.2009.00389.x,Kuhn et al 2021,Russia,Europe
 62.11,130.33,lake,139.6,NA,2007,"6,7,8",3,295.25,NA,NA,NA,NA,NA,NA,1.42,Desyatkin et al 2009,https://doi.org/10.1111/j.1747-0765.2009.00389.x,Kuhn et al 2021,Russia,Europe
 62.11,130.34,lake,37.8,NA,2007,6,1,293,NA,NA,NA,NA,NA,NA,2.5,Desyatkin et al 2009,https://doi.org/10.1111/j.1747-0765.2009.00389.x,Kuhn et al 2021,Russia,Europe
@@ -336,20 +369,38 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 47.11,8.91,reservoir,0.128,NA,2005,,7,283.1371225,NA,44.6,8.9,19.86,11,23,8.9,Diem et al 2008,NA,Prairie et al 2018,Switzerland,Europe
 45.57,8.97,lake,0.1308,NA,2005,"7,8",2,NA,NA,NA,NA,NA,NA,NA,NA,Diem et al 2012,NA,Johnson et al 2021,Italy,Europe
 46.07,7.4,lake,0.048,NA,2003,9,1,291.15,NA,NA,NA,NA,NA,NA,NA,Diem et al 2012,NA,Johnson et al 2021,Switzerland,Europe
+46.07,7.4,reservoir,0.053333333,NA,2003,,,,,,,,,,,Diem et al 2012,,Johnson et al 2021a,Switzerland,Europe
 46.35,7.43,lake,0.0648,NA,2003,9,1,NA,NA,NA,NA,NA,NA,NA,NA,Diem et al 2012,NA,Johnson et al 2021,Switzerland,Europe
+46.35,7.43,reservoir,0.133333333,NA,2003,,,,,,,,,,,Diem et al 2012,,Johnson et al 2021a,Switzerland,Europe
+46.55,8.266666667,reservoir,0.4,NA,2003,,,,,,,,,,,Diem et al 2012,,Johnson et al 2021a,Switzerland,Europe
 46.55,8.27,lake,0.276,NA,2005,"7,8",2,NA,NA,NA,NA,NA,NA,NA,NA,Diem et al 2012,NA,Johnson et al 2021,Switzerland,Europe
+46.56666667,8.333333333,reservoir,0.533333333,NA,2005,,,,,,,,,,,Diem et al 2012,,Johnson et al 2021a,Switzerland,Europe
+46.56666667,8.8,reservoir,0.266666667,NA,2005,,,280.15,,,,,,,,Diem et al 2012,,Johnson et al 2021a,Switzerland,Europe
+46.56666667,8.966666667,reservoir,0.133333333,NA,2005,,,,,,,,,,,Diem et al 2012,,Johnson et al 2021a,Switzerland,Europe
 46.57,8.33,lake,0.3664,NA,2005,"7,10",2,NA,NA,NA,NA,NA,NA,NA,NA,Diem et al 2012,NA,Johnson et al 2021,Switzerland,Europe
 46.57,8.8,lake,0.42,NA,2005,"6,7,8",3,NA,NA,NA,NA,NA,NA,NA,NA,Diem et al 2012,NA,Johnson et al 2021,Switzerland,Europe
 46.65,7.1,lake,0.152,NA,2005,"5,6,8",3,NA,NA,NA,NA,NA,NA,NA,NA,Diem et al 2012,NA,Johnson et al 2021,Switzerland,Europe
+46.65,7.1,reservoir,0.933333333,NA,2005,,,,,,,,,,,Diem et al 2012,,Johnson et al 2021a,Switzerland,Europe
+46.8,8.166666667,reservoir,0.133333333,NA,2005,,,,,,,,,,,Diem et al 2012,,Johnson et al 2021a,Switzerland,Europe
 46.8,8.17,lake,0.1336,NA,2006,"8,9,10",3,NA,NA,NA,NA,NA,NA,NA,NA,Diem et al 2012,NA,Johnson et al 2021,Switzerland,Europe
 46.97,7.37,lake,1.524,NA,2006,"5,6,8,9",4,NA,NA,NA,NA,NA,NA,NA,NA,Diem et al 2012,NA,Johnson et al 2021,Switzerland,Europe
 47.13,8.8,lake,0.2072,NA,2005,"5,6,8",3,NA,NA,NA,NA,NA,NA,NA,NA,Diem et al 2012,NA,Johnson et al 2021,Switzerland,Europe
+47.13333333,8.8,reservoir,0.266666667,NA,2005,,,,,,,,,,,Diem et al 2012,,Johnson et al 2021a,Switzerland,Europe
+49.96666667,7.316666667,reservoir,2.133333333,NA,2005,,,,,,,,,,,Diem et al 2012,,Johnson et al 2021a,Germany,Europe
 -69.157,76.561,lake,3.336,NA,2010,1,1,NA,NA,NA,NA,NA,NA,NA,NA,Ding et al 2013,NA,Johnson et al 2021,Antarctica,Antarctica
-55.55,-98.01,lake,NA,83.8,1994,"5,6,7,8,9",5,291.15,NA,NA,NA,NA,NA,NA,NA,Dove et al 1999,NA,Johnson et al 2021,Canada,North America
+-25.78333333,-52.1,reservoir,7,1.8,2006,,,,,,,,,,,Dos Santos et al 2006,,Johnson et al 2021a,Brazil,South America
+-25.38333333,-54.55,reservoir,7.906666667,0.6,2006,,,,,,,,,,,Dos Santos et al 2006,,Johnson et al 2021a,Brazil,South America
+-22.51666667,-48.58333333,reservoir,16.94666667,3.946666667,2006,,,,,,,,,,,Dos Santos et al 2006,,Johnson et al 2021a,Brazil,South America
+-18.91666667,-48.03333333,reservoir,130.3466667,31.8,2006,,,,,,,,,,,Dos Santos et al 2006,,Johnson et al 2021a,Brazil,South America
+-18.23333333,-45.25,reservoir,31.85333333,164.5066667,2006,,,,,,,,,,,Dos Santos et al 2006,,Johnson et al 2021a,Brazil,South America
+-13.85,-48.33333333,reservoir,24.6,88.65333333,2006,,,,,,,,,,,Dos Santos et al 2006,,Johnson et al 2021a,Brazil,South America
+-9.616666667,-37.78333333,reservoir,29.30666667,10.74666667,2006,,,,,,,,,,,Dos Santos et al 2006,,Johnson et al 2021a,Brazil,South America
+-3.916666667,-49.6,reservoir,101.5466667,7.853333333,2006,,,,,,,,,,,Dos Santos et al 2006,,Johnson et al 2021a,Brazil,South America
 55.55,-98.01,lake,139.2,83.8,1994,"5,6,7,8,9",5,285.15,NA,NA,NA,NA,0.05,NA,2.3,Dove et al 1999,https://doi.org/10.1080/11956860.1999.11682548,Kuhn et al 2021,Canada,North America
 61.06,-162.01,lake,43.992,NA,1994,"5,6,7,8,9",5,NA,NA,NA,NA,NA,NA,NA,NA,Dove et al 1999,NA,Johnson et al 2021,United States of America,North America
 53.79,-77.45,reservoir,7.736,NA,1993,,7,279.95941,NA,27.4,8.4,13.53,2835,150,18.3,Duchemin et al 1995,NA,Prairie et al 2018,Canada,North America
 54.18,-72.55,reservoir,14.449,NA,1993,,7,279.5879299,NA,26.7,5.7,15.26,960,14,8.3,Duchemin et al 1995,NA,Prairie et al 2018,Canada,North America
+-2.82,-54.3,reservoir,18,38.66666667,1997,,,,,,,,,,,Duchemin et al 2000,,Johnson et al 2021a,Brazil,South America
 -2.82,-54.3,reservoir,19.999,NA,1997,,12,298.9987292,NA,59.4,8.6,26.29,72,19.5,6.9,Duchemin et al 2000,NA,Prairie et al 2018,Brazil,South America
 -2.82,-54.3,reservoir,18,38.7,1997,,NA,NA,NA,NA,NA,NA,72,6.9,NA,Duchemin et al 2000,NA,Rosentreter et al 2020,Brazil,South America
 70.02,-156.7,lake,6.25,NA,2014,8,1,283.7,NA,NA,NA,NA,0.808771,NA,2.281666667,Elder et al 2018,https://doi.org/10.1038/s41558-017-0066-9,Kuhn et al 2021,United States of America,North America
@@ -493,12 +544,17 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 42.249,2.49105,reservoir,7.3,63.8,2015,,NA,290.45,NA,NA,NA,NA,2.56,16.5,45.5,Gomez-Gener et al 2015,NA,Rosentreter et al 2020,Spain,Europe
 42.3017,2.58897,reservoir,0,0,2015,,NA,290.65,NA,NA,NA,NA,0.109,1.8,5.7,Gomez-Gener et al 2015,NA,Rosentreter et al 2020,Spain,Europe
 42.3492,2.8285,reservoir,3.1,14,2015,,NA,297.05,NA,NA,NA,NA,0.037,1.1,2.6,Gomez-Gener et al 2015,NA,Rosentreter et al 2020,Spain,Europe
-19.16,-96.147,lake,390,NA,2010,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Gonzalez-Valencia et al 2014,NA,Johnson et al 2021,Mexico,South America
-19.436,-101.739,lake,4.9,NA,2010,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Gonzalez-Valencia et al 2014,NA,Johnson et al 2021,Mexico,South America
-19.523,-101.243,lake,57.8,NA,2010,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Gonzalez-Valencia et al 2014,NA,Johnson et al 2021,Mexico,South America
-19.63,-99.265,lake,932.8,NA,2010,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Gonzalez-Valencia et al 2014,NA,Johnson et al 2021,Mexico,South America
-19.657,-99.508,lake,114.1,NA,2010,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Gonzalez-Valencia et al 2014,NA,Johnson et al 2021,Mexico,South America
+19.13333333,-96.15,reservoir,5247.306667,NA,2010,,,301.54,,,,,,,,Gonzalez-Valencia et al 2014,,Johnson et al 2021a,Mexico,South America
+19.16,-96.147,reservoir,390,NA,2010,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Gonzalez-Valencia et al 2014,NA,Johnson et al 2021,Mexico,South America
+19.436,-101.739,reservoir,4.9,NA,2010,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Gonzalez-Valencia et al 2014,NA,Johnson et al 2021,Mexico,South America
+19.51666667,-101.2333333,reservoir,57.8,NA,2010,"1,2,3,4,5,6,7,8,9,10,11,12",12,295.11,,,,,,,,Gonzalez-Valencia et al 2014,,Johnson et al 2021a,Mexico,South America
+19.523,-101.243,reservoir,57.8,NA,2010,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Gonzalez-Valencia et al 2014,NA,Johnson et al 2021,Mexico,South America
+19.61666667,-99.28333333,reservoir,932.8,NA,2010,"1,2,3,4,5,6,7,8,9,10,11,12",12,289.43,,,,,,,,Gonzalez-Valencia et al 2014,,Johnson et al 2021a,Mexico,South America
+19.63,-99.265,reservoir,932.8,NA,2010,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Gonzalez-Valencia et al 2014,NA,Johnson et al 2021,Mexico,South America
+19.65,-99.5,reservoir,114.1066667,NA,2010,"1,2,3,4,5,6,7,8,9,10,11,12",12,285.29,,,,,,,,Gonzalez-Valencia et al 2014,,Johnson et al 2021a,Mexico,South America
+19.657,-99.508,reservoir,114.1,NA,2010,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Gonzalez-Valencia et al 2014,NA,Johnson et al 2021,Mexico,South America
 -28.152833,153.28265,reservoir,50.1,294.5,2011,,NA,NA,NA,NA,0.024,NA,0.5,NA,NA,Grinham et al 2011,NA,Rosentreter et al 2020,Australia,Australia
+-28.13333333,153.2833333,reservoir,50,294,2011,,,296.15,,,,,,,,Grinham et al 2011,,Johnson et al 2021a,Australia,Australia
 50.02,22,reservoir,1342.73,NA,2009,,7,284.8226258,NA,39.7,180.5,99.95,1.18,6,0.5,Gruca-Rokosz et al 2010,NA,Prairie et al 2018,Poland,Europe
 50.34,21.93,reservoir,281.849,NA,2009,,7,284.8991757,NA,39.7,160.2,67.06,1.6,30,2.6,Gruca-Rokosz et al 2010,NA,Prairie et al 2018,Poland,Europe
 5.06,-53.05,reservoir,NA,4.875,2004,,12,298.9967895,NA,67,3.8,20.73,51.41423178,33,9.6,Guerin and Abril 2007,NA,Prairie et al 2018,French Guiana,South America
@@ -549,9 +605,22 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 56.581,-3.439,lake,6.716444444,NA,2010,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Harley et al 2013,NA,Johnson et al 2021,United Kingdom,Europe
 42.12,-121.9166667,reservoir,13.1,311.2,2017,,NA,NA,NA,NA,NA,NA,9.8,NA,NA,Harrison et al 2017,NA,Rosentreter et al 2020,United States of America,North America
 42.13,-122.0333333,reservoir,15.9,465.9,2017,,NA,NA,NA,NA,NA,NA,1.7,3.4,NA,Harrison et al 2017,NA,Rosentreter et al 2020,United States of America,North America
+42.13333333,-122.0333333,reservoir,15.86666667,465.1466667,2017,,,,,,,,,,,Harrison et al 2017,,Johnson et al 2021a,United States of America,North America
+42.13333333,-122.0333333,reservoir,38.03,719.73,2017,,,,,,,,,,,Harrison et al 2017,,Johnson et al 2021a,United States of America,North America
+42.13333333,-121.95,reservoir,13.06666667,310.6533333,2017,,,,,,,,,,,Harrison et al 2017,,Johnson et al 2021a,United States of America,North America
+42.15,-122.6,reservoir,4,7.146666667,2017,,,,,,,,,,,Harrison et al 2017,,Johnson et al 2021a,United States of America,North America
+44.41666667,-122.6166667,reservoir,3.2,52.4,2017,,,,,,,,,,,Harrison et al 2017,,Johnson et al 2021a,United States of America,North America
+44.41666667,-122.6166667,reservoir,7.6,169.66,2017,,,,,,,,,,,Harrison et al 2017,,Johnson et al 2021a,United States of America,North America
 44.42,-122.6166667,reservoir,3.2,52.5,2017,,NA,NA,NA,NA,NA,NA,4.9,15.2,NA,Harrison et al 2017,NA,Rosentreter et al 2020,United States of America,North America
+45.36666667,-122.25,reservoir,8.4,79.96,2017,,,,,,,,,,,Harrison et al 2017,,Johnson et al 2021a,United States of America,North America
+45.36666667,-122.25,reservoir,12.42,212.29,2017,,,,,,,,,,,Harrison et al 2017,,Johnson et al 2021a,United States of America,North America
 45.37,-122.25,reservoir,8.4,80.1,2017,,NA,NA,NA,NA,NA,NA,1.3,7.8,NA,Harrison et al 2017,NA,Rosentreter et al 2020,United States of America,North America
+47.25,-121.2,reservoir,2.133333333,0.52,2017,,,,,,,,,,,Harrison et al 2017,,Johnson et al 2021a,United States of America,North America
+47.25,-121.2,reservoir,5.32,1.03,2017,,,,,,,,,,,Harrison et al 2017,,Johnson et al 2021a,United States of America,North America
 47.25,-121.2,reservoir,2.1,0.5,2017,,NA,NA,NA,NA,NA,NA,18.37,NA,NA,Harrison et al 2017,NA,Rosentreter et al 2020,United States of America,North America
+47.26666667,-121.1,reservoir,1.2,0.546666667,2017,,,,,,,,,,,Harrison et al 2017,,Johnson et al 2021a,United States of America,North America
+47.26666667,-121.1,reservoir,1.49,1.57,2017,,,,,,,,,,,Harrison et al 2017,,Johnson et al 2021a,United States of America,North America
+47.28,-121.1075,reservoir,0.933333333,0.053333333,2017,,,,,,,,,,,Harrison et al 2017,,Johnson et al 2021a,United States of America,North America
 47.28,-121.1075,reservoir,1.2,0.5,2017,,NA,NA,NA,NA,NA,NA,19.4,NA,NA,Harrison et al 2017,NA,Rosentreter et al 2020,United States of America,North America
 61.233,25.067,lake,4.824,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Huotari et al 2011,NA,Johnson et al 2021,Finland,Europe
 63.03,27.56,lake,NA,41,1996,"7,8,9,10",4,281.7,NA,NA,NA,NA,NA,NA,NA,Huttunen et al 2001,https://doi.org/10.1016/S0048-9697(00)00749-X,Johnson et al 2021,Finland,Europe
@@ -563,9 +632,25 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 67.1,27.4,lake,5.5,NA,1994,8,1,283.25,NA,NA,NA,NA,NA,NA,NA,Huttunen et al 2002,https://doi.org/10.1023/A:1019606410655,Johnson et al 2021,Finland,Europe
 67.1,27.4,lake,2.8,NA,1994,9,1,285.95,NA,NA,NA,NA,NA,NA,NA,Huttunen et al 2002,https://doi.org/10.1023/A:1019606410655,Johnson et al 2021,Finland,Europe
 67.1,27.4,lake,18.05,NA,1994,"5,6,7,8,9",5,287.15,NA,NA,NA,NA,0.01,NA,NA,Huttunen et al 2002,https://doi.org/10.1023/A:1019606410655,Kuhn et al 2021,Finland,Europe
-67.1,27.4,lake,7.5,0,1994,,NA,287.15,NA,NA,NA,NA,0.01,NA,3.2,Huttunen et al 2002,https://doi.org/10.1023/A:1019606410655,Rosentreter et al 2020,Finland,Europe
+67.1,27.4,lake,7.5,NA,1994,,NA,287.15,NA,NA,NA,NA,0.01,NA,3.2,Huttunen et al 2002,https://doi.org/10.1023/A:1019606410655,Rosentreter et al 2020,Finland,Europe
+67.81666667,27.73333333,reservoir,22.86666667,115.3066667,1994,,,286.79,,,,,,,,Huttunen et al 2002,,Johnson et al 2021a,Finland,Europe
+67.81666667,27.73333333,reservoir,7.2,58,1994,,,286.55,,,,,,,,Huttunen et al 2002,,Johnson et al 2021a,Finland,Europe
+67.81666667,27.73333333,reservoir,8.6,47,1994,,,286.15,,,,,,,,Huttunen et al 2002,,Johnson et al 2021a,Finland,Europe
+67.81666667,27.73333333,reservoir,16,101,1994,,,286.85,,,,,,,,Huttunen et al 2002,,Johnson et al 2021a,Finland,Europe
+67.81666667,27.73333333,reservoir,19,55,1994,,,286.25,,,,,,,,Huttunen et al 2002,,Johnson et al 2021a,Finland,Europe
+67.81666667,27.73333333,reservoir,11,660,1994,,,286.05,,,,,,,,Huttunen et al 2002,,Johnson et al 2021a,Finland,Europe
+67.81666667,27.73333333,reservoir,20,16,1994,,,284.65,,,,,,,,Huttunen et al 2002,,Johnson et al 2021a,Finland,Europe
+67.81666667,27.73333333,reservoir,12,2.6,1994,,,282.35,,,,,,,,Huttunen et al 2002,,Johnson et al 2021a,Finland,Europe
+67.81666667,27.73333333,reservoir,5.3,120,1994,,,282.75,,,,,,,,Huttunen et al 2002,,Johnson et al 2021a,Finland,Europe
+67.81666667,27.73333333,reservoir,10,4.4,1994,,,284.95,,,,,,,,Huttunen et al 2002,,Johnson et al 2021a,Finland,Europe
+67.81666667,27.73333333,reservoir,119,89,1994,,,281.95,,,,,,,,Huttunen et al 2002,,Johnson et al 2021a,Finland,Europe
 67.82,27.06,reservoir,22.9,115.5,1994,,NA,283.33,NA,NA,0.033,NA,417,3.65,NA,Huttunen et al 2002,https://doi.org/10.1023/A:1019606410655,Rosentreter et al 2020,Finland,Europe
 67.82,27.73,reservoir,16.552,83.577,1994,,7,279.8100043,NA,20.5,12.8,31.01,417,10,4.9,Huttunen et al 2002,https://doi.org/10.1023/A:1019606410655,Prairie et al 2018,Finland,Europe
+68,26.75,reservoir,3.506666667,0.8,1994,,,286.28,,,,,,,,Huttunen et al 2002,,Johnson et al 2021a,Finland,Europe
+68,26.75,reservoir,4.8,0,1994,,,283.35,,,,,,,,Huttunen et al 2002,,Johnson et al 2021a,Finland,Europe
+68,26.75,reservoir,2.5,0.7,1994,,,284.45,,,,,,,,Huttunen et al 2002,,Johnson et al 2021a,Finland,Europe
+68,26.75,reservoir,3.7,2.1,1994,,,286.45,,,,,,,,Huttunen et al 2002,,Johnson et al 2021a,Finland,Europe
+68,26.75,reservoir,3,0.2,1994,,,286.55,,,,,,,,Huttunen et al 2002,,Johnson et al 2021a,Finland,Europe
 68.05,27.06,lake,3.46,NA,1995,6,1,286.95,NA,NA,NA,NA,NA,NA,NA,Huttunen et al 2002,https://doi.org/10.1023/A:1019606410655,Johnson et al 2021,Finland,Europe
 68.05,27.06,lake,3.46,NA,1995,7,1,288.65,NA,NA,NA,NA,NA,NA,NA,Huttunen et al 2002,https://doi.org/10.1023/A:1019606410655,Johnson et al 2021,Finland,Europe
 68.05,27.06,lake,3.46,NA,1995,8,1,284.65,NA,NA,NA,NA,NA,NA,NA,Huttunen et al 2002,https://doi.org/10.1023/A:1019606410655,Johnson et al 2021,Finland,Europe
@@ -578,11 +663,20 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 63.03,27.56,lake,57.2972973,NA,1998,"6,7,8",3,NA,NA,NA,NA,NA,0.03,NA,NA,Huttunen et al 2003,https://doi.org/10.1016/S0045-6535(03)00243-1,Kuhn et al 2021,Finland,Europe
 62.5,30.5,lake,0.3300037,NA,2009,"1,2,3,4,5,6,7,8,9,10,11,12",12,297.35,NA,NA,NA,NA,NA,NA,NA,Hyvonen et al 2013,NA,Johnson et al 2021,Finland,Europe
 62.5,30.5,lake,7.992868059,NA,2009,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Hyvonen et al 2013,NA,Johnson et al 2021,Finland,Europe
+24.88333333,121.5666667,reservoir,0.68,NA,2014,,,,,,,,,,,Itoh et al 2015,,Johnson et al 2021a,Taiwan,Asia
+39.85,-86.3,reservoir,10.49333333,NA,2011,,,302.45,,,,,,,,Jacinthe et al 2012,,Johnson et al 2021a,United States of America,North America
 68.333,19.05,lake,3.816,NA,2012,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Jammet et al 2015,NA,Johnson et al 2021,Sweden,Europe
 68.333,19.05,lake,17.712,NA,2013,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Jammet et al 2017,NA,Johnson et al 2021,Sweden,Europe
 68.21,19.02,lake,5.2,NA,2017,"6,7,8,9",4,283.05,NA,NA,NA,NA,0.17,NA,NA,Jansen et al 2020,https://doi.org/10.5194/bg-17-1911-2020,Kuhn et al 2021,Sweden,Europe
 68.21,19.02,lake,6.6,NA,2017,"6,7,8,9",4,283.25,NA,NA,NA,NA,0.023,NA,NA,Jansen et al 2020,https://doi.org/10.5194/bg-17-1911-2020,Kuhn et al 2021,Sweden,Europe
 68.21,19.02,lake,8,NA,2017,"6,7,8,9",4,282.35,NA,NA,NA,NA,0.01,NA,NA,Jansen et al 2020,https://doi.org/10.5194/bg-17-1911-2020,Kuhn et al 2021,Sweden,Europe
+9.233333333,-79.88333333,reservoir,NA,884,2002,,,,,,,,,,,Joyce and Jewell 2003,,Johnson et al 2021a,Panama,South America
+9.233333333,-79.88333333,reservoir,NA,1088,2002,,,,,,,,,,,Joyce and Jewell 2003,,Johnson et al 2021a,Panama,South America
+9.233333333,-79.88333333,reservoir,NA,5,2002,,,,,,,,,,,Joyce and Jewell 2003,,Johnson et al 2021a,Panama,South America
+9.233333333,-79.88333333,reservoir,12.4,524.2533333,2002,,,,,,,,,,,Joyce and Jewell 2003,,Johnson et al 2021a,Panama,South America
+18.3,-66.01666667,reservoir,NA,67.77333333,2002,,,,,,,,,,,Joyce and Jewell 2003,,Johnson et al 2021a,Puerto Rico,South America
+18.3,-66.01666667,reservoir,NA,24,2002,,,,,,,,,,,Joyce and Jewell 2003,,Johnson et al 2021a,Puerto Rico,South America
+18.3,-66.01666667,reservoir,NA,8,2002,,,,,,,,,,,Joyce and Jewell 2003,,Johnson et al 2021a,Puerto Rico,South America
 61.551389,23.592778,lake,36.41304348,NA,2000,"5,6,7,8,9,10",6,NA,NA,NA,NA,NA,4.3,NA,NA,Juutinen et al 2003,https://doi.org/10.1016/S0045-6535(03)00243-1,Kuhn et al 2021,Finland,Europe
 62.3,29.3,lake,8.02,NA,2000,"5,6,7,8,9,10",6,NA,NA,NA,NA,NA,NA,NA,NA,Juutinen et al 2003,NA,Johnson et al 2021,Finland,Europe
 62.3,29.3,lake,7.065217391,NA,2000,"5,6,7,8,9,10",6,NA,NA,NA,NA,NA,46,NA,NA,Juutinen et al 2003,https://doi.org/10.1016/S0045-6535(03)00243-1,Kuhn et al 2021,Finland,Europe
@@ -623,10 +717,21 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 68,18,lake,8.588957055,NA,2009,"5,6,7,8,9,10",6,285.45,NA,NA,NA,NA,0.006,NA,NA,Karlsson et al 2013,https://doi.org/10.1002/grl.50152,Kuhn et al 2021,Sweden,Europe
 68,18,lake,8.588957055,NA,2009,"5,6,7,8,9,10",6,285.75,NA,NA,NA,NA,0.023,NA,NA,Karlsson et al 2013,https://doi.org/10.1002/grl.50152,Kuhn et al 2021,Sweden,Europe
 68,18,lake,10.42944785,NA,2009,"5,6,7,8,9,10",6,284.45,NA,NA,NA,NA,0.02,NA,NA,Karlsson et al 2013,https://doi.org/10.1002/grl.50152,Kuhn et al 2021,Sweden,Europe
+9.233333333,-79.88333333,reservoir,NA,804,1993,,,301.65,,,,,,,,Keller and Stallard 1994,,Johnson et al 2021a,Panama,South America
+9.233333333,-79.88333333,reservoir,NA,500,1993,,,301.65,,,,,,,,Keller and Stallard 1994,,Johnson et al 2021a,Panama,South America
+9.233333333,-79.88333333,reservoir,NA,47,1993,,,301.65,,,,,,,,Keller and Stallard 1994,,Johnson et al 2021a,Panama,South America
+9.233333333,-79.88333333,reservoir,NA,795,1993,,,301.65,,,,,,,,Keller and Stallard 1994,,Johnson et al 2021a,Panama,South America
+9.233333333,-79.88333333,reservoir,NA,195,1993,,,301.65,,,,,,,,Keller and Stallard 1994,,Johnson et al 2021a,Panama,South America
+9.233333333,-79.88333333,reservoir,NA,1302,1993,,,301.65,,,,,,,,Keller and Stallard 1994,,Johnson et al 2021a,Panama,South America
+9.233333333,-79.88333333,reservoir,NA,489,1993,,,301.65,,,,,,,,Keller and Stallard 1994,,Johnson et al 2021a,Panama,South America
+9.233333333,-79.88333333,reservoir,NA,62,1993,,,301.65,,,,,,,,Keller and Stallard 1994,,Johnson et al 2021a,Panama,South America
 9.26,-79.93,lake,782.425,NA,1988,"2,3,4,5,6,7,8,9,10",10,NA,NA,NA,NA,NA,NA,NA,NA,Keller and Stallard 1994,NA,Johnson et al 2021,Panama,South America
 9.26,-79.93,reservoir,667.155,179.555,1988,"2,3,4,5,6,7,8,9,10",10,299.845178,NA,58.3,17.9,13.4,430,26.7,12.1,Keller and Stallard 1994,NA,Prairie et al 2018,Panama,South America
 9.26,-79.93,reservoir,12.4,525.1,1988,"2,3,4,5,6,7,8,9,10",10,301.9,NA,NA,0.05,NA,431,12.4,NA,Keller and Stallard 1994,NA,Rosentreter et al 2020,Panama,South America
+52.78333333,-76.61666667,reservoir,8,NA,1992,,,289.05,,,,,,,,Kelly et al 1994,,Johnson et al 2021a,Canada,North America
+53.66666667,-77,reservoir,13,NA,1992,,,288.95,,,,,,,,Kelly et al 1994,,Johnson et al 2021a,Canada,North America
 53.79,-77.45,reservoir,8.18,NA,1992,,8,279.95941,NA,27.4,8.1,11.15,2815,150,21.9,Kelly et al 1994,NA,Prairie et al 2018,Canada,North America
+27,102,reservoir,2.88,NA,1996,,,,,,,,,,,Kelly et al 1997,,Johnson et al 2021a,China,Asia
 -1.91,-59.48,reservoir,62.771,NA,2005,,12,300.4658629,NA,57.7,2.9,27.51,1770,30,7.4,Kemenes et al 2007,NA,Prairie et al 2018,Brazil,South America
 68.38,-149.38,lake,8.5,NA,1990,7,1,288.15,NA,NA,NA,NA,NA,NA,NA,Kling et al 1992,https://doi.org/10.1007/BF00013449,Johnson et al 2021,United States of America,North America
 68.38,-149.38,lake,8.5,NA,1990,7,1,288.15,NA,NA,NA,NA,0.018,NA,NA,Kling et al 1992,https://doi.org/10.1007/BF00013449,Kuhn et al 2021,United States of America,North America
@@ -708,6 +813,7 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 67.450978,-134.761975,lake,4.28114685,0.770606433,2019,"6,7,8,9",4,286.2388889,NA,NA,NA,NA,0.0095,NA,NA,Kuhn et al unpublished,https://doi.org/10.7939/DVN/LF4WDG,Kuhn et al 2021,Canada,North America
 67.473464,-134.690139,lake,7.516528707,6.560573631,2019,"6,7,8,9",4,286.7055556,NA,NA,NA,NA,0.058,NA,NA,Kuhn et al unpublished,https://doi.org/10.7939/DVN/LF4WDG,Kuhn et al 2021,Canada,North America
 67.477378,-134.705003,lake,61.87396788,0.470133984,2019,"6,7,8,9",4,287.15,NA,NA,NA,NA,0.0055,NA,NA,Kuhn et al unpublished,https://doi.org/10.7939/DVN/LF4WDG,Kuhn et al 2021,Canada,North America
+30.38,78.48,reservoir,23.10666667,4.786666667,,,,292.05,,,,,,,,Kumar and Sharma 2016,,Johnson et al 2021a,India,Asia
 30.38,78.48,reservoir,23.1,4.8,2016,,NA,NA,NA,NA,NA,NA,52,NA,NA,Kumar and Sharma 2016,NA,Rosentreter et al 2020,India,Asia
 55.16,-77.46,lake,0.6,NA,2007,"6,7",2,NA,NA,NA,NA,NA,NA,NA,NA,Laurion et al 2010,NA,Johnson et al 2021,Canada,North America
 55.16,-77.46,lake,0.6,NA,2007,"6,7",2,NA,NA,NA,NA,NA,NA,NA,NA,Laurion et al 2010,NA,Johnson et al 2021,Canada,North America
@@ -775,8 +881,12 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 73.09,-79.58,lake,0.5,NA,2007,"6,7",2,NA,NA,NA,NA,NA,NA,NA,NA,Laurion et al 2010,https://doi.org/10.4319/lo.2010.55.1.0115,Kuhn et al 2021,Canada,North America
 73.09,-79.58,lake,1.3,NA,2007,"6,7",2,NA,NA,NA,NA,NA,NA,NA,NA,Laurion et al 2010,https://doi.org/10.4319/lo.2010.55.1.0115,Kuhn et al 2021,Canada,North America
 73.09,-79.58,lake,37.4,NA,2007,"6,7",2,NA,NA,NA,NA,NA,NA,NA,NA,Laurion et al 2010,https://doi.org/10.4319/lo.2010.55.1.0115,Kuhn et al 2021,Canada,North America
+31.03333333,109.55,reservoir,2.4,NA,2014,,,,,,,,,,,Li et al 2015,,Johnson et al 2021a,China,Asia
+31.03333333,109.55,reservoir,5.866666667,NA,2014,,,,,,,,,,,Li et al 2015,,Johnson et al 2021a,China,Asia
+40.41666667,117,reservoir,7.186666667,NA,2014,,,283.75,,,,,,,,Li et al 2015,,Johnson et al 2021a,China,Asia
 -8.74,-63.47,reservoir,69.828,NA,2000,,12,299.1677878,NA,57.6,5.7,23.58,559,38,8.9,Lima 2005,NA,Prairie et al 2018,Brazil,South America
 -3.83,-49.65,reservoir,15.119,NA,2000,,12,300.3243819,NA,60.3,22.9,11.27,2430,72,18.9,Lima 2005,NA,Prairie et al 2018,Brazil,South America
+-3.916666667,-49.6,reservoir,6.333333333,68,1997,,,,,,,,,,,Lima et al 1998,,Johnson et al 2021a,Brazil,South America
 29.224,116.097,lake,3.985116279,NA,2010,10,1,293.75,NA,NA,NA,NA,NA,NA,NA,Lin et al 2012,NA,Johnson et al 2021,China,Asia
 61.067,25.133,lake,1.753424658,NA,2005,"1,2,3,4,5,6,7,8,9,10,11,12",12,283.15,NA,NA,NA,NA,NA,NA,NA,Linnaluoma 2012,NA,Johnson et al 2021,Finland,Europe
 61.083,25.072,lake,5.260273973,NA,2005,"1,2,3,4,5,6,7,8,9,10,11,12",12,283.15,NA,NA,NA,NA,NA,NA,NA,Linnaluoma 2012,NA,Johnson et al 2021,Finland,Europe
@@ -787,14 +897,17 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 61.067,25.133,lake,0.797452411,NA,2005,"10,11,3,4,5",5,291.65,NA,NA,NA,NA,NA,NA,NA,Lopez Bellido et al 2009,NA,Johnson et al 2021,Finland,Europe
 68,19,lake,16.36353544,NA,2009,"5,6,7,8,9",5,291.65,NA,NA,NA,NA,NA,NA,NA,Lundin et al 2013,http://dx.doi.org/10/1002/jgjg20092,Johnson et al 2021,Sweden,Europe
 68,19,lake,12,NA,2012,"5,6,7,8,9",5,284.65,NA,NA,NA,NA,0.026,NA,NA,Lundin et al 2013,http://dx.doi.org/10/1002/jgjg20092,Kuhn et al 2021,Sweden,Europe
-49.22,7.01,reservoir,87.219,NA,2011,,7,284.9039582,NA,55.4,NA,NA,0.04,NA,NA,Maeck et al 2013,NA,Prairie et al 2018,Germany,Europe
-49.22,7.01,reservoir,3.4,0,2011,,NA,NA,NA,NA,NA,NA,0.04,NA,NA,Maeck et al 2013,NA,Rosentreter et al 2020,Germany,Europe
-49.3,6.76,reservoir,621.375,9.913,2011,,7,284.9047623,NA,55.4,NA,NA,0.06,NA,NA,Maeck et al 2013,NA,Prairie et al 2018,Germany,Europe
-49.3,6.76,reservoir,4.6,113.9,2011,,NA,NA,NA,NA,NA,NA,0.06,NA,NA,Maeck et al 2013,NA,Rosentreter et al 2020,Germany,Europe
+49.22,7.01,reservoir,3.36,,2011,,,,,,,,,,,Maeck et al 2013,,Johnson et al 2021a,Germany,Europe
+49.22,7.01,reservoir,87.219,,2011,,7,284.9039582,NA,55.4,NA,NA,0.04,NA,NA,Maeck et al 2013,NA,Prairie et al 2018,Germany,Europe
+49.22,7.01,reservoir,3.4,,2011,,NA,NA,NA,NA,NA,NA,0.04,NA,NA,Maeck et al 2013,NA,Rosentreter et al 2020,Germany,Europe
+49.3,6.76,reservoir,4.64,113.7066667,2011,,7,284.9047623,,55.4,,,0.06,,,Maeck et al 2013,,Johnson et al 2021a,Germany,Europe
+49.3,6.76,reservoir,4.6,113.9,2011,,NA,284.9047623,,55.4,,,0.06,,,Maeck et al 2013,NA,Rosentreter et al 2020,Germany,Europe
+49.37,6.7,reservoir,2.88,,2011,,,,,,,,,,,Maeck et al 2013,,Johnson et al 2021a,Germany,Europe
 49.37,6.7,reservoir,2.957,25.37,2011,,7,285.166896,NA,55.4,NA,NA,0.17,NA,NA,Maeck et al 2013,NA,Prairie et al 2018,Germany,Europe
 49.37,6.7,reservoir,2.9,32.1,2011,,NA,NA,NA,NA,NA,NA,0.17,NA,NA,Maeck et al 2013,NA,Rosentreter et al 2020,Germany,Europe
-49.49,6.58,reservoir,0.952,38.694,2011,,7,285.1520875,NA,55.2,NA,NA,0.39,NA,NA,Maeck et al 2013,NA,Prairie et al 2018,Germany,Europe
+49.49,6.58,reservoir,3.68,48.04,2011,,,285.1520875,,55.2,NA,NA,0.39,NA,NA,Maeck et al 2013,,Johnson et al 2021a,Germany,Europe
 49.49,6.58,reservoir,3.7,48.1,2011,,NA,NA,NA,NA,NA,NA,0.39,NA,NA,Maeck et al 2013,NA,Rosentreter et al 2020,Germany,Europe
+49.57,6.59,reservoir,5.76,438.8,2011,,,,,,,,,,,Maeck et al 2013,,Johnson et al 2021a,Germany,Europe
 49.57,6.59,reservoir,2.284,347.343,2011,,7,284.9174561,NA,52.5,NA,NA,0.38,11,NA,Maeck et al 2013,NA,Prairie et al 2018,Germany,Europe
 49.57,6.59,reservoir,5.8,439.5,2011,,NA,NA,NA,NA,NA,NA,0.38,NA,NA,Maeck et al 2013,NA,Rosentreter et al 2020,Germany,Europe
 -38.23158,144.64513,pond,1236.799061,3528.693424,2022,,NA,293.15,NA,NA,NA,NA,NA,NA,NA,Malerba et al 2022,https://doi.org/10.1038/s43247-022-00638-9,Malerba et al 2022,Australia,Australia
@@ -1085,8 +1198,10 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 51.26,-105.98,pond,296.4752157,705.1496092,2022,,NA,293.25,NA,NA,NA,NA,NA,NA,NA,Malerba et al 2022,https://doi.org/10.1038/s43247-022-00638-9,Malerba et al 2022,Canada,North America
 -19.567,-57.017,lake,7,82,2004,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Marani and Alvala 2007,NA,Johnson et al 2021,Brazil,South America
 -19.567,-57.017,lake,6,148,2004,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Marani and Alvala 2007,NA,Johnson et al 2021,Brazil,South America
--19.567,-57.017,lake,7,82.1,NA,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Marani and Alvala 2007,NA,Rosentreter et al 2020,Brazil,South America
--19.567,-57.017,lake,6,148.2,NA,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Marani and Alvala 2007,NA,Rosentreter et al 2020,Brazil,South America
+-19.567,-57.017,lake,7,82.1,2004,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Marani and Alvala 2007,NA,Rosentreter et al 2020,Brazil,South America
+-19.567,-57.017,lake,6,148.2,2004,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Marani and Alvala 2007,NA,Rosentreter et al 2020,Brazil,South America
+-18.23333333,-45.25,reservoir,7.426666667,NA,2014,,,298.15,,,,,,,,Marcelino et al 2015,,Johnson et al 2021a,Brazil,South America
+-13.85,-48.33333333,reservoir,6.76,NA,2014,,,298.15,,,,,,,,Marcelino et al 2015,,Johnson et al 2021a,Brazil,South America
 -32.028,-52.094,lake,11.6456,NA,2002,"11,7",2,NA,NA,NA,NA,NA,NA,NA,NA,Marinho et al 2015,NA,Johnson et al 2021,Brazil,South America
 -32.028,-52.094,lake,11.6456,NA,2002,"11,7",2,NA,NA,NA,NA,NA,NA,NA,NA,Marinho et al 2015,NA,Johnson et al 2021,Brazil,South America
 68.32,-133.43,lake,13.33,0,2013,"6,7,8",3,282.15,NA,NA,NA,NA,1.00E-05,NA,NA,Martin et al 2017,https://doi.org/10.1139/as-2016-0011,Kuhn et al 2021,Canada,North America
@@ -1181,7 +1296,15 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 69.33,-148.75,lake,41.2,NA,1987,"7,8",2,NA,NA,NA,NA,NA,4.40E-05,NA,NA,Morrissey and Livingston 1992,https://doi.org/10.1029/92JD00063,Kuhn et al 2021,United States of America,North America
 35.96,-83.53,reservoir,0.346,NA,2010,"1,2,3,4,5,6,7,8,9,10,11,12",12,286.1780598,NA,39.6,NA,2.58,115,39,29.4,Mosher et al 2015,NA,Prairie et al 2018,United States of America,North America
 -28.14,153.29,reservoir,19.298,NA,2011,"1,2,3,4,5,6,7,8,9,10,11,12",12,292.5447668,NA,57.8,11.7,7.78,0.5,37,18.9,Musenze et al 2014,NA,Prairie et al 2018,Australia,Australia
--27.39,152.6,reservoir,3.8,NA,2011,"1,2,3,4,5,6,7,8,9,10,11,12",12,293.8709157,NA,66.5,NA,14.07,109.4,21.1,10.6,Musenze et al 2014,NA,Prairie et al 2018,Australia,Australia
+-28.13333333,153.2833333,reservoir,2,NA,2011,,,289.35,,,,,,,,Musenze et al 2014,,Johnson et al 2021a,Australia,Australia
+-28.13333333,153.2833333,reservoir,33,NA,2011,,,300.55,,,,,,,,Musenze et al 2014,,Johnson et al 2021a,Australia,Australia
+-28.13333333,153.2833333,reservoir,10,NA,2011,,,290.25,,,,,,,,Musenze et al 2014,,Johnson et al 2021a,Australia,Australia
+-27.38333333,152.6,reservoir,3.8,NA,2011,,,292.05,,,,,,,,Musenze et al 2014,,Johnson et al 2021a,Australia,Australia
+-27.38333333,152.6,reservoir,3.8,NA,2011,"1,2,3,4,5,6,7,8,9,10,11,12",12,293.8709157,NA,66.5,NA,14.07,109.4,21.1,10.6,Musenze et al 2014,NA,Prairie et al 2018,Australia,Australia
+-26.7,152.87,reservoir,4,NA,2011,,,292.35,,,,,,,,Musenze et al 2014,,Johnson et al 2021a,Australia,Australia
+-26.7,152.87,reservoir,13,NA,2011,,,300.35,,,,,,,,Musenze et al 2014,,Johnson et al 2021a,Australia,Australia
+-26.7,152.87,reservoir,4,NA,2011,,,297.95,,,,,,,,Musenze et al 2014,,Johnson et al 2021a,Australia,Australia
+-26.7,152.87,reservoir,7,NA,2011,,,292.75,,,,,,,,Musenze et al 2014,,Johnson et al 2021a,Australia,Australia
 -26.7,152.87,reservoir,6.599,NA,2011,"1,2,3,4,5,6,7,8,9,10,11,12",12,293.0309419,NA,61.8,10.5,4.04,4,18.5,15,Musenze et al 2014,NA,Prairie et al 2018,Australia,Australia
 62,129.44,lake,255.2,NA,1993,8,1,NA,NA,NA,NA,NA,NA,NA,NA,Nakayama et al 1994,NA,Johnson et al 2021,Russia,Europe
 62,129.44,lake,21.4,NA,1993,8,1,NA,NA,NA,NA,NA,NA,NA,NA,Nakayama et al 1994,NA,Johnson et al 2021,Russia,Europe
@@ -1219,12 +1342,21 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 61.67,25.13,lake,2.358414667,NA,2004,"6,7 ,8",3,NA,NA,NA,NA,NA,NA,NA,NA,Ojala et al 2011,NA,Johnson et al 2021,Finland,Europe
 61.67,25.13,lake,1.072006667,NA,2004,"9,10,11",3,NA,NA,NA,NA,NA,NA,NA,NA,Ojala et al 2011,NA,Johnson et al 2021,Finland,Europe
 61.67,25.13,lake,1.6,NA,2004,April-November,NA,286.15,NA,NA,NA,NA,13.4,NA,NA,Ojala et al 2011,https://doi.org/10.4319/lo.2011.56.1.0061,Kuhn et al 2021,Finland,Europe
--22.5290575,-44.5629325,reservoir,1.2,75.7,2005,,12,300.65,NA,NA,0.052,NA,33.5,19.7,NA,Ometto et al 2013,NA,Rosentreter et al 2020,Brazil,South America
+-22.51666667,-44.55,reservoir,1.226666667,75.6,2005,,,,,,,,,,,Ometto et al 2013,,Johnson et al 2021a,Brazil,South America
+-22.51666667,-44.55,reservoir,1.2,75.7,2005,,12,300.65,NA,NA,0.052,NA,33.5,19.7,NA,Ometto et al 2013,NA,Rosentreter et al 2020,Brazil,South America
+-20.66666667,-46.25,reservoir,6.586666667,22.4,2005,,,,,,,,,,,Ometto et al 2013,,Johnson et al 2021a,Brazil,South America
+-20.27,-47.05,reservoir,12.69333333,6.6,2005,,,,,,,,,,,Ometto et al 2013,,Johnson et al 2021a,Brazil,South America
 -20.27,-47.05,reservoir,12.7,6.6,2005,,12,NA,NA,NA,NA,NA,249,NA,NA,Ometto et al 2013,NA,Rosentreter et al 2020,Brazil,South America
+-20.15,-47.25,reservoir,4.426666667,4.4,2005,,,,,,,,,,,Ometto et al 2013,,Johnson et al 2021a,Brazil,South America
 -20.15,-47.25,reservoir,4.4,4.4,2005,,12,295.485,NA,NA,NA,NA,NA,NA,NA,Ometto et al 2013,NA,Rosentreter et al 2020,Brazil,South America
+-18.4,-49.05,reservoir,10.90666667,41.6,2005,,,,,,,,,,,Ometto et al 2013,,Johnson et al 2021a,Brazil,South America
 -18.4,-49.05,reservoir,10.9,41.7,2005,,12,NA,NA,NA,NA,NA,719,21,NA,Ometto et al 2013,NA,Rosentreter et al 2020,Brazil,South America
+-17.98333333,-48.51666667,reservoir,14.62666667,21,2005,,,,,,,,,,,Ometto et al 2013,,Johnson et al 2021a,Brazil,South America
+-14.87,-55.76666667,reservoir,19.98666667,138.3066667,2005,,,,,,,,,,,Ometto et al 2013,,Johnson et al 2021a,Brazil,South America
 -14.87,-55.76666667,reservoir,17.7,108.4,2005,,12,NA,NA,NA,NA,NA,357,15.7,NA,Ometto et al 2013,NA,Rosentreter et al 2020,Brazil,South America
+-14.86666667,-55.76666667,reservoir,15.44,78.10666667,2005,,,,,,,,,,,Ometto et al 2013,,Johnson et al 2021a,Brazil,South America
 -13.9347865,-48.31485917,reservoir,13.5,110.5,2005,,12,NA,NA,NA,NA,NA,1784,30.5,NA,Ometto et al 2013,NA,Rosentreter et al 2020,Brazil,South America
+-13.85,-48.33333333,reservoir,9.053333333,132,2005,,,,,,,,,,,Ometto et al 2013,,Johnson et al 2021a,Brazil,South America
 38.017,-119.009,lake,6.528,NA,1987,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Oremland et al 1987,NA,Johnson et al 2021,United States of America,North America
 -32.078611,-52.1675,lake,225.5,145.2,2013,,NA,294.85,NA,NA,0.635,NA,0.015,2.4,NA,Palma-Silva et al 2013,NA,Rosentreter et al 2020,Brazil,South America
 -32.027778,-52.094444,lake,18.6,1.5,2013,,NA,294.45,NA,NA,0.035,NA,0.01,1.5,NA,Palma-Silva et al 2013,NA,Rosentreter et al 2020,Brazil,South America
@@ -1433,9 +1565,13 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 -9.61,-37.82,reservoir,NA,1.684,1995,"1,2,3,4,5,6,7,8,9,10,11,19",12,299.1052816,NA,66.6,NA,2.43,60,150,67.7,Rosa et al 2002,NA,Prairie et al 2018,Brazil,South America
 -8.74,-63.47,reservoir,NA,16.487,1995,"1,2,3,4,5,6,7,8,9,10,11,20",12,299.1677878,NA,57.6,5.9,23.58,452.3667639,38,8.9,Rosa et al 2002,NA,Prairie et al 2018,Brazil,South America
 -3.83,-49.65,reservoir,NA,7.76,1995,"1,2,3,4,5,6,7,8,9,10,11,21",12,300.3243819,NA,60.3,22.9,11.27,2430,72,18.9,Rosa et al 2002,NA,Prairie et al 2018,Brazil,South America
+-8.8,-63.41666667,reservoir,87.54666667,16.45333333,1999,,,,,,,,,,,Rosa et al 2003,,Johnson et al 2021a,Brazil,South America
+-3.916666667,-49.6,reservoir,101.0933333,7.706666667,1999,,,,,,,,,,,Rosa et al 2003,,Johnson et al 2021a,Brazil,South America
 -25.79,-52.12,reservoir,NA,2.133,1999,"1,2,3,4,5,6,7,8,9,10,11,22",12,291.8498624,NA,56.2,51.8,5.94,82,140,36.6,Rosa et al 2004,NA,Prairie et al 2018,Brazil,South America
 -22.52,-48.53,reservoir,17,4,1999,"1,2,3,4,5,6,7,8,9,10,11,23",12,NA,NA,NA,0.103,NA,324,11.1,NA,Rosa et al 2004,NA,Rosentreter et al 2020,Brazil,South America
+-18.91666667,-48.03333333,reservoir,NA,NA,1999,,,,,,,,,,,Rosa et al 2004,,Johnson et al 2021a,Brazil,South America
 -9.61,-37.82,reservoir,NA,1.854,1998,"1,2,3,4,5,6,7,8,9,10,11,24",12,299.1052816,NA,66.6,NA,2.43,60,130,63.3,Rosa et al 2004,NA,Prairie et al 2018,Brazil,South America
+-8.8,-63.41666667,reservoir,85.57333333,16.52,1998,,,,,,,,,,,Rosa et al 2004,,Johnson et al 2021a,Brazil,South America
 -3.83,-49.65,reservoir,8.578,14.673,1989,,3,300.3243819,NA,60.3,22.9,11.27,2430,72,18.9,Rosa et al 2004,NA,Prairie et al 2018,Brazil,South America
 45.067,-78.75,lake,5.8,NA,1990,"5,6,7,8,9,10",6,291.45,NA,NA,NA,NA,NA,NA,NA,Roulet et al 1992,NA,Johnson et al 2021,Canada,North America
 45.067,-78.75,lake,20.6,NA,1990,"5,6,7,8,9,10",6,NA,NA,NA,NA,NA,NA,NA,NA,Roulet et al 1992,NA,Johnson et al 2021,Canada,North America
@@ -1529,11 +1665,15 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 8.122,77.501,lake,26.9,0,2011,"1,2,3,4",4,303.45,NA,NA,NA,NA,NA,NA,NA,Selvam et al 2014,NA,Rosentreter et al 2020,India,Asia
 8.144,77.456,lake,284.64,NA,2011,"1,2,3,4",4,308.15,NA,NA,NA,NA,NA,NA,NA,Selvam et al 2014,NA,Johnson et al 2021,India,Asia
 8.144,77.456,lake,0,0,2011,"1,2,3,4",4,303.75,NA,NA,NA,NA,NA,NA,NA,Selvam et al 2014,NA,Rosentreter et al 2020,India,Asia
+8.383333333,77.25,reservoir,5.92,114.1866667,2011,,,304.15,,,,,,,,Selvam et al 2014,,Johnson et al 2021a,India,Asia
 8.392416667,77.25766667,reservoir,5.9,136.2,2011,"1,2,3,4",4,304.15,NA,NA,NA,NA,NA,NA,NA,Selvam et al 2014,NA,Rosentreter et al 2020,India,Asia
+8.633333333,77.41666667,reservoir,0.16,0.48,2011,,,306.15,,,,,,,,Selvam et al 2014,,Johnson et al 2021a,India,Asia
 8.645533333,77.42356667,reservoir,0.2,0,2011,"1,2,3,4",4,306.15,NA,NA,NA,NA,NA,NA,NA,Selvam et al 2014,NA,Rosentreter et al 2020,India,Asia
 10.189,76.379,lake,215.52,NA,2011,"1,2,3,4",4,303.45,NA,NA,NA,NA,NA,NA,NA,Selvam et al 2014,NA,Johnson et al 2021,India,Asia
 10.189,76.379,lake,11.7,0,2011,"1,2,3,4",4,306.15,NA,NA,NA,NA,NA,NA,NA,Selvam et al 2014,NA,Rosentreter et al 2020,India,Asia
+10.36666667,77.48333333,reservoir,0.96,45.64,2011,,,302.75,,,,,,,,Selvam et al 2014,,Johnson et al 2021a,India,Asia
 10.38188333,77.48873333,reservoir,1,0,2011,"1,2,3,4",4,302.75,NA,NA,NA,NA,NA,NA,NA,Selvam et al 2014,NA,Rosentreter et al 2020,India,Asia
+10.41666667,77.68333333,reservoir,4.64,6.08,2011,,,300.65,,,,,,,,Selvam et al 2014,,Johnson et al 2021a,India,Asia
 10.43288333,77.68913333,reservoir,4.6,0,2011,"1,2,3,4",4,300.65,NA,NA,NA,NA,NA,NA,NA,Selvam et al 2014,NA,Rosentreter et al 2020,India,Asia
 10.807,79.135,lake,18.08,NA,2011,"1,2,3,4",4,299.55,NA,NA,NA,NA,NA,NA,NA,Selvam et al 2014,NA,Johnson et al 2021,India,Asia
 10.807,79.135,lake,18.1,0,2011,"1,2,3,4",4,306.65,NA,NA,NA,NA,NA,NA,NA,Selvam et al 2014,NA,Rosentreter et al 2020,India,Asia
@@ -1541,6 +1681,7 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 10.809,79.139,lake,0,0,2011,"1,2,3,4",4,308.15,NA,NA,NA,NA,NA,NA,NA,Selvam et al 2014,NA,Rosentreter et al 2020,India,Asia
 10.814,79.135,lake,100.32,NA,2011,"1,2,3,4",4,304.35,NA,NA,NA,NA,NA,NA,NA,Selvam et al 2014,NA,Johnson et al 2021,India,Asia
 10.81418333,79.13475,lake,3.5,0,2011,"1,2,3,4",4,304.85,NA,NA,NA,NA,NA,NA,NA,Selvam et al 2014,NA,Rosentreter et al 2020,India,Asia
+10.81666667,79.05,reservoir,5.6,49.32,2011,,,308.15,,,,,,,,Selvam et al 2014,,Johnson et al 2021a,India,Asia
 10.8215,79.0531,reservoir,5.6,49.4,2011,"1,2,3,4",4,308.15,NA,NA,NA,NA,NA,NA,NA,Selvam et al 2014,NA,Rosentreter et al 2020,India,Asia
 10.976,76.821,lake,3.04,NA,2011,"1,2,3,4",4,306.65,NA,NA,NA,NA,NA,NA,NA,Selvam et al 2014,NA,Johnson et al 2021,India,Asia
 10.976,76.821,lake,1.3,NA,2011,"1,2,3,4",4,300.15,NA,NA,NA,NA,NA,NA,NA,Selvam et al 2014,NA,Rosentreter et al 2020,India,Asia
@@ -1747,11 +1888,17 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 39.65,-105.879,lake,28.16,NA,1990,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,"Smith and Lewis, 1992",NA,Johnson et al 2021,United States of America,North America
 40.081,-105.541,lake,47.04,NA,1990,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,"Smith and Lewis, 1992",NA,Johnson et al 2021,United States of America,North America
 47.02556,8.98056,reservoir,2.3,0,2017,,NA,NA,NA,NA,NA,NA,2.25,NA,45,Sollberger et al 2017,NA,Rosentreter et al 2020,Switzerland,Europe
+37.95,-120.52,reservoir,7.106666667,NA,2001,,,297.59,,,,,,,,Soumis et al 2004,,Johnson et al 2021a,United States of America,North America
 37.95,-120.52,reservoir,4.486,NA,2001,,9,290.8403539,NA,61.3,7.9,1.26,38,172,100,Soumis et al 2004,NA,Prairie et al 2018,United States of America,North America
+39.54,-121.48,reservoir,4.2,NA,2001,,,297.1,,,,,,,,Soumis et al 2004,,Johnson et al 2021a,United States of America,North America
 39.54,-121.48,reservoir,2.714,NA,2001,,9,291.2564207,NA,58.4,9.5,0.91,34,212,129.4,Soumis et al 2004,NA,Prairie et al 2018,United States of America,North America
 40.72,-122.42,reservoir,6.228,NA,2001,,9,291.9316692,NA,84.1,24,2.08,77,158,75.3,Soumis et al 2004,NA,Prairie et al 2018,United States of America,North America
+40.85,-122.3833333,reservoir,9.506666667,NA,2001,,,296.71,,,,,,,,Soumis et al 2004,,Johnson et al 2021a,United States of America,North America
+45.91666667,-119.1666667,reservoir,9,NA,2001,,,293.55,,,,,,,,Soumis et al 2004,,Johnson et al 2021a,United States of America,North America
 45.93,119.29,reservoir,6.515,NA,2001,,9,288.6635574,NA,74.6,54.6,15.53,157,24,10.6,Soumis et al 2004,NA,Prairie et al 2018,China,Asia
 46.52,-116.3,reservoir,3.256,NA,2001,,9,286.2524066,NA,56.4,6.1,1.07,37,198,116.2,Soumis et al 2004,NA,Prairie et al 2018,United States of America,North America
+46.56666667,-116.25,reservoir,4.4,NA,2001,,,295.08,,,,,,,,Soumis et al 2004,,Johnson et al 2021a,United States of America,North America
+47.9,-118.7666667,reservoir,3.2,NA,2001,,,294.85,,,,,,,,Soumis et al 2004,,Johnson et al 2021a,United States of America,North America
 47.95,-118.98,reservoir,2.438,NA,2001,,9,286.4568443,NA,56,20.7,5.37,306,122,37.9,Soumis et al 2004,NA,Prairie et al 2018,United States of America,North America
 -3.83,-49.65,reservoir,74.993,NA,1997,,12,300.3243819,NA,60.3,22.9,11.27,2430,72,18.9,St-Louis et al 2000,NA,Prairie et al 2018,Brazil,South America
 46.03,-91.08,reservoir,1.734,NA,1995,,7,284.2366914,NA,35.8,18.5,67.58,7,6,2.3,St-Louis et al 2000,NA,Prairie et al 2018,United States of America,North America
@@ -1759,6 +1906,10 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 46.1,-91.51,reservoir,3.356,NA,1995,,7,284.700645,NA,41.4,11.5,53.17,25,7.3,3,St-Louis et al 2000,NA,Prairie et al 2018,United States of America,North America
 46.19,-90.91,reservoir,3.986,NA,1995,,7,284.141068,NA,35.8,13.9,75,2,6,2,St-Louis et al 2000,NA,Prairie et al 2018,United States of America,North America
 46.2,-90.98,reservoir,3.99,NA,1995,,7,284.0658387,NA,35.8,3.3,100,61,3,2,St-Louis et al 2000,NA,Prairie et al 2018,United States of America,North America
+46.01666667,-91.23333333,reservoir,1,NA,1995,,,,,,,,,,,St. Louis et al 2000,,Johnson et al 2021a,United States of America,North America
+46.01666667,-91.06666667,reservoir,3,NA,1995,,,,,,,,,,,St. Louis et al 2000,,Johnson et al 2021a,United States of America,North America
+46.08333333,-91.5,reservoir,6,NA,1995,,,,,,,,,,,St. Louis et al 2000,,Johnson et al 2021a,United States of America,North America
+46.18333333,-90.9,reservoir,7,NA,1995,,,,,,,,,,,St. Louis et al 2000,,Johnson et al 2021a,United States of America,North America
 61.833,24.267,lake,0.8592,20.304,2013,"5,6,7,8,9,10",6,289.15,NA,NA,NA,NA,NA,NA,NA,Stepanenko et al 2016,NA,Johnson et al 2021,Finland,Europe
 42.397707,-85.385187,lake,673.1,336.6,1978,,NA,NA,NA,NA,NA,NA,0.15,3.54,NA,Strayer and Tiedje 1978,NA,Rosentreter et al 2020,United States of America,North America
 43.762,-73.566,lake,160.44,336,1990,"5,6,7,8,9,10",6,NA,NA,NA,NA,NA,NA,NA,NA,Strayer et al 1978,NA,Johnson et al 2021,United States of America,North America
@@ -1780,55 +1931,12 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 62.19,129.3,lake,245.4,NA,2005,"6,7,8,9",4,286.15,NA,NA,NA,NA,NA,NA,NA,Takakai et al 2008,https://doi.org/10.1029/2007JG000521,Johnson et al 2021,Russia,Europe
 62.19,129.3,lake,245.4,NA,2005,"6,7,8,10",5,286.15,NA,NA,NA,NA,0.006,NA,NA,Takakai et al 2008,https://doi.org/10.1029/2007JG000521,Kuhn et al 2021,Russia,Europe
 -0.88,37.58,reservoir,NA,NA,2008,"1,2,3,4,5,6,7,8,9,10,11,12",12,295.0663471,NA,67.9,146.6,14.67,120,47,13.8,Tamooh et al 2013,NA,Prairie et al 2018,Kenya,Africa
+51.5,-74,reservoir,7.733333333,0.426666667,2008,,,,,,,,,,,Teodoru et al 2012,,Johnson et al 2021a,Canada,North America
 52.14,-76.13,reservoir,5.564,NA,2007,,7,280.7403005,NA,27.1,8.2,16.07,602.9,28,11,Teodoru et al 2012,NA,Prairie et al 2018,Canada,North America
 52.14,-76.13,reservoir,6.188,0.14,2008,,7,280.7403005,NA,27.1,8.2,16.07,602.9,28,11,Teodoru et al 2012,NA,Prairie et al 2018,Canada,North America
 52.14,-76.13,reservoir,6.547,NA,2006,,7,280.7403005,NA,27.1,8.2,16.07,602.9,28,11,Teodoru et al 2012,NA,Prairie et al 2018,Canada,North America
 52.14,-76.13,reservoir,9.417,NA,2009,,7,280.7403005,NA,27.1,8.2,16.07,602.9,28,11,Teodoru et al 2012,NA,Prairie et al 2018,Canada,North America
 52.14,-76.13,reservoir,7.7,0.4,2009,,7,NA,NA,NA,0.014,NA,602.9,16,63,Teodoru et al 2012,NA,Rosentreter et al 2020,Canada,North America
-31.41,-111.09,reservoir,NA,NA,2003,,4,291.9131022,NA,66.6,NA,NA,0.18,NA,20,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-31.43,-110.45,reservoir,NA,NA,2003,,4,289.9960608,NA,65.9,NA,NA,0.51,NA,25,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-31.49,-110.87,reservoir,NA,NA,2003,,4,292.1650878,NA,66.6,NA,NA,1.01,NA,NA,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-31.53,-111.26,reservoir,NA,NA,2003,,4,292.3181542,NA,64.9,NA,43.51,0.36,7.6,3.6,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-32.55,-104.38,reservoir,NA,NA,2003,,4,292.8094623,NA,63.5,NA,5.6,16,44,24.2,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-32.87,-108.58,reservoir,NA,NA,2003,,4,290.1067571,NA,63.7,NA,NA,0.471224756,NA,NA,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-32.9,-107.3,reservoir,NA,NA,2003,,4,292.0954211,NA,62.9,NA,4.34,45,7.6,7,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-33.03,-108.16,reservoir,NA,NA,2003,,4,287.2131154,NA,62.4,NA,NA,0.28,NA,NA,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-33.16,-107.19,reservoir,NA,NA,2003,,4,291.8498772,NA,62.9,NA,2.57,161.87,18,15.8,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-33.36,-83.16,reservoir,NA,NA,2003,,4,292.8462695,NA,52.6,NA,19.45,77.1,37,10.4,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-33.59,-111.34,reservoir,NA,NA,2003,,4,296.8862363,NA,62.5,NA,5.8,10.39,73,30.1,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-33.68,-111.16,reservoir,NA,NA,2003,,4,296.4082726,NA,62.5,NA,9.68,86.98,109,23.4,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-33.82,-111.63,reservoir,NA,NA,2003,,4,296.7871955,NA,63.8,NA,5.37,8.15,52.1,27,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-33.85,-112.27,reservoir,NA,NA,2003,,4,296.9251498,NA,63.8,NA,NA,30,NA,21,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-33.99,-111.71,reservoir,NA,NA,2003,,4,296.175446,NA,63.8,NA,11.77,11.01,23.5,12.3,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-34.04,-109.45,reservoir,NA,NA,2003,,4,283.0608858,NA,46.7,NA,NA,0.08,NA,3,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-34.23,-113.6,reservoir,NA,NA,2003,,4,297.3473025,NA,65,NA,12.8,10.38,24,11.8,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-34.37,-109.38,reservoir,NA,NA,2003,,4,287.2333283,NA,62.3,NA,25.81,5.7,17,6.7,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-35.08,-111.53,reservoir,NA,NA,2003,,4,284.9910537,NA,51.3,NA,2.16,2.4,13,12,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-35.35,-103.45,reservoir,NA,NA,2003,,4,291.521966,NA,60.9,NA,12.53,28.59,23,11.8,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-35.4,-104.19,reservoir,NA,NA,2003,,4,290.968212,NA,62.4,NA,39.57,38.85,24.5,5,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-35.52,-105.18,reservoir,NA,NA,2003,,4,285.722648,NA,49.4,NA,53.08,0.62,4.8,2.7,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-35.62,-106.32,reservoir,NA,NA,2003,,4,289.2807375,NA,59.5,NA,NA,6.51,77,207.1,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-35.94,-105.4,reservoir,NA,NA,2003,,4,283.5556061,NA,44.5,NA,NA,0.1,NA,5,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-36.02,-114.73,reservoir,NA,NA,2003,,4,298.374069,NA,61.3,NA,3.9,640,149,50.4,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-36.18,-104.82,reservoir,NA,NA,2003,,4,285.3967563,NA,49.4,NA,NA,0.45,NA,1.7,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-36.19,-104.8,reservoir,NA,NA,2003,,4,285.4348714,NA,49.4,NA,NA,1.2,14.9,NA,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-36.8,-107.61,reservoir,NA,NA,2003,,4,286.7075159,NA,43.8,NA,9.45,60.7,123,24.5,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-36.94,-111.49,reservoir,NA,NA,2003,,4,293.3057832,NA,60.4,NA,6,658,170,38,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-36.94,-111.49,reservoir,NA,NA,2003,,4,293.3057832,NA,60.4,NA,5.4,658,150,40,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-37.19,-113.38,reservoir,NA,NA,2003,,4,293.1443605,NA,59.8,NA,9.26,2.39,58,20.5,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-37.25,-113.78,reservoir,NA,NA,2003,,4,291.4928509,NA,60.5,NA,4,1.08,35.1,24.1,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-37.38,-113.64,reservoir,NA,NA,2003,,4,288.2747688,NA,60.5,NA,22.72,0.26,16.7,7.3,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-37.52,-113.86,reservoir,NA,NA,2003,,4,286.4372064,NA,48.8,NA,10.77,1.07,18.4,11.2,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-37.53,-113.85,reservoir,NA,NA,2003,,4,286.46966,NA,48.8,NA,NA,0.32,NA,15.2,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-38.17,-112.02,reservoir,NA,NA,2003,,4,285.1062709,NA,42.6,NA,20.64,10.2,11,6.4,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-38.22,-112.83,reservoir,NA,NA,2005,,4,286.6595531,NA,48.4,NA,14.63,4,13.4,8.3,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-38.32,-112.19,reservoir,NA,NA,2003,,4,285.7615236,NA,42.6,NA,18.94,10.2,20,8.7,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-39.1,-111.19,reservoir,NA,NA,2003,,4,286.0329748,NA,42.3,NA,13.98,1.76,31,12.5,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-39.33,-120.64,reservoir,NA,NA,2003,,4,284.7427603,NA,61,7.9,29.69,17.86,22.5,6.5,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-39.59,-111.26,reservoir,NA,NA,2003,,4,280.9690665,NA,32.5,NA,29.74,0.48,27.9,6.8,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-40.41,-111.53,reservoir,NA,NA,2003,,4,285.9901876,NA,55.9,45.4,11.62,12,42,15.8,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-40.6,-111.42,reservoir,NA,NA,2003,,4,284.2373561,NA,57.6,21.6,5.67,13.36,89,32.9,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
-40.79,-111.4,reservoir,NA,NA,2003,,4,284.2309308,NA,57.6,53.9,8.84,4.81,45.7,19.3,Therrien et al 2005,NA,Prairie et al 2018,United States of America,North America
 67.08,-50.287222,lake,9.47,11.28,2014,7,1,287.15,NA,NA,NA,NA,2.00E-04,NA,NA,Thompson et al 2016,https://doi.org/10.1007/s10533-016-0261-1,Kuhn et al 2021,Greenland,Europe
 70,-156.53,lake,1.31,NA,2015,1,1,282.8,NA,NA,NA,NA,0.447,NA,NA,Townsend-Small et al 2017,https://doi.org/10.1002/2017JG004002,Kuhn et al 2021,United States of America,North America
 70.29,-156.985,lake,0.69,0,2015,11,1,281.5,NA,NA,NA,NA,1.488,NA,NA,Townsend-Small et al 2017,https://doi.org/10.1002/2017JG004002,Kuhn et al 2021,United States of America,North America
@@ -1853,52 +1961,76 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 71.24,-156.774,lake,5.67,0,2015,8,1,279.55,NA,NA,NA,NA,1.838,NA,NA,Townsend-Small et al 2017,https://doi.org/10.1002/2017JG004002,Kuhn et al 2021,United States of America,North America
 71.27,-156.497,lake,4.91,0,2015,8,1,279.95,NA,NA,NA,NA,1.25,NA,NA,Townsend-Small et al 2017,https://doi.org/10.1002/2017JG004002,Kuhn et al 2021,United States of America,North America
 71.27,-156.497,lake,4.9,0,2015,8,1,277.65,NA,NA,NA,NA,1.25,1.6,NA,Townsend-Small et al 2017,https://doi.org/10.1002/2017JG004002,Rosentreter et al 2020,United States of America,North America
+46.72,-75.98,reservoir,3.2,NA,2002,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
 46.72,-75.98,reservoir,1.854,NA,2002,,7,283.6176837,NA,33,8.9,32.53,413,29,6.3,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
+46.8,-75.8,reservoir,13.90666667,NA,2002,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
 47.3,-76.47,reservoir,8.285,NA,1996,,7,282.8689117,NA,33,5.8,61.45,434,33,3,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
 48.36,-74.1,reservoir,1.657,NA,1999,,7,282.1691251,NA,32.3,5.1,42.59,1789,47.9,5,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
 48.56,-73.81,lake,6.6,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
+48.93333333,-74.95,reservoir,2.706666667,NA,2003,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
 48.96,-68.54,lake,6.7,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
 48.96,-68.54,lake,6.72,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,289.45,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
 49.01,-117.61,reservoir,15.652,NA,2002,,7,285.3438128,NA,48.4,40.6,11.53,3.22495856,76,18.8,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
 49.03,-117.5,reservoir,44.386,NA,2002,,7,285.0376185,NA,49.5,40.2,8.44,4,80,24.2,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
+49.08333333,-117.6166667,reservoir,38.8,NA,1999,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
+49.08333333,-116.1,reservoir,5.8,NA,1999,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
 49.2,-68.33,reservoir,7.142,NA,1999,,7,281.6741813,NA,34.1,13.9,55.48,12,37,3.5,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
 49.32,-68.35,reservoir,3.821,NA,1999,,7,281.51558,NA,28,12,24.49,124,91,9.7,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
 49.34,-117.78,reservoir,2.772,NA,2002,,7,284.3825838,NA,46.4,6.6,2.04,520,150,74.2,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
 49.34,-117.78,reservoir,9.654,NA,2002,,7,284.3825838,NA,46.4,6.6,2.04,520,150,74.2,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
 49.34,-117.78,reservoir,22.24,NA,2002,,7,284.3825838,NA,46.4,6.6,2.04,520,150,74.2,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
+49.35,-116.75,reservoir,23.50666667,NA,2002,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
+49.35,-68.58333333,reservoir,11.30666667,NA,2002,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
 49.36,-69.77,reservoir,0.625,NA,2002,,7,281.8157002,NA,27,8.8,77.41,798,61,2,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
+49.43333333,-123.25,reservoir,52.90666667,NA,2002,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
 49.45,-94.3,lake,50.1,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
 49.45,-94.3,lake,50.08,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
 49.47,-117.47,reservoir,9.947,NA,2002,,7,284.2800192,NA,47.3,10.7,1.19,389,150,94.3,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
 49.57,-68.8,reservoir,0.635,NA,1999,,7,281.5545513,NA,26.8,13.1,8.58,11,80,23.9,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
 49.61,-94.88,lake,435.5,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
 49.61,-94.88,lake,435.52,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
+49.65,-70.15,reservoir,0.106666667,NA,2003,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
 49.71,-68.91,reservoir,0.586,NA,1999,,7,281.2018759,NA,26.8,6.7,8.02,625,122,28,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
 49.75,-68.61,reservoir,0.711,NA,1999,,7,281.2791152,NA,26.8,9.3,4,236,108,44.1,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
+49.76666667,-68.63333333,reservoir,6,NA,2002,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
 49.92,-118.12,reservoir,2.482,NA,2002,,7,283.6833788,NA,46.7,4.9,18.01,15,12,7.1,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
+49.95,-69.35,reservoir,0.106666667,NA,2002,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
+50.1,-68.38333333,reservoir,0.106666667,NA,2002,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
 50.11,-67.94,reservoir,0.665,NA,2002,,7,280.9704493,NA,26.8,4,3.22,235,290,70,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
 50.17,-69,lake,1.4,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
 50.17,-69,lake,1.408,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
 50.22,-66.66,reservoir,2.589,NA,2002,,7,281.653192,NA,26.9,NA,NA,19.5,34,NA,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
 50.23,-95.57,reservoir,41.627,NA,2002,,7,284.2101555,NA,34.9,NA,NA,7,25,NA,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
+50.23333333,-69.03333333,reservoir,1.106666667,NA,2002,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
 50.25,-116.95,reservoir,4.377,NA,2002,,7,283.300635,NA,46.4,6.6,2.17,56,39,30.6,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
+50.26666667,-96.01666667,reservoir,23.8,NA,2002,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
+50.26666667,-69.2,reservoir,0.906666667,NA,2002,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
 50.28,-66.68,lake,2.1,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
 50.28,-66.68,lake,2.08,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
+50.31666667,-117.9,reservoir,23,NA,2003,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
 50.4,-95.99,reservoir,8.852,NA,2002,,7,284.295535,NA,34.9,36.1,77.62,126,255,2,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
+50.45,-90,reservoir,15.30666667,NA,2002,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
 50.46,-96,reservoir,5.673,NA,2002,,7,284.356193,NA,34.9,38,39.54,10,23,5,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
 50.5,-68.49,lake,1.1,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
 50.5,-68.49,lake,1.104,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
 50.5,-68.49,lake,8.96,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,279.15,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
+50.51666667,-67.06666667,reservoir,4.106666667,NA,2003,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
+50.56666667,-96.2,reservoir,0.106666667,NA,2002,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
 50.57,-96.18,reservoir,1.852,NA,2002,,7,284.3279101,NA,34.6,NA,NA,9,229,NA,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
 50.65,-68.73,reservoir,4.916,NA,1999,,7,280.7542627,NA,26.3,4.6,3.49,2000,214,60.8,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
 50.84,-66.78,reservoir,1.822,NA,2002,,7,280.67392,NA,26.3,4.1,4.26,253,144.8,47,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
+51.01,-59.1,reservoir,6.106666667,NA,2002,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
 51.01,-59.1,reservoir,4.147,NA,2002,,7,280.5746113,NA,26,NA,NA,73,NA,NA,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
 51.12,-60.6,lake,1.5,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
 51.12,-60.6,lake,1.504,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
+51.33333333,-69.15,reservoir,6.106666667,NA,2003,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
+51.66666667,-67.03333333,reservoir,2.706666667,NA,2003,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
 53.28,-76.81,reservoir,2.654,NA,2003,,7,280.2332129,NA,27.3,6.8,NA,1040,NA,20,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
+53.45,-77.1,reservoir,3.8,NA,2003,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
 53.52,-77.39,lake,2.6,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
 53.52,-77.39,lake,2.56,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
 53.52,-77.39,lake,6.56,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
+53.66666667,-77,reservoir,7.906666667,NA,2003,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
 53.73,-75.96,reservoir,5.819,NA,2003,,7,279.9265934,NA,27.2,6.7,10.41,2420,256,24.8,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
 53.74,-78.57,reservoir,6.229,NA,2003,,7,280.0669559,NA,27.8,14.7,10.78,70,35,15.4,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
 53.76,-74.22,lake,0.9,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
@@ -1906,10 +2038,19 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 53.89,-73.46,reservoir,7.837,NA,2003,,7,279.7775659,NA,26.7,7.2,7.84,765,128,28.8,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
 54.07,-72.84,lake,0.3,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
 54.18,-72.55,reservoir,2.154,NA,1997,,7,279.5879299,NA,26.7,5.7,26.17,1288,14,6.2,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
+54.2,-76.13333333,reservoir,8.106666667,NA,1997,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
+54.2,-72.58333333,reservoir,27.30666667,NA,1997,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
 54.27,-72.45,lake,0.5,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
 54.27,-72.45,lake,0.496,NA,2003,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Tremblay et al 2005,NA,Johnson et al 2021,Canada,North America
+54.38333333,-69.85,reservoir,9.8,NA,2003,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
+54.5,-78.51666667,reservoir,8.8,NA,2003,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
+54.6,-73.21666667,reservoir,10.8,NA,2003,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
+54.66666667,-70.43333333,reservoir,9.8,NA,2003,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
 54.82,-70.71,reservoir,5.585,NA,2003,,7,279.4944102,NA,22.6,9.2,27.23,260,24,7.1,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
 54.85,-69.78,reservoir,7.274,NA,2003,,7,279.5304918,NA,22,5,11.51,4318,50,16.8,Tremblay et al 2005,NA,Prairie et al 2018,Canada,North America
+54.95,-70.25,reservoir,7.506666667,NA,2003,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
+55.96666667,-120.4,reservoir,109.5066667,NA,2003,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
+59.63333333,-118.15,reservoir,6.6,NA,2003,,,,,,,,,,,Tremblay et al 2005,,Johnson et al 2021a,Canada,North America
 49.2,-68.33,reservoir,5,NA,2002,,12,281.6741813,NA,34.1,13.9,55.48,14.28,37,3.5,Tremblay et al 2008,NA,Prairie et al 2018,Canada,North America
 49.26,-69.32,reservoir,1.8,NA,2002,,12,282.548565,NA,32.2,9.1,3.33,42,83,43.2,Tremblay et al 2008,NA,Prairie et al 2018,Canada,North America
 49.32,-68.35,reservoir,4.996,NA,1999,,12,281.51558,NA,28,12.1,24.49,114,91,9.7,Tremblay et al 2008,NA,Prairie et al 2018,Canada,North America
@@ -2014,13 +2155,34 @@ lat,lon,waterbody_type,ch4_diff,ch4_ebu,obs_year,months,num_months_sampled,effec
 68.21,19.02,lake,NA,6.8,2012,"6,7,8,9",4,285.35,NA,NA,NA,NA,0.022,NA,NA,Wik et al 2013,https://doi.org/10.1002/jgrg.20103,Kuhn et al 2021,Sweden,Europe
 68.21,19.02,lake,NA,16.7,2012,"6,7,8,9",4,283.45,NA,NA,NA,NA,0.011,NA,NA,Wik et al 2013,https://doi.org/10.1002/jgrg.20103,Kuhn et al 2021,Sweden,Europe
 30.83,111,reservoir,3.74,NA,2010,"1,2,3,4,5,6,7,8,9,10,11,12",12,294.7520172,NA,40.9,89.8,4.72,830.8447898,175,46.1,Xiao et al 2013,NA,Prairie et al 2018,China,Asia
+31.03333333,109.55,reservoir,1.2,NA,2010,,,292.85,,,,,,,,Xiao et al 2013,,Johnson et al 2021a,China,Asia
 30.742,111.347,lake,NA,593.424,2013,7,1,302.55,NA,NA,NA,NA,NA,NA,NA,Xiao S. et al 2014,NA,Johnson et al 2021,China,Asia
 30.742,113.347,lake,0.38496,NA,2013,10,1,NA,NA,NA,NA,NA,NA,NA,NA,Xiao S. et al 2014,NA,Johnson et al 2021,China,Asia
 30.742,113.347,lake,1.53984,NA,2013,7,1,280.85,NA,NA,NA,NA,NA,NA,NA,Xiao S. et al 2014,NA,Johnson et al 2021,China,Asia
 31.374,120.141,lake,4.83,NA,2014,"1,2,3,4,5,6,7,8,9,10,11,12",12,282.25,NA,NA,NA,NA,NA,NA,NA,Xiao W. et al 2014,NA,Johnson et al 2021,China,Asia
 30.55,114.383,lake,21.09476461,NA,2004,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Xing et al 2005,NA,Johnson et al 2021,China,Asia
+31.03333333,109.55,reservoir,7.93,NA,2010,,,291.31,,,,,,,,Yang et al 2013,,Johnson et al 2021a,China,Asia
+31.03333333,109.55,reservoir,7.2,NA,2010,,,286.65,,,,,,,,Yang et al 2013,,Johnson et al 2021a,China,Asia
+31.03333333,109.55,reservoir,24.24,NA,2010,,,295.25,,,,,,,,Yang et al 2013,,Johnson et al 2021a,China,Asia
+31.03333333,109.55,reservoir,10.32,NA,2010,,,294.75,,,,,,,,Yang et al 2013,,Johnson et al 2021a,China,Asia
+31.03333333,109.55,reservoir,3.36,NA,2010,,,286.75,,,,,,,,Yang et al 2013,,Johnson et al 2021a,China,Asia
+31.03333333,109.55,reservoir,4.08,NA,2010,,,286.05,,,,,,,,Yang et al 2013,,Johnson et al 2021a,China,Asia
+31.03333333,109.55,reservoir,8.88,NA,2010,,,296.15,,,,,,,,Yang et al 2013,,Johnson et al 2021a,China,Asia
+31.03333333,109.55,reservoir,6.72,NA,2010,,,296.55,,,,,,,,Yang et al 2013,,Johnson et al 2021a,China,Asia
+31.03333333,109.55,reservoir,2.64,NA,2010,,,287.85,,,,,,,,Yang et al 2013,,Johnson et al 2021a,China,Asia
+31.03333333,109.55,reservoir,2.088,NA,2010,,,286.05,,,,,,,,Yang et al 2013,,Johnson et al 2021a,China,Asia
+31.03333333,109.55,reservoir,3.36,NA,2010,,,298.05,,,,,,,,Yang et al 2013,,Johnson et al 2021a,China,Asia
+31.03333333,109.55,reservoir,1.944,NA,2010,,,295.95,,,,,,,,Yang et al 2013,,Johnson et al 2021a,China,Asia
+31.03333333,109.55,reservoir,1.992,NA,2010,,,286.85,,,,,,,,Yang et al 2013,,Johnson et al 2021a,China,Asia
+31.03333333,109.55,reservoir,6.72,NA,2010,,,285.35,,,,,,,,Yang et al 2013,,Johnson et al 2021a,China,Asia
+31.03333333,109.55,reservoir,9.36,NA,2010,,,295.15,,,,,,,,Yang et al 2013,,Johnson et al 2021a,China,Asia
+31.03333333,109.55,reservoir,7.44,NA,2010,,,296.05,,,,,,,,Yang et al 2013,,Johnson et al 2021a,China,Asia
+31.03333333,109.55,reservoir,2.88,NA,2010,,,287.55,,,,,,,,Yang et al 2013,,Johnson et al 2021a,China,Asia
+40.41666667,117,reservoir,18.01333333,NA,2010,,,294.15,,,,,,,,Yang et al 2014,,Johnson et al 2021a,China,Asia
 39.117,-79.583,lake,250,NA,1989,"1,2,3,4,5,6,7,8,9,10,11,12",12,NA,NA,NA,NA,NA,NA,NA,NA,Yavitt et al 1990,NA,Johnson et al 2021,United States of America,North America
 30.83,111,reservoir,3.288,NA,2010,"1,2,3,4,5,6,7,8,9,10,11,12",12,294.7520172,NA,40.9,82.1,2.51,1084,170,70,Zhao et al 2013,NA,Prairie et al 2018,China,Asia
+31.03333333,109.55,reservoir,57.33333333,NA,2010,,,NA,,,,,,,,Zhen et al 2012,,Johnson et al 2021a,China,Asia
+31.03333333,109.55,reservoir,49.33333333,NA,2010,,,NA,,,,,,,,Zhen et al 2012,,Johnson et al 2021a,China,Asia
 -69.383,76.333,lake,2.6352,NA,2008,1,1,NA,NA,NA,NA,NA,NA,NA,NA,Zhu et al 2010,NA,Johnson et al 2021,Antarctica,Antarctica
 -69.383,76.333,lake,3.4704,NA,2008,1,1,NA,NA,NA,NA,NA,NA,NA,NA,Zhu et al 2010,NA,Johnson et al 2021,Antarctica,Antarctica
 69,154,lake,5.4,7.06,1997,"5,6,7",3,NA,NA,NA,NA,NA,NA,NA,NA,Zimov et al 1997,https://doi.org/10.1126/science.277.5327.800,Johnson et al 2021,Russia,Europe

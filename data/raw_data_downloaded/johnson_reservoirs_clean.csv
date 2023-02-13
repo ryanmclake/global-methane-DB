@@ -1,0 +1,233 @@
+lat,lon,waterbody_type,ch4_ebu,ch4_diff,temp,ref,country,continent
+59.63333333,-118.15,reservoir,NA,6.6,NA,Tremblay et al 2005,Canada,North America
+49.43333333,-123.25,reservoir,NA,52.90666667,NA,Tremblay et al 2005,Canada,North America
+50.31666667,-117.9,reservoir,NA,23,NA,Tremblay et al 2005,Canada,North America
+-26.7,152.8666667,reservoir,NA,4,19.2,Musenze et al 2014,Australia,Australia
+-26.7,152.8666667,reservoir,NA,13,27.2,Musenze et al 2014,Australia,Australia
+-26.7,152.8666667,reservoir,NA,4,24.8,Musenze et al 2014,Australia,Australia
+-26.7,152.8666667,reservoir,NA,7,19.6,Musenze et al 2014,Australia,Australia
+-22.51666667,-48.58333333,reservoir,3.946666667,16.94666667,NA,Dos Santos et al 2006,Brazil,South America
+46.71666667,-75.8,reservoir,NA,3.2,NA,Tremblay et al 2005,Canada,North America
+49.65,-70.15,reservoir,NA,0.106666667,NA,Tremblay et al 2005,Canada,North America
+46.4,10.01666667,reservoir,NA,0,NA,Diem et al 2012,Switzerland,Europe
+54.66666667,-70.43333333,reservoir,NA,9.8,NA,Tremblay et al 2005,Canada,North America
+46.8,-75.8,reservoir,NA,13.90666667,NA,Tremblay et al 2005,Canada,North America
+54.38333333,-69.85,reservoir,NA,9.8,NA,Tremblay et al 2005,Canada,North America
+47.26666667,-121.1,reservoir,0.546666667,1.2,NA,Harrison et al 2017,United States of America,North America
+47.26666667,-121.1,reservoir,1.57,1.49,NA,Harrison et al 2017,United States of America,North America
+-17.98333333,-48.51666667,reservoir,21,14.62666667,NA,Ometto et al 2013,Brazil,South America
+-17.98333333,-48.51666667,reservoir,505.4,69,24,Bergier et al 2011,Brazil,South America
+-17.98333333,-48.51666667,reservoir,4.4,37,28,Bergier et al 2011,Brazil,South America
+-17.98333333,-48.51666667,reservoir,505.4,69,24.5,Bergier et al 2011,Brazil,South America
+-2.816666667,-54.28333333,reservoir,38.66666667,18,NA,Duchemin et al 2000,Brazil,South America
+-2.816666667,-54.28333333,reservoir,12,20,NA,Duchemin et al 2000,Brazil,South America
+46.18333333,-90.9,reservoir,NA,7,NA,St. Louis et al 2000,United States of America,North America
+46.06666667,7.4,reservoir,NA,0.053333333,NA,Diem et al 2012,Switzerland,Europe
+46.56666667,-116.25,reservoir,NA,4.4,21.93,Soumis et al 2004,United States of America,North America
+39.85,-86.3,reservoir,NA,10.49333333,29.3,Jacinthe et al 2012,United States of America,North America
+51.5,-74,reservoir,0.426666667,7.733333333,NA,Teodoru et al 2012,Canada,North America
+51.5,-74,reservoir,NA,0.773333333,NA,Demarty et al 2009,Canada,North America
+52.78333333,-76.61666667,reservoir,NA,8,15.9,Kelly et al 1994,Canada,North America
+-6.566666667,-37.25,reservoir,22.66666667,14.66666667,26,Almeida et al 2016,Brazil,South America
+42.15,-122.6,reservoir,7.146666667,4,NA,Harrison et al 2017,United States of America,North America
+53.45,-77.1,reservoir,NA,3.8,NA,Tremblay et al 2005,Canada,North America
+27,102,reservoir,NA,2.88,NA,Kelly et al 1997,China,Asia
+47.9,-118.7666667,reservoir,NA,3.2,21.7,Soumis et al 2004,United States of America,North America
+24.88333333,121.5666667,reservoir,NA,0.68,NA,Itoh et al 2015,Taiwan,Asia
+44.41666667,-122.6166667,reservoir,52.4,3.2,NA,Harrison et al 2017,United States of America,North America
+44.41666667,-122.6166667,reservoir,169.66,7.6,NA,Harrison et al 2017,United States of America,North America
+-22.51666667,-44.55,reservoir,75.6,1.226666667,NA,Ometto et al 2013,Brazil,South America
+-20.66666667,-46.25,reservoir,22.4,6.586666667,NA,Ometto et al 2013,Brazil,South America
+9.233333333,-79.88333333,reservoir,884,NA,NA,Joyce and Jewell 2003,Panama,South America
+9.233333333,-79.88333333,reservoir,1088,NA,NA,Joyce and Jewell 2003,Panama,South America
+9.233333333,-79.88333333,reservoir,5,NA,NA,Joyce and Jewell 2003,Panama,South America
+9.233333333,-79.88333333,reservoir,524.2533333,12.4,NA,Joyce and Jewell 2003,Panama,South America
+9.233333333,-79.88333333,reservoir,804,NA,28.5,Keller and Stallard 1994,Panama,South America
+9.233333333,-79.88333333,reservoir,500,NA,28.5,Keller and Stallard 1994,Panama,South America
+9.233333333,-79.88333333,reservoir,47,NA,28.5,Keller and Stallard 1994,Panama,South America
+9.233333333,-79.88333333,reservoir,795,NA,28.5,Keller and Stallard 1994,Panama,South America
+9.233333333,-79.88333333,reservoir,195,NA,28.5,Keller and Stallard 1994,Panama,South America
+9.233333333,-79.88333333,reservoir,1302,NA,28.5,Keller and Stallard 1994,Panama,South America
+9.233333333,-79.88333333,reservoir,489,NA,28.5,Keller and Stallard 1994,Panama,South America
+9.233333333,-79.88333333,reservoir,62,NA,28.5,Keller and Stallard 1994,Panama,South America
+48.93333333,-74.95,reservoir,NA,2.706666667,NA,Tremblay et al 2005,Canada,North America
+53.15,-99.28333333,reservoir,NA,0.573333333,NA,Demarty et al 2009,Canada,North America
+50.45,-90,reservoir,NA,15.30666667,NA,Tremblay et al 2005,Canada,North America
+46.56666667,8.333333333,reservoir,NA,0.533333333,NA,Diem et al 2012,Switzerland,Europe
+46.65,7.1,reservoir,NA,0.933333333,NA,Diem et al 2012,Switzerland,Europe
+-25.38333333,-54.55,reservoir,0.6,7.906666667,NA,Dos Santos et al 2006,Brazil,South America
+-18.4,-49.05,reservoir,41.6,10.90666667,NA,Ometto et al 2013,Brazil,South America
+42.13333333,-122.0333333,reservoir,465.1466667,15.86666667,NA,Harrison et al 2017,United States of America,North America
+42.13333333,-122.0333333,reservoir,719.73,38.03,NA,Harrison et al 2017,United States of America,North America
+47.25,-121.2,reservoir,0.52,2.133333333,NA,Harrison et al 2017,United States of America,North America
+47.25,-121.2,reservoir,1.03,5.32,NA,Harrison et al 2017,United States of America,North America
+-17,28,reservoir,19.73333333,0.253333333,24.75,DelSontro et al 2011,Zimbabwe,Africa
+47.33333333,-121.3666667,reservoir,0.053333333,0.933333333,NA,Harrison et al 2017,United States of America,North America
+42.13333333,-121.95,reservoir,310.6533333,13.06666667,NA,Harrison et al 2017,United States of America,North America
+56.38333333,-94.63333333,reservoir,0,0,NA,Demarty et al 2009,Canada,North America
+49.35,-116.75,reservoir,NA,23.50666667,NA,Tremblay et al 2005,Canada,North America
+-20.15,-47.25,reservoir,4.4,4.426666667,NA,Ometto et al 2013,Brazil,South America
+-20.15,-47.25,reservoir,NA,30.8,22.3,Barros et al 2011,Brazil,South America
+-20.15,-47.25,reservoir,NA,50.66666667,22.3,Barros et al 2011,Brazil,South America
+-20.15,-47.25,reservoir,NA,38.13333333,22.3,Barros et al 2011,Brazil,South America
+54.5,-78.51666667,reservoir,NA,8.8,NA,Tremblay et al 2005,Canada,North America
+54.2,-76.13333333,reservoir,NA,8.106666667,NA,Tremblay et al 2005,Canada,North America
+54.6,-73.21666667,reservoir,NA,10.8,NA,Tremblay et al 2005,Canada,North America
+50.26666667,-96.01666667,reservoir,NA,23.8,NA,Tremblay et al 2005,Canada,North America
+45.36666667,-122.25,reservoir,79.96,8.4,NA,Harrison et al 2017,United States of America,North America
+45.36666667,-122.25,reservoir,212.29,12.42,NA,Harrison et al 2017,United States of America,North America
+54.2,-72.58333333,reservoir,NA,27.30666667,NA,Tremblay et al 2005,Canada,North America
+54.95,-70.25,reservoir,NA,7.506666667,NA,Tremblay et al 2005,Canada,North America
+19.61666667,-99.28333333,reservoir,NA,932.8,16.28,Gonzalez-Valencia et al 2014,Mexico,South America
+19.65,-99.5,reservoir,NA,114.1066667,12.14,Gonzalez-Valencia et al 2014,Mexico,South America
+18.3,-66.01666667,reservoir,67.77333333,NA,NA,Joyce and Jewell 2003,Puerto Rico,South America
+18.3,-66.01666667,reservoir,24,NA,NA,Joyce and Jewell 2003,Puerto Rico,South America
+18.3,-66.01666667,reservoir,8,NA,NA,Joyce and Jewell 2003,Puerto Rico,South America
+19.13333333,-96.15,reservoir,NA,5247.306667,28.39,Gonzalez-Valencia et al 2014,Mexico,South America
+19.51666667,-101.2333333,reservoir,NA,57.8,21.96,Gonzalez-Valencia et al 2014,Mexico,South America
+49.28333333,6.75,reservoir,113.7066667,4.64,NA,Maeck et al 2013,Germany,Europe
+-28.13333333,153.2833333,reservoir,NA,2,16.2,Musenze et al 2014,Australia,Australia
+-28.13333333,153.2833333,reservoir,NA,33,27.4,Musenze et al 2014,Australia,Australia
+-28.13333333,153.2833333,reservoir,NA,10,17.1,Musenze et al 2014,Australia,Australia
+-28.13333333,153.2833333,reservoir,294,50,23,Grinham et al 2011,Australia,Australia
+67.81666667,27.73333333,reservoir,59.53333333,6.573333333,13.2,Bastviken et al 2011,Finland,Europe
+67.81666667,27.73333333,reservoir,46.66666667,33.33333333,9.6,Bastviken et al 2011,Finland,Europe
+67.81666667,27.73333333,reservoir,115.3066667,22.86666667,13.64,Huttunen et al 2002,Finland,Europe
+67.81666667,27.73333333,reservoir,NA,7.2,13.4,Huttunen et al 2002,Finland,Europe
+67.81666667,27.73333333,reservoir,NA,8.6,13,Huttunen et al 2002,Finland,Europe
+67.81666667,27.73333333,reservoir,NA,16,13.7,Huttunen et al 2002,Finland,Europe
+67.81666667,27.73333333,reservoir,NA,19,13.1,Huttunen et al 2002,Finland,Europe
+67.81666667,27.73333333,reservoir,NA,11,12.9,Huttunen et al 2002,Finland,Europe
+67.81666667,27.73333333,reservoir,NA,20,11.5,Huttunen et al 2002,Finland,Europe
+67.81666667,27.73333333,reservoir,NA,12,9.2,Huttunen et al 2002,Finland,Europe
+67.81666667,27.73333333,reservoir,NA,5.3,9.6,Huttunen et al 2002,Finland,Europe
+67.81666667,27.73333333,reservoir,NA,10,11.8,Huttunen et al 2002,Finland,Europe
+67.81666667,27.73333333,reservoir,NA,119,8.8,Huttunen et al 2002,Finland,Europe
+67.81666667,27.73333333,reservoir,58,NA,NA,Huttunen et al 2002,Finland,Europe
+67.81666667,27.73333333,reservoir,47,NA,NA,Huttunen et al 2002,Finland,Europe
+67.81666667,27.73333333,reservoir,101,NA,NA,Huttunen et al 2002,Finland,Europe
+67.81666667,27.73333333,reservoir,55,NA,NA,Huttunen et al 2002,Finland,Europe
+67.81666667,27.73333333,reservoir,660,NA,NA,Huttunen et al 2002,Finland,Europe
+67.81666667,27.73333333,reservoir,16,NA,NA,Huttunen et al 2002,Finland,Europe
+67.81666667,27.73333333,reservoir,2.6,NA,NA,Huttunen et al 2002,Finland,Europe
+67.81666667,27.73333333,reservoir,120,NA,NA,Huttunen et al 2002,Finland,Europe
+67.81666667,27.73333333,reservoir,4.4,NA,NA,Huttunen et al 2002,Finland,Europe
+67.81666667,27.73333333,reservoir,89,NA,NA,Huttunen et al 2002,Finland,Europe
+46.8,8.166666667,reservoir,NA,0.133333333,NA,Diem et al 2012,Switzerland,Europe
+46.56666667,8.966666667,reservoir,NA,0.133333333,NA,Diem et al 2012,Switzerland,Europe
+-20.26666667,-47.05,reservoir,6.6,12.69333333,NA,Ometto et al 2013,Brazil,South America
+49.35,-68.58333333,reservoir,NA,11.30666667,NA,Tremblay et al 2005,Canada,North America
+49.76666667,-68.63333333,reservoir,NA,6,NA,Tremblay et al 2005,Canada,North America
+50.23333333,-69.03333333,reservoir,NA,1.106666667,NA,Tremblay et al 2005,Canada,North America
+51.33333333,-69.15,reservoir,NA,6.106666667,NA,Tremblay et al 2005,Canada,North America
+8.633333333,77.41666667,reservoir,0.48,0.16,33,Selvam et al 2014,India,Asia
+-14.86666667,-55.8,reservoir,NA,36.6,29,Barros et al 2011,Brazil,South America
+-14.86666667,-55.8,reservoir,NA,56,NA,Barros et al 2011,Brazil,South America
+-14.86666667,-55.76666667,reservoir,138.3066667,19.98666667,NA,Ometto et al 2013,Brazil,South America
+-14.86666667,-55.76666667,reservoir,78.10666667,15.44,NA,Ometto et al 2013,Brazil,South America
+50.38333333,-95.98333333,reservoir,NA,0.026666667,NA,Demarty et al 2009,Canada,North America
+49.48333333,6.566666667,reservoir,48.04,3.68,NA,Maeck et al 2013,Germany,Europe
+-18.91666667,-48.03333333,reservoir,NA,NA,NA,Rosa et al 2004,Brazil,South America
+-18.91666667,-48.03333333,reservoir,31.8,130.3466667,NA,Dos Santos et al 2006,Brazil,South America
+40.41666667,117,reservoir,NA,18.01333333,21,Yang et al 2014,China,Asia
+40.41666667,117,reservoir,NA,7.186666667,10.6,Li et al 2015,China,Asia
+46.01666667,-91.06666667,reservoir,NA,3,NA,St. Louis et al 2000,United States of America,North America
+18.45,102.95,reservoir,NA,NA,25,Chanudet et al 2011,Laos,Asia
+18.53333333,103.55,reservoir,NA,NA,25,Chanudet et al 2011,Laos,Asia
+17.98333333,104.95,reservoir,73.6,30.4,25,Deshmukh et al 2014,Laos,Asia
+17.98333333,104.95,reservoir,24.06,NA,25,Deshmukh et al 2014,Laos,Asia
+17.98333333,104.95,reservoir,NA,30.476,25,Deshmukh et al 2014,Laos,Asia
+17.98333333,104.95,reservoir,12.832,NA,25,Deshmukh et al 2014,Laos,Asia
+17.98333333,104.95,reservoir,NA,NA,25,Deshmukh et al 2014,Laos,Asia
+17.98333333,104.95,reservoir,NA,17.644,25,Deshmukh et al 2014,Laos,Asia
+17.98333333,104.95,reservoir,176.44,NA,25,Deshmukh et al 2014,Laos,Asia
+17.98333333,104.95,reservoir,73.784,30.476,25,Deshmukh et al 2014,Laos,Asia
+17.98333333,104.95,reservoir,72.18,NA,25,Deshmukh et al 2014,Laos,Asia
+17.98333333,104.95,reservoir,NA,NA,25,Deshmukh et al 2014,Laos,Asia
+17.98333333,104.95,reservoir,NA,NA,25,Deshmukh et al 2014,Laos,Asia
+17.98333333,104.95,reservoir,449.12,0,25,Deshmukh et al 2014,Laos,Asia
+46.08333333,-91.5,reservoir,NA,6,NA,St. Louis et al 2000,United States of America,North America
+37.98333333,-120.5166667,reservoir,NA,7.106666667,24.44,Soumis et al 2004,United States of America,North America
+46.55,8.266666667,reservoir,NA,0.4,NA,Diem et al 2012,Switzerland,Europe
+39.55,-121.4333333,reservoir,NA,4.2,23.95,Soumis et al 2004,United States of America,North America
+49.95,-69.35,reservoir,NA,0.106666667,NA,Tremblay et al 2005,Canada,North America
+50.26666667,-69.2,reservoir,NA,0.906666667,NA,Tremblay et al 2005,Canada,North America
+10.36666667,77.48333333,reservoir,45.64,0.96,29.6,Selvam et al 2014,India,Asia
+-19.83333333,-43.96666667,reservoir,733.1066667,55.34666667,NA,deMello et al 2018,Brazil,South America
+10.41666667,77.68333333,reservoir,6.08,4.64,27.5,Selvam et al 2014,India,Asia
+50.56666667,-96.2,reservoir,NA,0.106666667,NA,Tremblay et al 2005,Canada,North America
+68,26.75,reservoir,0.4,1.933333333,10.2,Bastviken et al 2011,Finland,Europe
+68,26.75,reservoir,0.8,3.506666667,13.13,Huttunen et al 2002,Finland,Europe
+68,26.75,reservoir,NA,4.8,10.2,Huttunen et al 2002,Finland,Europe
+68,26.75,reservoir,NA,2.5,11.3,Huttunen et al 2002,Finland,Europe
+68,26.75,reservoir,NA,3.7,13.3,Huttunen et al 2002,Finland,Europe
+68,26.75,reservoir,NA,3,13.4,Huttunen et al 2002,Finland,Europe
+68,26.75,reservoir,0,NA,NA,Huttunen et al 2002,Finland,Europe
+68,26.75,reservoir,0.7,NA,NA,Huttunen et al 2002,Finland,Europe
+68,26.75,reservoir,2.1,NA,NA,Huttunen et al 2002,Finland,Europe
+68,26.75,reservoir,0.2,NA,NA,Huttunen et al 2002,Finland,Europe
+49.36666667,6.683333333,reservoir,2,2.88,NA,Maeck et al 2013,Germany,Europe
+45.58333333,-73.65,reservoir,NA,0.493333333,NA,Demarty et al 2009,Canada,North America
+53.66666667,-77,reservoir,NA,7.906666667,NA,Tremblay et al 2005,Canada,North America
+53.83333333,-76,reservoir,NA,NA,NA,Duchemin et al 1995,Canada,North America
+53.66666667,-77,reservoir,NA,0.146666667,NA,Demarty et al 2009,Canada,North America
+53.66666667,-77,reservoir,NA,13,15.8,Kelly et al 1994,Canada,North America
+51,-59.88333333,reservoir,NA,6.106666667,NA,Tremblay et al 2005,Canada,North America
+50,21.98333333,reservoir,NA,NA,15.25,Gruca-Rokosz 2010,Poland,Europe
+49.23333333,6.916666667,reservoir,0,3.36,NA,Maeck et al 2013,Germany,Europe
+50.51666667,-67.06666667,reservoir,NA,4.106666667,NA,Tremblay et al 2005,Canada,North America
+51.66666667,-67.03333333,reservoir,NA,2.706666667,NA,Tremblay et al 2005,Canada,North America
+-8.8,-63.41666667,reservoir,16.52,85.57333333,NA,Rosa et al 2004,Brazil,South America
+-8.8,-63.41666667,reservoir,NA,NA,NA,Dos Santos et al 2006,Brazil,South America
+-8.8,-63.41666667,reservoir,16.45333333,87.54666667,NA,Rosa et al 2003,Brazil,South America
+46.56666667,8.8,reservoir,NA,0.266666667,7,Diem et al 2012,Switzerland,Europe
+-25.78333333,-52.1,reservoir,1.8,7,NA,Dos Santos et al 2006,Brazil,South America
+-13.85,-48.33333333,reservoir,132,9.053333333,NA,Ometto et al 2013,Brazil,South America
+-13.85,-48.33333333,reservoir,88.65333333,24.6,NA,Dos Santos et al 2006,Brazil,South America
+-13.85,-48.33333333,reservoir,NA,6.76,25,Marcelino et al 2015,Brazil,South America
+49.56666667,6.583333333,reservoir,186.6666667,NA,10,Maeck et al 2014,Germany,Europe
+49.56666667,6.583333333,reservoir,438.8,5.76,NA,Maeck et al 2013,Germany,Europe
+55.96666667,-120.4,reservoir,NA,109.5066667,NA,Tremblay et al 2005,Canada,North America
+40.85,-122.3833333,reservoir,NA,9.506666667,23.56,Soumis et al 2004,United States of America,North America
+47.13333333,8.8,reservoir,NA,0.266666667,NA,Diem et al 2012,Switzerland,Europe
+30.36666667,78.46666667,reservoir,4.786666667,23.10666667,18.9,Kumar and Sharma 2016,India,Asia
+8.383333333,77.25,reservoir,114.1866667,5.92,31,Selvam et al 2014,India,Asia
+31.03333333,109.55,reservoir,NA,57.33333333,NA,Zhen et al 2012,China,Asia
+31.03333333,109.55,reservoir,NA,49.33333333,NA,Zhen et al 2012,China,Asia
+31.03333333,109.55,reservoir,NA,2.4,NA,Li et al 2015,China,Asia
+31.03333333,109.55,reservoir,NA,7.93,18.16,Yang et al 2013,China,Asia
+31.03333333,109.55,reservoir,NA,7.2,13.5,Yang et al 2013,China,Asia
+31.03333333,109.55,reservoir,NA,24.24,22.1,Yang et al 2013,China,Asia
+31.03333333,109.55,reservoir,NA,10.32,21.6,Yang et al 2013,China,Asia
+31.03333333,109.55,reservoir,NA,3.36,13.6,Yang et al 2013,China,Asia
+31.03333333,109.55,reservoir,NA,4.08,12.9,Yang et al 2013,China,Asia
+31.03333333,109.55,reservoir,NA,8.88,23,Yang et al 2013,China,Asia
+31.03333333,109.55,reservoir,NA,6.72,23.4,Yang et al 2013,China,Asia
+31.03333333,109.55,reservoir,NA,2.64,14.7,Yang et al 2013,China,Asia
+31.03333333,109.55,reservoir,NA,2.088,12.9,Yang et al 2013,China,Asia
+31.03333333,109.55,reservoir,NA,3.36,24.9,Yang et al 2013,China,Asia
+31.03333333,109.55,reservoir,NA,1.944,22.8,Yang et al 2013,China,Asia
+31.03333333,109.55,reservoir,NA,1.992,13.7,Yang et al 2013,China,Asia
+31.03333333,109.55,reservoir,NA,6.72,12.2,Yang et al 2013,China,Asia
+31.03333333,109.55,reservoir,NA,9.36,22,Yang et al 2013,China,Asia
+31.03333333,109.55,reservoir,NA,7.44,22.9,Yang et al 2013,China,Asia
+31.03333333,109.55,reservoir,NA,2.88,14.4,Yang et al 2013,China,Asia
+31.03333333,109.55,reservoir,NA,1.2,19.7,Xiao et al 2013,China,Asia
+31.03333333,109.55,reservoir,NA,5.866666667,NA,Li et al 2015,China,Asia
+46.01666667,-91.23333333,reservoir,NA,1,NA,St. Louis et al 2000,United States of America,North America
+50.1,-68.38333333,reservoir,NA,0.106666667,NA,Tremblay et al 2005,Canada,North America
+-18.23333333,-45.25,reservoir,164.5066667,31.85333333,NA,Dos Santos et al 2006,Brazil,South America
+-18.23333333,-45.25,reservoir,NA,7.426666667,25,Marcelino et al 2015,Brazil,South America
+-3.916666667,-49.6,reservoir,68,6.333333333,NA,Lima et al 1998,Brazil,South America
+-3.916666667,-49.6,reservoir,7.706666667,101.0933333,NA,Rosa et al 2003,Brazil,South America
+-3.916666667,-49.6,reservoir,7.853333333,101.5466667,NA,Dos Santos et al 2006,Brazil,South America
+10.81666667,79.05,reservoir,49.32,5.6,35,Selvam et al 2014,India,Asia
+-20.16666667,-47.58333333,reservoir,NA,4.386666667,NA,Andrade 2014,Brazil,South America
+45.91666667,-119.1666667,reservoir,NA,9,20.4,Soumis et al 2004,United States of America,North America
+49.08333333,-117.6166667,reservoir,NA,38.8,NA,Tremblay et al 2005,Canada,North America
+49.08333333,-116.1,reservoir,NA,5.8,NA,Tremblay et al 2005,Canada,North America
+-27.38333333,152.6,reservoir,NA,3.8,18.9,Musenze et al 2014,Australia,Australia
+46.96666667,7.283333333,reservoir,330,15,17,DelSontro et al 2010,Switzerland,Europe
+49.96666667,7.316666667,reservoir,NA,2.133333333,NA,Diem et al 2012,Germany,Europe
+-9.616666667,-37.78333333,reservoir,10.74666667,29.30666667,NA,Dos Santos et al 2006,Brazil,South America
+46.35,7.433333333,reservoir,NA,0.133333333,NA,Diem et al 2012,Switzerland,Europe

@@ -16,7 +16,8 @@ EcoregionMask_hex <- st_make_valid(EcoregionMask)%>%
   st_transform("+proj=eqearth +wktext")
 
 d1 <- read_csv("./data/organized_data_to_append/global_lake_res_CH4_emission_DB_all.csv") %>%
-  group_by(lat, lon, ref, obs_year, country, continent, num_months_sampled) %>%
+  #filter(data_source != "Malerba et al 2022") %>%
+  group_by(lat, lon, ref, obs_year, country, continent, num_months_sampled, waterbody_type) %>%
   summarize(mean_ebu = mean(ch4_ebu, na.rm = T),
             sd_ebu = sd(ch4_ebu, na.rm = T),
             mean_diff = mean(ch4_diff, na.rm = T),
