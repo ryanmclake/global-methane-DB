@@ -7,22 +7,48 @@ library(sf)
 library(units)
 
 # Load in the dataset
-d1 <- vroom::vroom("./data/organized_data_to_append/global_lake_res_DB.csv")
+d1 <- vroom::vroom("./data/organized_data_to_append/global_lake_res_DB_countries.csv")
 
 # determine how many unique refs there are
 length(unique(d1$ref))
 
 # group the refs within data sources and get their global mean
-d2 <- d1 %>% group_by(data_source, ref) %>%
+d3 <- d1 %>% group_by(ref, lat, lon, obs_year, country, continent, num_months_sampled) %>%
   summarize(mean_ebu = mean(ch4_ebu, na.rm = T),
             mean_diff = mean(ch4_diff, na.rm = T),
             sd_ebu = sd(ch4_ebu, na.rm = T),
-            sd_diff = sd(ch4_diff, na.rm = T))
+            sd_diff = sd(ch4_diff, na.rm = T),
+            mean_obs_wtemp_k = mean(effective_obs_wtemp_k, na.rm = T),
+            sd_obs_wtemp_k = sd(effective_obs_wtemp_k, na.rm = T),
+            mean_cum_radiance = mean(cumulative_radiance, na.rm = T),
+            sd_cum_radiance = sd(cumulative_radiance, na.rm = T),
+            mean_TP_ugL = mean(TP_ugL, na.rm = T),
+            sd_TP_ugL = sd(TP_ugL, na.rm = T),
+            mean_littoral_area_km2 = mean(littoral_area, na.rm = T),
+            sd_littoral_area_km2 = sd(littoral_area, na.rm = T),
+            mean_surf_area_km2 = mean(surf_area_k, na.rm = T),
+            sd_surf_area_km2 = sd(surf_area_k, na.rm = T),
+            mean_depth_m = mean(mean_depth, na.rm = T),
+            sd_mean_depth_m = sd(mean_depth, na.rm = T),
+            max_depth_m = mean(max_depth, na.rm = T),
+            sd_max_depth_m = sd(max_depth, na.rm = T))
+
+
+
+month_calc <- d3 %>% group_by(num_months_sampled) %>%
+  summarize(sd_ebu = sd(mean_ebu, na.rm = T),
+            sd_diff = sd(mean_diff, na.rm = T))
+
+
+# group the number of months and get their global mean and SD
+d4 <- d3 %>% group_by(num_months) %>%
+  summarize(sd_ebu = sd(mean_ebu, na.rm = T),
+            sd_diff = sd(mean_diff, na.rm = T))
 
 # confirm that ref length is the same as original data file
-length(unique(d2$ref))
+length(unique(d3$ref))
 
-duplicates <- d2[duplicated(d2$ref) | duplicated(d2$ref, fromLast = TRUE), ]
+duplicates <- d3[duplicated(d3$ref) | duplicated(d3$ref, fromLast = TRUE), ]
 
 duplicates_J_and_R <- duplicates %>% filter(data_source %in% c("Johnson et al 2021","Rosentreter et al 2020"))
 J_R_repeats <- c(unique(duplicates_J_and_R$ref))
