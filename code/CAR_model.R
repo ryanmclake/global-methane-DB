@@ -53,3 +53,13 @@ model <- nimbleModel(code, constants = constants, data = data, inits = inits)
 
 cModel <- compileNimble(model)
 
+conf <- configureMCMC(model, monitors = c('beta', 'sigma', 's'))
+
+conf$printSamplers()
+
+MCMC <- buildMCMC(conf)
+cMCMC <- compileNimble(MCMC, project = cModel)
+
+samples <- runMCMC(cMCMC, niter = 10000, nburnin = 1000)
+
+
